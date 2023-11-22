@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "amount": 7622,
+    "cardNumber": "5048379655759836",
+    "cardType": "mastercard"
+  },
+  {
+    "id": 2,
+    "amount": 142,
+    "cardNumber": "5048376303110917",
+    "cardType": "visa"
+  },
+  {
+    "id": 3,
+    "amount": 12293,
+    "cardNumber": "5048375782136252",
+    "cardType": "maestro"
+  }
+]

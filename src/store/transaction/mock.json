@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "99277d68-8f3c-4d6f-bb5b-4a88c522e330",
+    "storeName": "Bayer, Pfannerstill and O'Conner",
+    "type": "Bank Account",
+    "amount": 603,
+    "date": "05/24/2023"
+  },
+  {
+    "id": "29fb8cac-82ad-45e6-9d48-08c5685e1e5e",
+    "storeName": "Leuschke LLC",
+    "type": "Bank Account",
+    "amount": 1014,
+    "date": "01/18/2023"
+  },
+  {
+    "id": "084ce68d-2091-4643-a487-f14c86b6f825",
+    "storeName": "Grant-Littel",
+    "type": "Bank Account",
+    "amount": 889,
+    "date": "08/18/2023"
+  },
+  {
+    "id": "2e3d7cba-e29b-4065-aa08-72629b9e0020",
+    "storeName": "Daugherty Group",
+    "type": "Bank Account",
+    "amount": 1135,
+    "date": "08/22/2023"
+  },
+  {
+    "id": "2c0d6141-aa27-4920-be95-1ef01233fa6e",
+    "storeName": "Kemmer Group",
+    "type": "Bank Account",
+    "amount": 1136,
+    "date": "10/13/2023"
+  },
+  {
+    "id": "5571d603-f9f4-4425-ab24-807c8c9e52f4",
+    "storeName": "Becker Group",
+    "type": "Bank Account",
+    "amount": 1271,
+    "date": "09/02/2023"
+  },
+  {
+    "id": "f01fe60c-03fe-4f52-a8e5-131bf6d2b7ea",
+    "storeName": "Smitham-Aufderhar",
+    "type": "Bank Account",
+    "amount": 1280,
+    "date": "09/04/2023"
+  },
+  {
+    "id": "19e3993f-e54a-40d3-8c57-9c3e7f8cf16c",
+    "storeName": "Terry, Jacobi and Beahan",
+    "type": "Bank Account",
+    "amount": 427,
+    "date": "01/21/2023"
+  },
+  {
+    "id": "92e018db-3e49-48fd-b4fb-a56b8a78095b",
+    "storeName": "Dickens, Grady and Jacobs",
+    "type": "Bank Account",
+    "amount": 1076,
+    "date": "12/26/2022"
+  },
+  {
+    "id": "20fc8304-50bf-49d4-b406-52e860f8caad",
+    "storeName": "Beatty, Schmeler and Swift",
+    "type": "Bank Account",
+    "amount": 62,
+    "date": "07/09/2022"
+  },
+  {
+    "id": "affcbdee-5c65-4a50-9d66-a06c75ef6c97",
+    "storeName": "Friesen, Paucek and Beier",
+    "type": "Bank Account",
+    "amount": 821,
+    "date": "11/08/2023"
+  },
+  {
+    "id": "0fe08a15-6c3a-471d-b7a1-2c1bb94a2129",
+    "storeName": "Strosin Group",
+    "type": "Bank Account",
+    "amount": 264,
+    "date": "05/18/2022"
+  },
+  {
+    "id": "1c90489e-57b7-48e5-a9e9-340b0be88d17",
+    "storeName": "Feeney and Sons",
+    "type": "Bank Account",
+    "amount": 619,
+    "date": "05/21/2022"
+  },
+  {
+    "id": "eed22b97-02c6-446f-b86e-1c305d52da8d",
+    "storeName": "Hills, Schamberger and Witting",
+    "type": "Bank Account",
+    "amount": 755,
+    "date": "10/17/2022"
+  },
+  {
+    "id": "7b853097-b6c4-42ea-a652-7eb2f8e0c4d5",
+    "storeName": "Waters-Cartwright",
+    "type": "Bank Account",
+    "amount": 482,
+    "date": "04/22/2022"
+  },
+  {
+    "id": "9c945043-9a76-49c9-a32b-a95782d05837",
+    "storeName": "Becker Inc",
+    "type": "Bank Account",
+    "amount": 365,
+    "date": "12/08/2022"
+  },
+  {
+    "id": "8be2fead-8cdf-43ce-971e-6ca66942570a",
+    "storeName": "Fritsch, Koelpin and Purdy",
+    "type": "Bank Account",
+    "amount": 145,
+    "date": "03/21/2022"
+  },
+  {
+    "id": "d6e3d1cf-8a8c-4dc7-b9e6-c49578ee1b54",
+    "storeName": "Kerluke and Sons",
+    "type": "Bank Account",
+    "amount": 938,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "560d9967-11bc-4edf-bb0b-36a578aa2a9a",
+    "storeName": "Kessler LLC",
+    "type": "Bank Account",
+    "amount": 836,
+    "date": "02/09/2022"
+  },
+  {
+    "id": "5f40907a-7eff-42b0-8ef0-6c6ad31b2659",
+    "storeName": "Bogan-Johnston",
+    "type": "Bank Account",
+    "amount": 243,
+    "date": "02/03/2023"
+  },
+  {
+    "id": "605b8fe7-1ed1-4bf8-9b80-aac057171013",
+    "storeName": "Kiehn-Harvey",
+    "type": "Bank Account",
+    "amount": 862,
+    "date": "04/22/2022"
+  },
+  {
+    "id": "9f5436dd-1572-4024-8ade-beb3125fafb8",
+    "storeName": "Ryan-Hermann",
+    "type": "Bank Account",
+    "amount": 304,
+    "date": "10/26/2022"
+  },
+  {
+    "id": "85c04e4c-046b-479a-9cdf-c546f09b8b03",
+    "storeName": "Hickle, Johnston and West",
+    "type": "Bank Account",
+    "amount": 39,
+    "date": "10/27/2023"
+  },
+  {
+    "id": "dcf33672-882e-4f9f-9527-76f1d11230be",
+    "storeName": "Will, Schmitt and Bergnaum",
+    "type": "Bank Account",
+    "amount": 887,
+    "date": "07/20/2023"
+  },
+  {
+    "id": "9733ee19-76ea-4208-a0a9-c9235e5ab703",
+    "storeName": "D'Amore-Leuschke",
+    "type": "Bank Account",
+    "amount": 1160,
+    "date": "04/04/2022"
+  },
+  {
+    "id": "066514e0-2638-4a60-895f-3db3686d63b3",
+    "storeName": "Dooley, Smith and Frami",
+    "type": "Cash",
+    "amount": 507,
+    "date": "04/29/2023"
+  },
+  {
+    "id": "8c239a44-a036-4d7e-b0f8-25d5d9242a7f",
+    "storeName": "Cummings Inc",
+    "type": "Bank Account",
+    "amount": 1059,
+    "date": "02/16/2022"
+  },
+  {
+    "id": "8760abb7-3273-4021-8c1d-988736850175",
+    "storeName": "Hartmann-Roob",
+    "type": "Bank Account",
+    "amount": 576,
+    "date": "11/26/2023"
+  },
+  {
+    "id": "3d0aeeef-27f7-485d-8e36-299593845acf",
+    "storeName": "Waelchi-Langworth",
+    "type": "Cash",
+    "amount": 932,
+    "date": "03/11/2023"
+  },
+  {
+    "id": "25403abf-52b3-4f58-a08f-fc8d4cbc4b54",
+    "storeName": "Reinger, Nitzsche and Harvey",
+    "type": "Bank Account",
+    "amount": 603,
+    "date": "03/24/2022"
+  },
+  {
+    "id": "5edd8878-81eb-4a1e-8e50-a82bbba205d9",
+    "storeName": "Collier and Sons",
+    "type": "Bank Account",
+    "amount": 232,
+    "date": "01/06/2022"
+  },
+  {
+    "id": "c7b9afe9-99f5-4851-a12c-e318c16a25d3",
+    "storeName": "Moore-Grant",
+    "type": "Bank Account",
+    "amount": 232,
+    "date": "03/20/2022"
+  },
+  {
+    "id": "5795fcb5-3a14-4ed8-8daf-ec29b814216a",
+    "storeName": "Blick-Gleason",
+    "type": "Bank Account",
+    "amount": 452,
+    "date": "11/29/2022"
+  },
+  {
+    "id": "22163dd6-c016-4b2b-ad96-44dfc65ce658",
+    "storeName": "Boehm Group",
+    "type": "Bank Account",
+    "amount": 900,
+    "date": "03/17/2023"
+  },
+  {
+    "id": "03975c6f-a7d7-44db-8141-0312333172a2",
+    "storeName": "Spinka, Ullrich and Schowalter",
+    "type": "Bank Account",
+    "amount": 1050,
+    "date": "01/09/2023"
+  },
+  {
+    "id": "bbdc0e65-6f80-4f0f-823f-9aa583cdb137",
+    "storeName": "Lynch-Morissette",
+    "type": "Bank Account",
+    "amount": 1048,
+    "date": "10/09/2022"
+  },
+  {
+    "id": "b7226db9-ce7b-417d-b471-489c6da45138",
+    "storeName": "Ratke-Corkery",
+    "type": "Bank Account",
+    "amount": 714,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "d6945a4f-5188-40cd-a10e-5b6b85fb2476",
+    "storeName": "O'Hara LLC",
+    "type": "Bank Account",
+    "amount": 1154,
+    "date": "04/21/2022"
+  },
+  {
+    "id": "4a23efd2-3837-4475-8209-cda9cc6939a2",
+    "storeName": "Bahringer, Murray and Funk",
+    "type": "Cash",
+    "amount": 1195,
+    "date": "02/21/2023"
+  },
+  {
+    "id": "c74fe14f-1dfa-407d-b1cd-8f4820b6dc27",
+    "storeName": "Kessler-Stanton",
+    "type": "Bank Account",
+    "amount": 640,
+    "date": "03/27/2022"
+  },
+  {
+    "id": "172e135c-3d98-4285-a071-9dcd167fa177",
+    "storeName": "O'Conner-Balistreri",
+    "type": "Bank Account",
+    "amount": 1044,
+    "date": "08/01/2023"
+  },
+  {
+    "id": "672a91c2-aab4-4d65-a31b-027246b88916",
+    "storeName": "Price, Rau and Huel",
+    "type": "Bank Account",
+    "amount": 902,
+    "date": "10/08/2023"
+  },
+  {
+    "id": "04f5b480-1082-4424-b497-c82a037bb877",
+    "storeName": "Bednar, Crooks and Haag",
+    "type": "Bank Account",
+    "amount": 615,
+    "date": "12/14/2022"
+  },
+  {
+    "id": "407fbd7b-54e6-45ae-80e2-0a36e1ede95c",
+    "storeName": "Ziemann Group",
+    "type": "Bank Account",
+    "amount": 139,
+    "date": "08/31/2023"
+  },
+  {
+    "id": "af02b478-5604-4593-89aa-e2011c89d87d",
+    "storeName": "Ondricka-Hettinger",
+    "type": "Bank Account",
+    "amount": 18,
+    "date": "01/11/2023"
+  },
+  {
+    "id": "8ec4f1f1-1d1c-4583-bb02-063e23ff36f9",
+    "storeName": "Wisozk-Johnson",
+    "type": "Bank Account",
+    "amount": 341,
+    "date": "05/21/2023"
+  },
+  {
+    "id": "74641828-c2f4-4ffc-bee6-bd02004d5a3c",
+    "storeName": "Schmeler Inc",
+    "type": "Bank Account",
+    "amount": 1228,
+    "date": "12/10/2022"
+  },
+  {
+    "id": "61b63891-5c1c-4fd6-b9ea-2bd935e31b48",
+    "storeName": "Kub-Bosco",
+    "type": "Bank Account",
+    "amount": 18,
+    "date": "04/13/2023"
+  },
+  {
+    "id": "1de4a822-e839-48df-862b-e292865da2b8",
+    "storeName": "Anderson-Kilback",
+    "type": "Bank Account",
+    "amount": 42,
+    "date": "09/08/2023"
+  },
+  {
+    "id": "0c3c515c-f145-4eb9-b0bb-37e7a97d7c4c",
+    "storeName": "Krajcik, Feeney and Jacobi",
+    "type": "Bank Account",
+    "amount": 298,
+    "date": "11/28/2022"
+  },
+  {
+    "id": "486336db-5f15-4465-bb83-6fd075fd598f",
+    "storeName": "Heaney-Koepp",
+    "type": "Bank Account",
+    "amount": 1031,
+    "date": "09/08/2022"
+  },
+  {
+    "id": "2ae54a2e-90dd-476f-a923-f3048e302aee",
+    "storeName": "Schoen, Fahey and Lubowitz",
+    "type": "Bank Account",
+    "amount": 454,
+    "date": "01/06/2022"
+  },
+  {
+    "id": "7aa6595d-47bc-453a-a9e6-6ceca364ab20",
+    "storeName": "Goodwin-Cartwright",
+    "type": "Bank Account",
+    "amount": 673,
+    "date": "02/25/2023"
+  },
+  {
+    "id": "2e47f30d-aebb-43ba-96a7-8b1e802ec571",
+    "storeName": "Senger, Kreiger and Keeling",
+    "type": "Cash",
+    "amount": 1080,
+    "date": "03/27/2023"
+  },
+  {
+    "id": "c9702606-6dee-45c0-83ee-9eca0fda59ca",
+    "storeName": "Hirthe, Tremblay and Corkery",
+    "type": "Bank Account",
+    "amount": 53,
+    "date": "01/13/2022"
+  },
+  {
+    "id": "ae4e1e0e-baa8-4e8e-9b21-32158d60e343",
+    "storeName": "Johnston-Pollich",
+    "type": "Bank Account",
+    "amount": 1113,
+    "date": "11/23/2022"
+  },
+  {
+    "id": "43763091-0467-425f-9450-4baf626077b2",
+    "storeName": "Emard and Sons",
+    "type": "Bank Account",
+    "amount": 854,
+    "date": "08/24/2022"
+  },
+  {
+    "id": "f969a54a-07b1-43c7-9a93-079321d9988d",
+    "storeName": "Hermiston, Witting and Rowe",
+    "type": "Bank Account",
+    "amount": 1154,
+    "date": "09/23/2023"
+  },
+  {
+    "id": "c172ec38-178f-4441-bfc2-440fec3892c1",
+    "storeName": "Spinka, Fritsch and Kemmer",
+    "type": "Cash",
+    "amount": 88,
+    "date": "08/21/2022"
+  },
+  {
+    "id": "973dca80-f1e1-4528-befe-6e645bdec856",
+    "storeName": "Thiel LLC",
+    "type": "Bank Account",
+    "amount": 654,
+    "date": "05/12/2023"
+  },
+  {
+    "id": "cf46d834-6120-4e7c-9a72-4ba8e2a98494",
+    "storeName": "Runolfsson, Cassin and Kshlerin",
+    "type": "Cash",
+    "amount": 971,
+    "date": "03/29/2022"
+  },
+  {
+    "id": "d215c6dd-b430-4a55-8a4c-aa03eba80731",
+    "storeName": "Lockman-McClure",
+    "type": "Bank Account",
+    "amount": 1076,
+    "date": "12/13/2022"
+  },
+  {
+    "id": "530d2a16-dbba-4569-a63f-99d10f0b0598",
+    "storeName": "Huels Group",
+    "type": "Bank Account",
+    "amount": 1061,
+    "date": "04/24/2022"
+  },
+  {
+    "id": "094a3617-6a10-40e1-a2c9-b00651881e87",
+    "storeName": "Rogahn, Borer and Legros",
+    "type": "Bank Account",
+    "amount": 434,
+    "date": "08/23/2022"
+  },
+  {
+    "id": "244992f3-c8e4-4c8d-b37a-8907366a604a",
+    "storeName": "Bernhard, Schmeler and Boyle",
+    "type": "Cash",
+    "amount": 1176,
+    "date": "01/30/2023"
+  },
+  {
+    "id": "af5b5f64-efe0-448f-80e1-38f189be3e65",
+    "storeName": "Hills-Hayes",
+    "type": "Bank Account",
+    "amount": 42,
+    "date": "11/25/2022"
+  },
+  {
+    "id": "86e9ace1-5c4a-495e-9d6f-1a9055bdd36b",
+    "storeName": "Stoltenberg Inc",
+    "type": "Bank Account",
+    "amount": 1048,
+    "date": "06/16/2023"
+  },
+  {
+    "id": "d3e37e76-971e-464e-a3da-50c537e8909e",
+    "storeName": "Quitzon, Cummings and Roberts",
+    "type": "Bank Account",
+    "amount": 86,
+    "date": "08/24/2022"
+  },
+  {
+    "id": "745ecdb4-eecf-456d-8b0a-c390fca04e56",
+    "storeName": "Bergnaum, Denesik and Runolfsson",
+    "type": "Bank Account",
+    "amount": 292,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "4c87f78b-b26f-4fa9-b91d-388ab6bcf0a1",
+    "storeName": "Kulas-Jaskolski",
+    "type": "Bank Account",
+    "amount": 746,
+    "date": "06/16/2022"
+  },
+  {
+    "id": "b9f02d21-7336-4454-8850-605bc4261a7c",
+    "storeName": "Heidenreich, Kreiger and Ritchie",
+    "type": "Bank Account",
+    "amount": 970,
+    "date": "03/18/2022"
+  },
+  {
+    "id": "94e74675-6374-44c5-bf58-ce9fb46ee8f9",
+    "storeName": "Kerluke LLC",
+    "type": "Bank Account",
+    "amount": 242,
+    "date": "01/04/2023"
+  },
+  {
+    "id": "b3192bfc-e684-420a-bc9c-37aedf992a29",
+    "storeName": "Hirthe-Wolff",
+    "type": "Bank Account",
+    "amount": 457,
+    "date": "08/06/2023"
+  },
+  {
+    "id": "93e9424e-5491-4ed6-8dc1-fde4bb6a393a",
+    "storeName": "Schoen, Lockman and Becker",
+    "type": "Bank Account",
+    "amount": 251,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "69ac46c2-75f5-4459-ad06-6c5b849fb4f5",
+    "storeName": "Schowalter LLC",
+    "type": "Bank Account",
+    "amount": 291,
+    "date": "05/19/2022"
+  },
+  {
+    "id": "e5a551f9-92f7-450f-b32a-5e6e003ce3e1",
+    "storeName": "Fahey-Witting",
+    "type": "Cash",
+    "amount": 795,
+    "date": "07/03/2022"
+  },
+  {
+    "id": "26a3880a-ebe6-4616-a20e-cc53633285d4",
+    "storeName": "Emard Inc",
+    "type": "Bank Account",
+    "amount": 1170,
+    "date": "11/12/2022"
+  },
+  {
+    "id": "c2f75e2f-3d3d-4a7e-998b-3d976d97a9ce",
+    "storeName": "Huels LLC",
+    "type": "Bank Account",
+    "amount": 795,
+    "date": "11/27/2022"
+  },
+  {
+    "id": "dd8e5d45-d0a3-45d4-958b-cb5d34a986c6",
+    "storeName": "Rolfson-Torphy",
+    "type": "Bank Account",
+    "amount": 542,
+    "date": "01/31/2023"
+  },
+  {
+    "id": "197d2fc7-a143-4ef1-9878-5de1baa4a125",
+    "storeName": "Hartmann-Mayer",
+    "type": "Bank Account",
+    "amount": 1257,
+    "date": "11/02/2022"
+  },
+  {
+    "id": "310a0cc4-c8a6-41d9-8f75-378c2186a67a",
+    "storeName": "Wiza-Spencer",
+    "type": "Bank Account",
+    "amount": 77,
+    "date": "11/25/2022"
+  },
+  {
+    "id": "76562775-ef84-4e5d-95a0-1c5640c5bd7d",
+    "storeName": "Quigley LLC",
+    "type": "Cash",
+    "amount": 37,
+    "date": "01/20/2023"
+  },
+  {
+    "id": "b3b87036-951d-44aa-9df9-ddc803872f92",
+    "storeName": "Durgan-Harvey",
+    "type": "Bank Account",
+    "amount": 555,
+    "date": "09/17/2023"
+  },
+  {
+    "id": "d5de2390-fa21-400a-8fa4-225524e9379d",
+    "storeName": "Kemmer, Schmeler and Predovic",
+    "type": "Bank Account",
+    "amount": 250,
+    "date": "09/29/2022"
+  },
+  {
+    "id": "58e41107-c38d-43ee-aa1e-3c011ad958fd",
+    "storeName": "Krajcik and Sons",
+    "type": "Bank Account",
+    "amount": 711,
+    "date": "07/29/2023"
+  },
+  {
+    "id": "aa6399d8-74a6-4836-aba3-0b7fb60e554a",
+    "storeName": "Predovic, Macejkovic and Lang",
+    "type": "Bank Account",
+    "amount": 1020,
+    "date": "09/09/2022"
+  },
+  {
+    "id": "e6b9f87e-5f76-4829-8e51-479f1d890193",
+    "storeName": "Spencer-Parisian",
+    "type": "Cash",
+    "amount": 23,
+    "date": "03/29/2022"
+  },
+  {
+    "id": "d28f078e-5789-4e0b-8784-9448d89eafd2",
+    "storeName": "Greenholt-Rogahn",
+    "type": "Bank Account",
+    "amount": 265,
+    "date": "12/28/2022"
+  },
+  {
+    "id": "f78f6c11-e2b3-496b-b4c9-0887a6ee2538",
+    "storeName": "Goodwin LLC",
+    "type": "Bank Account",
+    "amount": 759,
+    "date": "09/04/2023"
+  },
+  {
+    "id": "ad183dc7-a472-4337-9f08-66052e20d62d",
+    "storeName": "Wisozk-Kreiger",
+    "type": "Bank Account",
+    "amount": 373,
+    "date": "09/26/2022"
+  },
+  {
+    "id": "2f5cf2d5-b427-44c3-b390-477583f2b4f6",
+    "storeName": "Pagac Inc",
+    "type": "Bank Account",
+    "amount": 853,
+    "date": "04/04/2023"
+  },
+  {
+    "id": "81d76431-047c-419b-b910-39eddb7fd9be",
+    "storeName": "Muller, McCullough and Pollich",
+    "type": "Bank Account",
+    "amount": 1026,
+    "date": "11/16/2023"
+  },
+  {
+    "id": "4a50fdff-0c5e-420d-89e5-2e4eedad2fd3",
+    "storeName": "Huels, Pouros and Purdy",
+    "type": "Bank Account",
+    "amount": 526,
+    "date": "08/22/2022"
+  },
+  {
+    "id": "007aab96-965f-4136-a6a6-5fdfc1bbdfff",
+    "storeName": "Labadie and Sons",
+    "type": "Bank Account",
+    "amount": 756,
+    "date": "07/27/2023"
+  },
+  {
+    "id": "76d4dc4a-c7df-493c-b2c6-28fee5732f7d",
+    "storeName": "Cummerata and Sons",
+    "type": "Bank Account",
+    "amount": 64,
+    "date": "06/25/2022"
+  },
+  {
+    "id": "29894aff-66ec-4540-9113-e1de2155530e",
+    "storeName": "Kshlerin-Rosenbaum",
+    "type": "Bank Account",
+    "amount": 140,
+    "date": "07/20/2023"
+  },
+  {
+    "id": "37884700-05e7-4ada-ae8e-feeb602c34f8",
+    "storeName": "Champlin, Macejkovic and Romaguera",
+    "type": "Bank Account",
+    "amount": 428,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "6d05c80e-535f-41bc-addf-ed62f3c1cfeb",
+    "storeName": "Rice Group",
+    "type": "Bank Account",
+    "amount": 714,
+    "date": "06/14/2023"
+  },
+  {
+    "id": "09e220e7-3979-438f-a3d4-8106f38f58e7",
+    "storeName": "Kihn and Sons",
+    "type": "Bank Account",
+    "amount": 45,
+    "date": "04/17/2023"
+  },
+  {
+    "id": "a885d2e8-7664-436d-a7c2-ab1c086ae584",
+    "storeName": "Gorczany, Harvey and Corkery",
+    "type": "Bank Account",
+    "amount": 29,
+    "date": "03/25/2022"
+  },
+  {
+    "id": "78048345-5b79-4eba-a169-4605327b6f13",
+    "storeName": "Zulauf, Schimmel and Krajcik",
+    "type": "Bank Account",
+    "amount": 648,
+    "date": "09/29/2023"
+  },
+  {
+    "id": "ead288b5-9f9f-4ca6-a2c6-02dfbff704d3",
+    "storeName": "Maggio Inc",
+    "type": "Bank Account",
+    "amount": 541,
+    "date": "05/12/2023"
+  },
+  {
+    "id": "c255e698-17d6-465a-ac19-c8e1e1ea1908",
+    "storeName": "Parisian, Bergnaum and Cummerata",
+    "type": "Cash",
+    "amount": 731,
+    "date": "08/24/2022"
+  },
+  {
+    "id": "dd264424-ed7f-4260-9a43-c77f5c333fd0",
+    "storeName": "Fay-Price",
+    "type": "Bank Account",
+    "amount": 9,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "c1530e54-0421-4a85-832e-32ef109a0529",
+    "storeName": "Wilderman LLC",
+    "type": "Bank Account",
+    "amount": 407,
+    "date": "07/12/2022"
+  },
+  {
+    "id": "8e98cb48-de31-43bb-9786-f9f5d94c5bf9",
+    "storeName": "Boyle, Frami and Auer",
+    "type": "Bank Account",
+    "amount": 512,
+    "date": "03/22/2022"
+  },
+  {
+    "id": "467b015b-f14c-4d13-9e19-adf56025fcaf",
+    "storeName": "Hayes Inc",
+    "type": "Bank Account",
+    "amount": 1238,
+    "date": "04/11/2022"
+  },
+  {
+    "id": "92da8ba5-1ae9-4451-8755-63c4bdbf34d4",
+    "storeName": "Ward-Turcotte",
+    "type": "Bank Account",
+    "amount": 110,
+    "date": "06/02/2022"
+  },
+  {
+    "id": "db9fcb89-3b36-468a-8b46-e1853ad2e2bd",
+    "storeName": "Roberts LLC",
+    "type": "Bank Account",
+    "amount": 988,
+    "date": "03/17/2022"
+  },
+  {
+    "id": "a439e543-79dc-41d1-b65c-e7dcdb593931",
+    "storeName": "Torp, Stroman and Farrell",
+    "type": "Bank Account",
+    "amount": 681,
+    "date": "09/30/2022"
+  },
+  {
+    "id": "1a89b41f-af48-44f3-b2c8-62264c282311",
+    "storeName": "Hyatt, Blanda and Raynor",
+    "type": "Bank Account",
+    "amount": 66,
+    "date": "03/08/2023"
+  },
+  {
+    "id": "71ef5c68-7afc-4372-ad88-a1f7b626743c",
+    "storeName": "D'Amore, Collins and Abshire",
+    "type": "Bank Account",
+    "amount": 1211,
+    "date": "06/22/2022"
+  },
+  {
+    "id": "36a94ac0-509e-4042-bff6-94c7b15ee24b",
+    "storeName": "Barton Group",
+    "type": "Bank Account",
+    "amount": 861,
+    "date": "02/24/2023"
+  },
+  {
+    "id": "5535bcd2-63ee-4454-8605-71ceafe2bef8",
+    "storeName": "Hansen Inc",
+    "type": "Bank Account",
+    "amount": 917,
+    "date": "11/26/2023"
+  },
+  {
+    "id": "6bbf0702-dbc3-4793-955a-8d6cb3fb6b2d",
+    "storeName": "Hermann-Rempel",
+    "type": "Cash",
+    "amount": 1209,
+    "date": "09/16/2023"
+  },
+  {
+    "id": "88128e48-2c84-492a-b64f-78dcb417c9cc",
+    "storeName": "Hirthe-Nikolaus",
+    "type": "Bank Account",
+    "amount": 55,
+    "date": "08/16/2022"
+  },
+  {
+    "id": "3bffc1e1-93f7-48fb-b995-e2034ebbc479",
+    "storeName": "Price, Dach and Watsica",
+    "type": "Bank Account",
+    "amount": 288,
+    "date": "06/02/2022"
+  },
+  {
+    "id": "dfdb0602-0b37-47df-976a-5be66cef15d6",
+    "storeName": "Bergnaum Group",
+    "type": "Bank Account",
+    "amount": 998,
+    "date": "03/06/2022"
+  },
+  {
+    "id": "9c0fdc86-fb64-41e4-a023-162d9dc5a4b6",
+    "storeName": "Fahey, Schaefer and Turner",
+    "type": "Bank Account",
+    "amount": 1234,
+    "date": "07/04/2023"
+  },
+  {
+    "id": "cf1e842b-af71-4ab0-a3b4-ba2c25697c52",
+    "storeName": "Farrell-Lakin",
+    "type": "Bank Account",
+    "amount": 172,
+    "date": "10/20/2022"
+  },
+  {
+    "id": "00960183-f806-4e92-94c7-8f3eb6e86f8a",
+    "storeName": "Braun LLC",
+    "type": "Bank Account",
+    "amount": 988,
+    "date": "08/20/2022"
+  },
+  {
+    "id": "6b1d7693-367e-4080-b5ab-a980b572a35b",
+    "storeName": "Blick LLC",
+    "type": "Bank Account",
+    "amount": 548,
+    "date": "11/07/2022"
+  },
+  {
+    "id": "268f3c28-c3fc-4cee-8158-c28dbfff5cc2",
+    "storeName": "Dibbert, Bradtke and Ankunding",
+    "type": "Cash",
+    "amount": 441,
+    "date": "03/18/2023"
+  },
+  {
+    "id": "a97bc9aa-b865-4509-a7f0-1c2c9fcec46c",
+    "storeName": "Reinger, Schulist and Becker",
+    "type": "Bank Account",
+    "amount": 892,
+    "date": "03/20/2022"
+  },
+  {
+    "id": "68e6bf5c-ccfa-4afa-a49e-d0c9d249ba45",
+    "storeName": "Renner Inc",
+    "type": "Bank Account",
+    "amount": 683,
+    "date": "05/10/2023"
+  },
+  {
+    "id": "82b2b211-cd91-4964-b763-0de16b78477e",
+    "storeName": "Roberts LLC",
+    "type": "Bank Account",
+    "amount": 1288,
+    "date": "12/08/2022"
+  },
+  {
+    "id": "2d02d239-a619-4c31-ac3e-0868e594910c",
+    "storeName": "Walsh-Bartell",
+    "type": "Bank Account",
+    "amount": 627,
+    "date": "10/23/2023"
+  },
+  {
+    "id": "0b4c1a32-bd25-4cee-9c33-efe6165f02b2",
+    "storeName": "Schamberger-Crona",
+    "type": "Bank Account",
+    "amount": 393,
+    "date": "06/14/2023"
+  },
+  {
+    "id": "13ce46ea-8904-4e6d-ab04-c1fd61386716",
+    "storeName": "Towne LLC",
+    "type": "Cash",
+    "amount": 1126,
+    "date": "03/10/2023"
+  },
+  {
+    "id": "e02dc61c-f29f-4b12-a869-6db1c228491a",
+    "storeName": "Abernathy and Sons",
+    "type": "Bank Account",
+    "amount": 576,
+    "date": "04/27/2022"
+  },
+  {
+    "id": "35e61de4-71cc-4e66-bef9-1ad2e7a37f8d",
+    "storeName": "Crist Group",
+    "type": "Bank Account",
+    "amount": 1174,
+    "date": "02/15/2023"
+  },
+  {
+    "id": "357c3ae4-918d-45c9-9f51-31d71827f511",
+    "storeName": "Zboncak, Zieme and Harber",
+    "type": "Bank Account",
+    "amount": 124,
+    "date": "06/02/2022"
+  },
+  {
+    "id": "3d801cf6-ba1b-43f0-ae09-766b3b2d0300",
+    "storeName": "Lang-Nitzsche",
+    "type": "Bank Account",
+    "amount": 567,
+    "date": "03/22/2022"
+  },
+  {
+    "id": "3eedb55c-0e8a-494b-8226-942b37c569c3",
+    "storeName": "O'Conner-Cole",
+    "type": "Bank Account",
+    "amount": 533,
+    "date": "05/03/2023"
+  },
+  {
+    "id": "cd4077d4-803e-439c-b408-2525c2a7c8f4",
+    "storeName": "Kshlerin Group",
+    "type": "Bank Account",
+    "amount": 52,
+    "date": "02/06/2023"
+  },
+  {
+    "id": "a24f5afd-4b75-4f2c-b4f8-44ec7b395447",
+    "storeName": "Johnson and Sons",
+    "type": "Bank Account",
+    "amount": 1252,
+    "date": "07/23/2022"
+  },
+  {
+    "id": "df5a3a30-09ba-4230-a34c-320a28db6c9c",
+    "storeName": "Wuckert Inc",
+    "type": "Bank Account",
+    "amount": 630,
+    "date": "07/26/2022"
+  },
+  {
+    "id": "da54efe8-536b-4519-a863-e55e0f786d60",
+    "storeName": "Haley, Watsica and Deckow",
+    "type": "Bank Account",
+    "amount": 1068,
+    "date": "03/22/2023"
+  },
+  {
+    "id": "9f45a936-f16b-426c-8c9f-f569515e9928",
+    "storeName": "Robel-Bins",
+    "type": "Bank Account",
+    "amount": 301,
+    "date": "05/05/2022"
+  },
+  {
+    "id": "9b965694-cbcf-42cf-996c-c9d3b965318d",
+    "storeName": "Schultz-Haley",
+    "type": "Bank Account",
+    "amount": 858,
+    "date": "04/12/2022"
+  },
+  {
+    "id": "dfc9e3ec-43ac-4708-a0d7-2300b5c9e1dc",
+    "storeName": "Zulauf, Ziemann and DuBuque",
+    "type": "Bank Account",
+    "amount": 588,
+    "date": "12/11/2022"
+  },
+  {
+    "id": "9fe1729f-dad6-471d-a0e0-b91a2741d01b",
+    "storeName": "Skiles-Dach",
+    "type": "Bank Account",
+    "amount": 999,
+    "date": "06/20/2022"
+  },
+  {
+    "id": "db575f39-dad3-423e-bf0c-b701655016de",
+    "storeName": "Brakus-Monahan",
+    "type": "Bank Account",
+    "amount": 1176,
+    "date": "11/24/2023"
+  },
+  {
+    "id": "a8752ef5-696a-4813-9a75-4ea1c5021fca",
+    "storeName": "Haley-Dach",
+    "type": "Bank Account",
+    "amount": 120,
+    "date": "08/03/2022"
+  },
+  {
+    "id": "18ab9c41-1062-4fbe-85a2-a8458f008663",
+    "storeName": "Wuckert, Mueller and Smitham",
+    "type": "Bank Account",
+    "amount": 495,
+    "date": "07/29/2023"
+  },
+  {
+    "id": "b4a39aa4-9ef5-4610-b0a4-903ab54b91d4",
+    "storeName": "Sporer and Sons",
+    "type": "Bank Account",
+    "amount": 147,
+    "date": "08/20/2022"
+  },
+  {
+    "id": "9df1cb69-e66f-4af5-b8e9-2dcf59c4544d",
+    "storeName": "Ledner-Bartell",
+    "type": "Bank Account",
+    "amount": 804,
+    "date": "07/19/2022"
+  },
+  {
+    "id": "6a4fe3a0-20d4-45ef-b835-c50331a8ef7d",
+    "storeName": "Greenholt, Lemke and Mueller",
+    "type": "Bank Account",
+    "amount": 401,
+    "date": "07/02/2022"
+  },
+  {
+    "id": "05bbbcc7-cce4-493f-9b78-8d99df7990b9",
+    "storeName": "Langworth Group",
+    "type": "Bank Account",
+    "amount": 254,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "6d6187a1-179f-4e98-a91b-a43b2242523a",
+    "storeName": "Bednar-Dare",
+    "type": "Cash",
+    "amount": 311,
+    "date": "08/06/2023"
+  },
+  {
+    "id": "8c397bb1-b694-4581-b5f5-dfb78b04b9a2",
+    "storeName": "Auer Group",
+    "type": "Bank Account",
+    "amount": 1009,
+    "date": "06/20/2022"
+  },
+  {
+    "id": "25a28070-373e-4d5e-b9ff-c50cb7d4910d",
+    "storeName": "Wisoky Inc",
+    "type": "Bank Account",
+    "amount": 484,
+    "date": "05/06/2023"
+  },
+  {
+    "id": "07587d37-fd72-4362-be5d-a1991e9732cd",
+    "storeName": "Nolan Group",
+    "type": "Bank Account",
+    "amount": 1280,
+    "date": "12/23/2022"
+  },
+  {
+    "id": "12083404-465e-4e9b-bbee-60556ce9652b",
+    "storeName": "Larkin, Kshlerin and Johnson",
+    "type": "Bank Account",
+    "amount": 855,
+    "date": "03/19/2023"
+  },
+  {
+    "id": "d91ef1e3-a7f1-4076-8f02-ba5e7a1bbd14",
+    "storeName": "Steuber-Reilly",
+    "type": "Bank Account",
+    "amount": 649,
+    "date": "05/15/2023"
+  },
+  {
+    "id": "b387c890-d577-4e0d-8203-0d27f47ac3ec",
+    "storeName": "Conn LLC",
+    "type": "Bank Account",
+    "amount": 10,
+    "date": "09/29/2023"
+  },
+  {
+    "id": "a6bae3a3-1b9d-4e9e-8c70-5ca63a1629da",
+    "storeName": "Jenkins and Sons",
+    "type": "Cash",
+    "amount": 86,
+    "date": "10/25/2022"
+  },
+  {
+    "id": "602a571e-4070-46a8-b73c-e8fbc6c93fcd",
+    "storeName": "Strosin Inc",
+    "type": "Bank Account",
+    "amount": 789,
+    "date": "06/06/2022"
+  },
+  {
+    "id": "055a4569-c1ba-4dee-abe0-31a315c0c63c",
+    "storeName": "Abbott-Hirthe",
+    "type": "Bank Account",
+    "amount": 735,
+    "date": "02/05/2022"
+  },
+  {
+    "id": "d95bf983-4a8f-48d8-a4cb-8b6a3cd820f1",
+    "storeName": "Dare Group",
+    "type": "Bank Account",
+    "amount": 3,
+    "date": "01/28/2022"
+  },
+  {
+    "id": "11fb2a67-59a5-4b0a-983f-23b6612977dd",
+    "storeName": "Pfeffer-Pfeffer",
+    "type": "Bank Account",
+    "amount": 971,
+    "date": "06/14/2023"
+  },
+  {
+    "id": "49935798-35a1-425e-aee0-3043bd82d44d",
+    "storeName": "Ortiz, Moore and Russel",
+    "type": "Bank Account",
+    "amount": 743,
+    "date": "06/07/2023"
+  },
+  {
+    "id": "3e58e776-7cb8-4f99-8030-f4853e2e0647",
+    "storeName": "Kirlin-Legros",
+    "type": "Bank Account",
+    "amount": 206,
+    "date": "06/28/2022"
+  },
+  {
+    "id": "dd783b87-a814-451d-9ea6-234c3e857387",
+    "storeName": "Collier-O'Kon",
+    "type": "Bank Account",
+    "amount": 1247,
+    "date": "02/18/2022"
+  },
+  {
+    "id": "7690b170-004a-486c-96b9-3317d9010f08",
+    "storeName": "Hayes-Goodwin",
+    "type": "Bank Account",
+    "amount": 739,
+    "date": "01/15/2023"
+  },
+  {
+    "id": "6d57a107-87e5-437a-ac06-dfb6a809f3de",
+    "storeName": "Hagenes-Barrows",
+    "type": "Bank Account",
+    "amount": 1226,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "3ee872aa-0bdf-40cf-bbeb-297e331da720",
+    "storeName": "Wisoky Group",
+    "type": "Bank Account",
+    "amount": 507,
+    "date": "07/17/2023"
+  },
+  {
+    "id": "34d95c61-b3dd-42c7-9e83-8a261ce107d8",
+    "storeName": "Hintz, Hickle and Emmerich",
+    "type": "Bank Account",
+    "amount": 246,
+    "date": "04/06/2023"
+  },
+  {
+    "id": "84cd3cbe-1eb0-4d70-97d9-d46f2ff9d965",
+    "storeName": "Wehner-D'Amore",
+    "type": "Bank Account",
+    "amount": 206,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "7a6ffe44-4c83-4979-9f61-5befa1e4e492",
+    "storeName": "Trantow-Morar",
+    "type": "Bank Account",
+    "amount": 905,
+    "date": "04/12/2022"
+  },
+  {
+    "id": "bac751f2-20cc-4c8c-b94d-b1ea6d1a8125",
+    "storeName": "Schaden, Kihn and Larson",
+    "type": "Cash",
+    "amount": 713,
+    "date": "05/30/2023"
+  },
+  {
+    "id": "6f09fbff-8d15-40d2-bbf8-fb955724b82b",
+    "storeName": "Effertz-Pagac",
+    "type": "Bank Account",
+    "amount": 1097,
+    "date": "07/09/2022"
+  },
+  {
+    "id": "e5a1eb55-edf3-4aac-ba41-2fd0b173a60e",
+    "storeName": "Smith Inc",
+    "type": "Bank Account",
+    "amount": 777,
+    "date": "08/02/2022"
+  },
+  {
+    "id": "c42f8ab3-6ffc-4411-985b-848842f9d4e2",
+    "storeName": "Leuschke, Maggio and Boyer",
+    "type": "Bank Account",
+    "amount": 1050,
+    "date": "02/12/2023"
+  },
+  {
+    "id": "f1d4750c-898d-4404-aa3c-4871bd701cca",
+    "storeName": "Zemlak, Walker and Huels",
+    "type": "Bank Account",
+    "amount": 715,
+    "date": "05/04/2023"
+  },
+  {
+    "id": "7bd4db31-b64a-472f-b96a-33d13e5a02e6",
+    "storeName": "Schroeder Group",
+    "type": "Bank Account",
+    "amount": 762,
+    "date": "09/29/2023"
+  },
+  {
+    "id": "e7840edc-3948-4fb8-a5d5-299c8b82dab9",
+    "storeName": "Wintheiser, Gibson and Hackett",
+    "type": "Bank Account",
+    "amount": 504,
+    "date": "02/11/2023"
+  },
+  {
+    "id": "fbaa955d-39fd-449d-93ee-dc62ae0ab697",
+    "storeName": "Halvorson Inc",
+    "type": "Cash",
+    "amount": 552,
+    "date": "10/26/2022"
+  },
+  {
+    "id": "4df7754a-e2a3-4049-ae72-9f3faf034550",
+    "storeName": "Schroeder-Altenwerth",
+    "type": "Bank Account",
+    "amount": 826,
+    "date": "08/14/2023"
+  },
+  {
+    "id": "f94592e5-45aa-4183-8a8b-2d53f3bd6632",
+    "storeName": "Bogan LLC",
+    "type": "Bank Account",
+    "amount": 1107,
+    "date": "07/17/2023"
+  },
+  {
+    "id": "ea2f23e2-36aa-4870-aa4e-9df4f327846b",
+    "storeName": "Simonis-Fritsch",
+    "type": "Bank Account",
+    "amount": 1055,
+    "date": "01/11/2023"
+  },
+  {
+    "id": "4ee7a4f2-8b8a-4bb4-ab9e-4f5080520271",
+    "storeName": "Hansen LLC",
+    "type": "Cash",
+    "amount": 110,
+    "date": "08/25/2022"
+  },
+  {
+    "id": "18c5a4ce-bdbf-4001-9c0a-396b748b38af",
+    "storeName": "Mosciski-Armstrong",
+    "type": "Bank Account",
+    "amount": 1262,
+    "date": "11/11/2022"
+  },
+  {
+    "id": "d3284fe8-cdfe-4881-8215-0e54ea1c6a0c",
+    "storeName": "Pfannerstill, Gulgowski and Dicki",
+    "type": "Bank Account",
+    "amount": 636,
+    "date": "07/01/2023"
+  },
+  {
+    "id": "da109e47-4e59-49f7-bd37-97c819e0f749",
+    "storeName": "Nienow, Quigley and Ruecker",
+    "type": "Bank Account",
+    "amount": 1211,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "49c5b6b7-e2b3-4e0e-b42c-71bb85c51798",
+    "storeName": "Osinski LLC",
+    "type": "Bank Account",
+    "amount": 1275,
+    "date": "01/10/2022"
+  },
+  {
+    "id": "8c97048a-6ae8-450e-b839-b831790a172b",
+    "storeName": "Bashirian Group",
+    "type": "Bank Account",
+    "amount": 33,
+    "date": "03/25/2023"
+  },
+  {
+    "id": "521657c2-9741-4a0a-a622-1040030a6b66",
+    "storeName": "Cormier, Miller and Gleichner",
+    "type": "Bank Account",
+    "amount": 1104,
+    "date": "05/16/2022"
+  },
+  {
+    "id": "841d9b8d-6015-4260-ab77-c609cf5b0af0",
+    "storeName": "Gibson LLC",
+    "type": "Bank Account",
+    "amount": 752,
+    "date": "09/12/2023"
+  },
+  {
+    "id": "7248e2dc-9513-49b2-ad63-2b69e0c87a76",
+    "storeName": "Dickinson-Hauck",
+    "type": "Bank Account",
+    "amount": 256,
+    "date": "10/01/2022"
+  },
+  {
+    "id": "6ab1e850-6dc3-48e0-9d31-672c2d2ebfeb",
+    "storeName": "Hane, Olson and Langosh",
+    "type": "Bank Account",
+    "amount": 939,
+    "date": "08/02/2023"
+  },
+  {
+    "id": "71e2fa3e-663f-4ad5-970a-94e4ba02b2de",
+    "storeName": "Kreiger Group",
+    "type": "Bank Account",
+    "amount": 471,
+    "date": "08/14/2022"
+  },
+  {
+    "id": "770f280c-749d-4510-8772-77ea55cc16bb",
+    "storeName": "Feest, Dare and Schneider",
+    "type": "Bank Account",
+    "amount": 1069,
+    "date": "09/08/2023"
+  },
+  {
+    "id": "2da9d5ec-318a-4385-b8ff-0e50d874fb88",
+    "storeName": "Howell LLC",
+    "type": "Bank Account",
+    "amount": 57,
+    "date": "09/16/2023"
+  },
+  {
+    "id": "820c6e30-a9e7-4e66-a1ef-298d5d20b6b6",
+    "storeName": "Lowe and Sons",
+    "type": "Bank Account",
+    "amount": 338,
+    "date": "06/15/2023"
+  },
+  {
+    "id": "250c5bdd-932b-49c7-81a4-c6cafcfd1525",
+    "storeName": "Blanda Group",
+    "type": "Bank Account",
+    "amount": 665,
+    "date": "06/21/2023"
+  },
+  {
+    "id": "7a2f579c-5822-443e-8b23-895c818ce6d4",
+    "storeName": "Carter-Conroy",
+    "type": "Bank Account",
+    "amount": 505,
+    "date": "03/16/2022"
+  },
+  {
+    "id": "a908a42f-6659-465c-bbe3-207bf8746aab",
+    "storeName": "Auer, Brekke and Lebsack",
+    "type": "Bank Account",
+    "amount": 307,
+    "date": "08/01/2022"
+  },
+  {
+    "id": "44b63f0e-4cbb-42ab-a895-27fd0aca7f5e",
+    "storeName": "Ondricka Inc",
+    "type": "Bank Account",
+    "amount": 1286,
+    "date": "07/30/2022"
+  },
+  {
+    "id": "e450a5ed-1e97-49e7-92e7-e86abfde2b98",
+    "storeName": "Rath-Cummerata",
+    "type": "Bank Account",
+    "amount": 1289,
+    "date": "05/14/2022"
+  },
+  {
+    "id": "669c06d4-077c-4107-8d75-21932977bc62",
+    "storeName": "Wiegand, Baumbach and Hyatt",
+    "type": "Bank Account",
+    "amount": 1157,
+    "date": "05/20/2022"
+  },
+  {
+    "id": "07ff4794-2910-4f65-8b33-c00782de798a",
+    "storeName": "Muller-Fisher",
+    "type": "Bank Account",
+    "amount": 1288,
+    "date": "02/09/2022"
+  },
+  {
+    "id": "5af2e805-58c3-4274-98c9-d36c295c9dd5",
+    "storeName": "Sipes Group",
+    "type": "Bank Account",
+    "amount": 155,
+    "date": "02/05/2022"
+  },
+  {
+    "id": "4d2b13d7-1139-4a42-a623-68eb1fd7f330",
+    "storeName": "Beier-Murphy",
+    "type": "Bank Account",
+    "amount": 1168,
+    "date": "11/18/2022"
+  },
+  {
+    "id": "bef7d615-bcda-439e-9e9b-1b730b95ceaf",
+    "storeName": "Ruecker-Leuschke",
+    "type": "Bank Account",
+    "amount": 189,
+    "date": "11/07/2023"
+  },
+  {
+    "id": "195d7acd-f25a-43fb-8048-d7790a8b385c",
+    "storeName": "Pouros-Lind",
+    "type": "Bank Account",
+    "amount": 1252,
+    "date": "02/09/2022"
+  },
+  {
+    "id": "2f87ab2f-2ac6-4563-ac53-3e43fa451b9c",
+    "storeName": "Schmitt-Mosciski",
+    "type": "Bank Account",
+    "amount": 1091,
+    "date": "08/28/2022"
+  },
+  {
+    "id": "fd3457a3-032d-4759-ad31-e820648361db",
+    "storeName": "Beahan-Morar",
+    "type": "Bank Account",
+    "amount": 564,
+    "date": "05/19/2022"
+  },
+  {
+    "id": "02c46e6c-5e68-4bb3-8217-265e0de88d22",
+    "storeName": "Smith Group",
+    "type": "Bank Account",
+    "amount": 271,
+    "date": "09/15/2022"
+  },
+  {
+    "id": "d2f51c12-b3fe-479a-8ed0-2366ac260ed3",
+    "storeName": "Johnson, Cummings and Vandervort",
+    "type": "Bank Account",
+    "amount": 473,
+    "date": "11/18/2023"
+  },
+  {
+    "id": "e0754c21-60d0-404f-b3bc-bd4a1f9b56be",
+    "storeName": "Bernhard, Cremin and Auer",
+    "type": "Bank Account",
+    "amount": 521,
+    "date": "04/15/2022"
+  },
+  {
+    "id": "c3ea165f-f78c-4af3-b0ba-c0a9a4e0ad44",
+    "storeName": "Luettgen, Reichel and Lebsack",
+    "type": "Bank Account",
+    "amount": 1140,
+    "date": "04/29/2023"
+  },
+  {
+    "id": "49b53937-e07f-4470-ac8c-dac8acc3a1aa",
+    "storeName": "Boehm-Paucek",
+    "type": "Bank Account",
+    "amount": 664,
+    "date": "10/31/2023"
+  },
+  {
+    "id": "a7ddddb6-9d30-4aba-a304-c3b49b4edb6d",
+    "storeName": "Shanahan Group",
+    "type": "Bank Account",
+    "amount": 150,
+    "date": "06/15/2023"
+  },
+  {
+    "id": "66bc34f2-ac86-46b7-824e-18896bdf6754",
+    "storeName": "Lebsack, Gulgowski and Schneider",
+    "type": "Cash",
+    "amount": 568,
+    "date": "05/27/2022"
+  },
+  {
+    "id": "1d53370f-9ae4-45b4-8989-8abd7e551923",
+    "storeName": "Adams LLC",
+    "type": "Cash",
+    "amount": 1069,
+    "date": "04/01/2022"
+  },
+  {
+    "id": "df766fea-a694-4e24-99e6-4a72249af010",
+    "storeName": "Mosciski-Heidenreich",
+    "type": "Cash",
+    "amount": 248,
+    "date": "11/15/2023"
+  },
+  {
+    "id": "649a12ae-f401-4a73-888f-eac427eb0b7b",
+    "storeName": "Legros, Thompson and Bradtke",
+    "type": "Bank Account",
+    "amount": 863,
+    "date": "03/23/2022"
+  },
+  {
+    "id": "30ad6688-d054-4275-a1af-104ca218cb98",
+    "storeName": "Boehm, Ruecker and Lueilwitz",
+    "type": "Bank Account",
+    "amount": 916,
+    "date": "03/16/2022"
+  },
+  {
+    "id": "cc1d7064-dc78-4885-874b-4ecdb651bbea",
+    "storeName": "Gleason Group",
+    "type": "Bank Account",
+    "amount": 559,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "fd738cc5-13df-420f-8c75-42755f72d4ff",
+    "storeName": "Reichert Inc",
+    "type": "Bank Account",
+    "amount": 448,
+    "date": "01/18/2023"
+  },
+  {
+    "id": "6088958e-1228-493d-bc52-c03b61c8932e",
+    "storeName": "Dach-Rempel",
+    "type": "Bank Account",
+    "amount": 545,
+    "date": "07/26/2023"
+  },
+  {
+    "id": "acc6e69a-30b5-4de1-8b8d-de911e530307",
+    "storeName": "McDermott, MacGyver and Schneider",
+    "type": "Bank Account",
+    "amount": 585,
+    "date": "09/01/2022"
+  },
+  {
+    "id": "d364cbd7-5831-4292-b09c-eb02fec1ec21",
+    "storeName": "Hamill, McCullough and McClure",
+    "type": "Bank Account",
+    "amount": 533,
+    "date": "02/28/2022"
+  },
+  {
+    "id": "367def9e-31a2-42b3-bb6b-73fad30367f8",
+    "storeName": "Herzog and Sons",
+    "type": "Bank Account",
+    "amount": 763,
+    "date": "08/11/2022"
+  },
+  {
+    "id": "836b6ee1-8964-4f8f-a346-cd8011d88c65",
+    "storeName": "Lemke and Sons",
+    "type": "Bank Account",
+    "amount": 77,
+    "date": "08/15/2022"
+  },
+  {
+    "id": "940f62cc-8650-4d0e-8931-5ab47ea8c9c8",
+    "storeName": "Kuphal and Sons",
+    "type": "Bank Account",
+    "amount": 830,
+    "date": "03/24/2023"
+  },
+  {
+    "id": "593bc2fb-ebfa-4fdc-a1ba-8f61c5360acd",
+    "storeName": "Wilderman, Cassin and Shields",
+    "type": "Bank Account",
+    "amount": 337,
+    "date": "10/16/2022"
+  },
+  {
+    "id": "9efc0e15-8968-4946-9d31-1549f9efc050",
+    "storeName": "Macejkovic-Mohr",
+    "type": "Bank Account",
+    "amount": 1187,
+    "date": "09/07/2023"
+  },
+  {
+    "id": "5f861a45-f2bd-494d-9e3e-afaefb7d6a35",
+    "storeName": "Becker Inc",
+    "type": "Bank Account",
+    "amount": 935,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "50c59b25-1644-4e86-a7fb-93595d62b133",
+    "storeName": "Ortiz, Aufderhar and Cormier",
+    "type": "Bank Account",
+    "amount": 640,
+    "date": "02/05/2023"
+  },
+  {
+    "id": "eafa40f3-cbad-48ea-b131-49882f464faa",
+    "storeName": "Beer-Bogisich",
+    "type": "Bank Account",
+    "amount": 1269,
+    "date": "06/13/2022"
+  },
+  {
+    "id": "a035c996-90c8-46cd-98a6-7b31250e2355",
+    "storeName": "Hoeger, Metz and Ritchie",
+    "type": "Bank Account",
+    "amount": 1168,
+    "date": "08/23/2022"
+  },
+  {
+    "id": "17d3438b-53b3-441e-bacb-39137c531c81",
+    "storeName": "Tremblay-Schultz",
+    "type": "Bank Account",
+    "amount": 678,
+    "date": "06/28/2023"
+  },
+  {
+    "id": "bba514e4-ed02-4ecc-bf01-91b4d98a3cf3",
+    "storeName": "Frami LLC",
+    "type": "Bank Account",
+    "amount": 109,
+    "date": "07/22/2022"
+  },
+  {
+    "id": "32af742c-ae68-4024-bbf8-ae09578f26a1",
+    "storeName": "Mayer-Pfeffer",
+    "type": "Bank Account",
+    "amount": 1241,
+    "date": "10/10/2022"
+  },
+  {
+    "id": "21020b60-93a7-402d-a08a-d02d4ddcfcce",
+    "storeName": "D'Amore LLC",
+    "type": "Bank Account",
+    "amount": 304,
+    "date": "09/05/2022"
+  },
+  {
+    "id": "a731a0a4-43f2-49d7-8aeb-8fcc5b3a20d1",
+    "storeName": "Hamill-Dickens",
+    "type": "Bank Account",
+    "amount": 273,
+    "date": "01/16/2022"
+  },
+  {
+    "id": "193c8ef7-76cf-4be9-91f7-4b73d0d57290",
+    "storeName": "Feil, Schmeler and Torphy",
+    "type": "Bank Account",
+    "amount": 792,
+    "date": "10/09/2023"
+  },
+  {
+    "id": "f7fd7e01-068b-49cb-bb75-85da84df43c2",
+    "storeName": "Raynor-Kulas",
+    "type": "Bank Account",
+    "amount": 204,
+    "date": "09/27/2022"
+  },
+  {
+    "id": "a9b5bed2-aae4-4728-9837-13cf8c5a1cc8",
+    "storeName": "McDermott-Yundt",
+    "type": "Bank Account",
+    "amount": 325,
+    "date": "02/08/2023"
+  },
+  {
+    "id": "005ffd70-698b-4ba8-aace-d583834615da",
+    "storeName": "Price, Kling and Kutch",
+    "type": "Bank Account",
+    "amount": 266,
+    "date": "05/02/2022"
+  },
+  {
+    "id": "8c2adbc8-c022-4e65-a42b-d5843a04278a",
+    "storeName": "Nitzsche, Koch and Bailey",
+    "type": "Bank Account",
+    "amount": 100,
+    "date": "08/19/2023"
+  },
+  {
+    "id": "739c0147-6fd7-4f59-b255-cbda26199b13",
+    "storeName": "Christiansen-Emard",
+    "type": "Bank Account",
+    "amount": 816,
+    "date": "05/31/2023"
+  },
+  {
+    "id": "b30baf65-4f68-49d8-ac9f-7060b6a562a3",
+    "storeName": "Abernathy-Hansen",
+    "type": "Bank Account",
+    "amount": 104,
+    "date": "09/25/2023"
+  },
+  {
+    "id": "0b30fba9-1515-4951-9aea-165c59e17ab6",
+    "storeName": "Zulauf, Moen and Bruen",
+    "type": "Bank Account",
+    "amount": 140,
+    "date": "01/28/2022"
+  },
+  {
+    "id": "ab1d253e-853a-49ad-ae5f-5336aaedcc0a",
+    "storeName": "Hauck, Cronin and Rowe",
+    "type": "Bank Account",
+    "amount": 236,
+    "date": "03/11/2023"
+  },
+  {
+    "id": "c95aa7bf-a077-4366-938a-ce67c568597a",
+    "storeName": "Berge-Mueller",
+    "type": "Bank Account",
+    "amount": 781,
+    "date": "09/27/2022"
+  },
+  {
+    "id": "3f99f0d3-2721-4b58-b13c-5f9232167928",
+    "storeName": "Rath-Gutkowski",
+    "type": "Bank Account",
+    "amount": 464,
+    "date": "03/02/2022"
+  },
+  {
+    "id": "163d3e2d-1ccf-4c7e-bd89-b1574d841c3c",
+    "storeName": "Bogan-King",
+    "type": "Bank Account",
+    "amount": 645,
+    "date": "04/26/2022"
+  },
+  {
+    "id": "af5f8bc2-ce48-4b04-a7ad-6e5f497c451a",
+    "storeName": "McDermott, Kuhlman and Schultz",
+    "type": "Bank Account",
+    "amount": 672,
+    "date": "09/19/2023"
+  },
+  {
+    "id": "774dad91-3a37-4019-8d3b-95d1f49ec824",
+    "storeName": "Yost-Rogahn",
+    "type": "Bank Account",
+    "amount": 555,
+    "date": "07/28/2022"
+  },
+  {
+    "id": "c8dfc8b5-e3f1-4579-ae5b-4f34f9574f50",
+    "storeName": "Cummings Group",
+    "type": "Bank Account",
+    "amount": 57,
+    "date": "09/11/2023"
+  },
+  {
+    "id": "1ebc3af4-2ea0-4ce6-89c8-835cca5d152d",
+    "storeName": "Green LLC",
+    "type": "Bank Account",
+    "amount": 795,
+    "date": "04/28/2022"
+  },
+  {
+    "id": "202ea030-9a0a-4e7b-a3a7-642bc472731e",
+    "storeName": "Rau, Altenwerth and Gusikowski",
+    "type": "Bank Account",
+    "amount": 1074,
+    "date": "04/20/2022"
+  },
+  {
+    "id": "f0b7145d-b072-48d1-8a5b-e1edf085a669",
+    "storeName": "Schmitt and Sons",
+    "type": "Bank Account",
+    "amount": 987,
+    "date": "10/25/2023"
+  },
+  {
+    "id": "a02087ef-1be1-4241-9760-99c04ee28d17",
+    "storeName": "Fadel, Beer and Feil",
+    "type": "Bank Account",
+    "amount": 952,
+    "date": "06/19/2022"
+  },
+  {
+    "id": "94ee07f7-27be-499d-be85-22ea1c8cce49",
+    "storeName": "Reilly, Pollich and Heidenreich",
+    "type": "Bank Account",
+    "amount": 1049,
+    "date": "11/27/2023"
+  },
+  {
+    "id": "f9ec6ba3-e946-4b1c-a741-83b3da2b7960",
+    "storeName": "Gutmann-Ruecker",
+    "type": "Bank Account",
+    "amount": 97,
+    "date": "06/13/2023"
+  },
+  {
+    "id": "73560e56-10f6-447f-8aa2-b8b748f05273",
+    "storeName": "Hegmann, Volkman and Robel",
+    "type": "Bank Account",
+    "amount": 729,
+    "date": "06/03/2023"
+  },
+  {
+    "id": "34219af3-cdc8-4758-b5ff-43384c965260",
+    "storeName": "Hintz, Lakin and Glover",
+    "type": "Bank Account",
+    "amount": 94,
+    "date": "05/07/2022"
+  },
+  {
+    "id": "ffed7b31-0eb0-486e-9800-bf55f2fdc80c",
+    "storeName": "Lehner, Fay and Thompson",
+    "type": "Bank Account",
+    "amount": 426,
+    "date": "11/14/2023"
+  },
+  {
+    "id": "d3587382-42bb-4031-a371-b7e87120e1fd",
+    "storeName": "O'Hara-Dach",
+    "type": "Bank Account",
+    "amount": 892,
+    "date": "12/17/2022"
+  },
+  {
+    "id": "c2ad2600-9c32-4603-87d6-55bd99df6f7c",
+    "storeName": "Rau, Bartoletti and Koss",
+    "type": "Bank Account",
+    "amount": 387,
+    "date": "11/18/2023"
+  },
+  {
+    "id": "6fcef292-666c-437c-bf66-23e52a893ef7",
+    "storeName": "Jakubowski Group",
+    "type": "Bank Account",
+    "amount": 976,
+    "date": "06/04/2023"
+  },
+  {
+    "id": "5521ecd2-6124-4b5e-80fa-e23df3f30d07",
+    "storeName": "Mann-Stroman",
+    "type": "Bank Account",
+    "amount": 845,
+    "date": "06/29/2023"
+  },
+  {
+    "id": "9e6e3a23-99b3-46f1-8994-db75c36fdf1c",
+    "storeName": "Bruen-Shields",
+    "type": "Bank Account",
+    "amount": 1221,
+    "date": "03/25/2023"
+  },
+  {
+    "id": "b1e8593f-74e0-4a9b-855a-6ce3599730b5",
+    "storeName": "Kuhlman and Sons",
+    "type": "Bank Account",
+    "amount": 131,
+    "date": "03/06/2022"
+  },
+  {
+    "id": "cdd51a37-db35-4c14-9450-9279daf44d71",
+    "storeName": "Johnston-Bahringer",
+    "type": "Bank Account",
+    "amount": 625,
+    "date": "03/29/2023"
+  },
+  {
+    "id": "d0c0b771-fe58-4a5b-852d-927c52c42ad1",
+    "storeName": "Botsford, Grimes and Kub",
+    "type": "Bank Account",
+    "amount": 1189,
+    "date": "02/01/2023"
+  },
+  {
+    "id": "ef2a8f42-cd78-47d4-81e7-3468ac35c05e",
+    "storeName": "Auer Group",
+    "type": "Cash",
+    "amount": 702,
+    "date": "06/29/2022"
+  },
+  {
+    "id": "c619e024-ebc3-4130-9545-54b4991de6d1",
+    "storeName": "Mante, Batz and O'Keefe",
+    "type": "Bank Account",
+    "amount": 811,
+    "date": "10/14/2023"
+  },
+  {
+    "id": "70a3a327-ff3e-4057-9c08-60eee15bd739",
+    "storeName": "Quitzon-Greenholt",
+    "type": "Bank Account",
+    "amount": 801,
+    "date": "03/25/2023"
+  },
+  {
+    "id": "fea75266-ae2c-4ce0-8429-a4cbc04c8a98",
+    "storeName": "Hettinger-Morar",
+    "type": "Bank Account",
+    "amount": 539,
+    "date": "06/24/2023"
+  },
+  {
+    "id": "1494e303-4931-4983-8f35-047f506883a0",
+    "storeName": "Ferry LLC",
+    "type": "Bank Account",
+    "amount": 317,
+    "date": "02/10/2022"
+  },
+  {
+    "id": "d56ae12f-9738-49d5-bdbe-545e644b827b",
+    "storeName": "Marks Group",
+    "type": "Bank Account",
+    "amount": 185,
+    "date": "05/09/2023"
+  },
+  {
+    "id": "26d9f9dc-99c3-4466-9d81-f0b3ea88b0e6",
+    "storeName": "Wunsch, Buckridge and Tillman",
+    "type": "Bank Account",
+    "amount": 1048,
+    "date": "03/01/2022"
+  },
+  {
+    "id": "4da9e308-42a8-475d-80f4-957da053f967",
+    "storeName": "Smith, Pouros and Kuphal",
+    "type": "Bank Account",
+    "amount": 149,
+    "date": "05/18/2022"
+  },
+  {
+    "id": "ea785d4f-d738-4209-8629-6c25ee95a79b",
+    "storeName": "Muller-Koss",
+    "type": "Bank Account",
+    "amount": 1031,
+    "date": "02/17/2022"
+  },
+  {
+    "id": "597e3fd5-75e5-4556-b7aa-3ca33efaa1c4",
+    "storeName": "Krajcik and Sons",
+    "type": "Bank Account",
+    "amount": 1132,
+    "date": "10/25/2023"
+  },
+  {
+    "id": "da4d8b2c-c4c6-4a8b-b75f-69216b46ca29",
+    "storeName": "Emmerich and Sons",
+    "type": "Cash",
+    "amount": 559,
+    "date": "10/30/2023"
+  },
+  {
+    "id": "7dea213b-ac24-4c67-aa1a-fffd500085c9",
+    "storeName": "Quigley-Parisian",
+    "type": "Cash",
+    "amount": 836,
+    "date": "08/10/2022"
+  },
+  {
+    "id": "0f6016d0-1d3e-4aaf-9d03-3e478a1eff8a",
+    "storeName": "Stamm LLC",
+    "type": "Bank Account",
+    "amount": 1085,
+    "date": "10/12/2022"
+  },
+  {
+    "id": "91600cd7-cc5c-4cf9-80a8-2937cfbd7526",
+    "storeName": "Fisher-Rutherford",
+    "type": "Cash",
+    "amount": 678,
+    "date": "02/19/2022"
+  },
+  {
+    "id": "10304bae-a736-4863-a87c-c24459ac3627",
+    "storeName": "Kassulke-Jenkins",
+    "type": "Bank Account",
+    "amount": 63,
+    "date": "01/25/2022"
+  },
+  {
+    "id": "a84c3064-5629-47eb-a52e-2bf3220334cc",
+    "storeName": "Adams and Sons",
+    "type": "Bank Account",
+    "amount": 895,
+    "date": "01/04/2022"
+  },
+  {
+    "id": "c5aaf453-9b6d-48f6-85cc-06ef9d53ed06",
+    "storeName": "Emard-Feeney",
+    "type": "Bank Account",
+    "amount": 693,
+    "date": "07/06/2022"
+  },
+  {
+    "id": "53dc86c4-e613-4f53-a3bf-a96f7a451b01",
+    "storeName": "Hermann, Brakus and Becker",
+    "type": "Bank Account",
+    "amount": 184,
+    "date": "05/19/2022"
+  },
+  {
+    "id": "4e12903a-6ae7-4a2c-adc3-3bb7eca10a18",
+    "storeName": "Mertz-Swift",
+    "type": "Bank Account",
+    "amount": 1215,
+    "date": "12/20/2022"
+  },
+  {
+    "id": "8e849991-606d-4c76-b021-2dfa1a7708cd",
+    "storeName": "Rippin, Adams and Oberbrunner",
+    "type": "Bank Account",
+    "amount": 236,
+    "date": "09/21/2023"
+  },
+  {
+    "id": "e1164893-2b2b-4b4e-8771-a1248b9aa47c",
+    "storeName": "Hayes-Dicki",
+    "type": "Bank Account",
+    "amount": 1225,
+    "date": "09/17/2022"
+  },
+  {
+    "id": "ee7e2910-27a5-4f90-a3d9-d3c88a421a08",
+    "storeName": "Kling-Satterfield",
+    "type": "Bank Account",
+    "amount": 1022,
+    "date": "06/23/2023"
+  },
+  {
+    "id": "805382d7-1779-4da1-9570-1e7b98404871",
+    "storeName": "Lubowitz, Grady and Pouros",
+    "type": "Bank Account",
+    "amount": 588,
+    "date": "03/19/2023"
+  },
+  {
+    "id": "c146fecc-183c-4a88-a9d6-01eef94d1e43",
+    "storeName": "Kulas, Kertzmann and Kovacek",
+    "type": "Bank Account",
+    "amount": 735,
+    "date": "07/01/2022"
+  },
+  {
+    "id": "af366135-c5f3-416a-8399-ed1446dfce12",
+    "storeName": "Glover-Bailey",
+    "type": "Bank Account",
+    "amount": 995,
+    "date": "11/29/2023"
+  },
+  {
+    "id": "560dcdda-46bd-4cfe-82a2-7ad52095f3ce",
+    "storeName": "Homenick and Sons",
+    "type": "Bank Account",
+    "amount": 15,
+    "date": "10/09/2022"
+  },
+  {
+    "id": "630a64c9-24c7-4a4f-a8c6-1632dc9942f0",
+    "storeName": "Little, Bauch and Cronin",
+    "type": "Bank Account",
+    "amount": 1224,
+    "date": "04/18/2022"
+  },
+  {
+    "id": "72792df8-97ae-4b6a-a01d-827b6cd8a01e",
+    "storeName": "Grimes and Sons",
+    "type": "Bank Account",
+    "amount": 380,
+    "date": "07/04/2022"
+  },
+  {
+    "id": "83de9fde-d2c2-46fa-9cc8-0af3d60e820b",
+    "storeName": "Wolff Group",
+    "type": "Bank Account",
+    "amount": 813,
+    "date": "12/08/2022"
+  },
+  {
+    "id": "03f5a22e-3b43-4901-bd15-51bf88d58975",
+    "storeName": "Mayert-Price",
+    "type": "Bank Account",
+    "amount": 646,
+    "date": "09/27/2023"
+  },
+  {
+    "id": "f702923c-97d8-4b18-9765-b91d9435ffa2",
+    "storeName": "O'Conner, Lynch and Collins",
+    "type": "Bank Account",
+    "amount": 635,
+    "date": "05/13/2022"
+  },
+  {
+    "id": "9aff4ee8-ca85-443e-a912-c019cc337717",
+    "storeName": "Kihn, Kozey and Vandervort",
+    "type": "Bank Account",
+    "amount": 30,
+    "date": "11/03/2023"
+  },
+  {
+    "id": "7bead884-f09f-4638-b1fc-5d79175398ec",
+    "storeName": "Haag, Dietrich and Swift",
+    "type": "Bank Account",
+    "amount": 728,
+    "date": "08/05/2022"
+  },
+  {
+    "id": "452ba566-8e71-4a52-9f08-19c7b4e6e6c2",
+    "storeName": "Rippin Group",
+    "type": "Bank Account",
+    "amount": 916,
+    "date": "07/10/2022"
+  },
+  {
+    "id": "5b2e63e4-ef49-4728-82c4-dedac593d389",
+    "storeName": "Barrows Group",
+    "type": "Bank Account",
+    "amount": 854,
+    "date": "09/14/2023"
+  },
+  {
+    "id": "111dd96b-0eb3-48d7-bfec-dc0c7e2190ad",
+    "storeName": "Hayes-Pollich",
+    "type": "Bank Account",
+    "amount": 1030,
+    "date": "11/30/2022"
+  },
+  {
+    "id": "eeb12e29-3e1b-458f-9cef-fe72edcfd3af",
+    "storeName": "Moen-Buckridge",
+    "type": "Bank Account",
+    "amount": 486,
+    "date": "09/08/2023"
+  },
+  {
+    "id": "888dc402-1066-406d-93c9-4f97a043bd4d",
+    "storeName": "Reynolds-Nitzsche",
+    "type": "Bank Account",
+    "amount": 1049,
+    "date": "11/17/2022"
+  },
+  {
+    "id": "0ec1e9ed-9b30-4629-b72e-9ffe32da03cf",
+    "storeName": "Hudson and Sons",
+    "type": "Bank Account",
+    "amount": 954,
+    "date": "03/01/2022"
+  },
+  {
+    "id": "4381ec00-5285-41d7-929e-1d210e8f3e8f",
+    "storeName": "Homenick-Bernhard",
+    "type": "Bank Account",
+    "amount": 704,
+    "date": "04/20/2023"
+  },
+  {
+    "id": "bc541083-7a82-46f6-b19e-39e1d7b1a719",
+    "storeName": "Sipes Inc",
+    "type": "Cash",
+    "amount": 139,
+    "date": "02/05/2022"
+  },
+  {
+    "id": "d784318b-2f61-4619-8155-440da1df2964",
+    "storeName": "Feeney and Sons",
+    "type": "Bank Account",
+    "amount": 1052,
+    "date": "02/25/2023"
+  },
+  {
+    "id": "193aef28-8ea7-4f16-97fe-a3d0222c4c11",
+    "storeName": "Harvey-Frami",
+    "type": "Bank Account",
+    "amount": 1127,
+    "date": "08/31/2023"
+  },
+  {
+    "id": "d17c9b74-148b-4e5a-a3af-77c43e1fe42e",
+    "storeName": "Runte Group",
+    "type": "Bank Account",
+    "amount": 1037,
+    "date": "11/25/2023"
+  },
+  {
+    "id": "fed592a1-123a-4780-ace9-544d595a0908",
+    "storeName": "Williamson LLC",
+    "type": "Bank Account",
+    "amount": 1228,
+    "date": "07/20/2023"
+  },
+  {
+    "id": "c6d21159-1dbc-484c-9de7-59f6caa929ce",
+    "storeName": "Marks Group",
+    "type": "Bank Account",
+    "amount": 635,
+    "date": "01/16/2022"
+  },
+  {
+    "id": "9e7bfed4-aa5b-418e-8fb6-93d5edddee03",
+    "storeName": "Kozey Inc",
+    "type": "Bank Account",
+    "amount": 1188,
+    "date": "04/25/2023"
+  },
+  {
+    "id": "cf928866-52b0-4849-a07c-674bbfd82374",
+    "storeName": "Block Group",
+    "type": "Bank Account",
+    "amount": 1018,
+    "date": "10/26/2022"
+  },
+  {
+    "id": "5f3afe3a-e557-418c-82fc-392cba188aad",
+    "storeName": "Miller and Sons",
+    "type": "Bank Account",
+    "amount": 1256,
+    "date": "11/02/2022"
+  },
+  {
+    "id": "d6572945-7bda-4c3e-b2fc-75accfc76d05",
+    "storeName": "Boehm Inc",
+    "type": "Bank Account",
+    "amount": 1150,
+    "date": "06/27/2023"
+  },
+  {
+    "id": "2747dfbf-0b4d-4927-b1b9-83650cf8ca39",
+    "storeName": "Anderson-Quigley",
+    "type": "Bank Account",
+    "amount": 449,
+    "date": "06/14/2023"
+  },
+  {
+    "id": "b515f76c-7d68-420c-bc33-472df0bc244b",
+    "storeName": "Hintz Group",
+    "type": "Bank Account",
+    "amount": 1267,
+    "date": "09/13/2023"
+  },
+  {
+    "id": "6398fef9-1f38-4354-8f3e-c82eb0d10c2f",
+    "storeName": "Pollich, Jacobi and Davis",
+    "type": "Bank Account",
+    "amount": 338,
+    "date": "05/18/2022"
+  },
+  {
+    "id": "6ed283e2-ca04-461b-86a2-eadbd12d212c",
+    "storeName": "Jakubowski Inc",
+    "type": "Bank Account",
+    "amount": 184,
+    "date": "12/29/2022"
+  },
+  {
+    "id": "898f0c07-4076-4e28-aa0b-a0b5c058ccb9",
+    "storeName": "Kuvalis, Larson and Mante",
+    "type": "Bank Account",
+    "amount": 974,
+    "date": "05/08/2022"
+  },
+  {
+    "id": "993f434f-8c0a-44d4-8a01-cf93aef7ab9e",
+    "storeName": "Conn, Willms and Lesch",
+    "type": "Bank Account",
+    "amount": 962,
+    "date": "01/05/2022"
+  },
+  {
+    "id": "391cbf07-89cc-4a93-bbad-6959d290d3b0",
+    "storeName": "Towne, Rutherford and Hermiston",
+    "type": "Bank Account",
+    "amount": 1038,
+    "date": "11/15/2022"
+  },
+  {
+    "id": "7db2eda8-5ee3-411d-9741-4618c8ae631c",
+    "storeName": "Johnston Group",
+    "type": "Bank Account",
+    "amount": 223,
+    "date": "03/12/2023"
+  },
+  {
+    "id": "dcd9b6d9-9c24-4532-99bc-e78f80443bde",
+    "storeName": "Walker, Reinger and Casper",
+    "type": "Cash",
+    "amount": 1014,
+    "date": "06/13/2022"
+  },
+  {
+    "id": "02ec66f7-105d-4270-895b-c4d798714c84",
+    "storeName": "Maggio Group",
+    "type": "Bank Account",
+    "amount": 404,
+    "date": "05/16/2022"
+  },
+  {
+    "id": "594ae2d4-6810-4ada-9e59-6642c59467da",
+    "storeName": "Gottlieb and Sons",
+    "type": "Bank Account",
+    "amount": 1050,
+    "date": "02/20/2023"
+  },
+  {
+    "id": "3458d5df-5351-4f0f-879e-72b94b243f31",
+    "storeName": "Corkery-Dicki",
+    "type": "Bank Account",
+    "amount": 824,
+    "date": "11/03/2022"
+  },
+  {
+    "id": "9d9f2547-bbe1-4a7f-8655-b2cc1d2507c0",
+    "storeName": "Nikolaus-Zieme",
+    "type": "Cash",
+    "amount": 857,
+    "date": "07/15/2023"
+  },
+  {
+    "id": "03cbb293-01de-4b64-b388-700ae5933c95",
+    "storeName": "Botsford-Wehner",
+    "type": "Bank Account",
+    "amount": 768,
+    "date": "01/16/2023"
+  },
+  {
+    "id": "5e0231e6-96cb-4b81-be04-a4b34d5ed10c",
+    "storeName": "Funk-Mertz",
+    "type": "Bank Account",
+    "amount": 1081,
+    "date": "02/01/2022"
+  },
+  {
+    "id": "e2c72c35-74f8-4f36-86b5-1a28181e79cb",
+    "storeName": "Funk-Greenfelder",
+    "type": "Bank Account",
+    "amount": 1236,
+    "date": "06/19/2022"
+  },
+  {
+    "id": "7197f958-3146-4931-86e4-c4c3f3e876f2",
+    "storeName": "Fritsch LLC",
+    "type": "Bank Account",
+    "amount": 398,
+    "date": "08/28/2023"
+  },
+  {
+    "id": "34e27a34-b429-4b11-b077-7a233c9a07a0",
+    "storeName": "Swaniawski, Schmeler and O'Connell",
+    "type": "Bank Account",
+    "amount": 1102,
+    "date": "11/28/2022"
+  },
+  {
+    "id": "982ab13f-d63a-4677-bc46-7a1f07333004",
+    "storeName": "Considine Group",
+    "type": "Bank Account",
+    "amount": 1167,
+    "date": "11/29/2023"
+  },
+  {
+    "id": "ab579347-5e9b-4cbd-9104-07326c14f8db",
+    "storeName": "Robel Inc",
+    "type": "Bank Account",
+    "amount": 936,
+    "date": "11/27/2023"
+  },
+  {
+    "id": "92a985c8-5912-47e4-b9d3-0e81d1dcc8ea",
+    "storeName": "Hodkiewicz, Satterfield and Keebler",
+    "type": "Cash",
+    "amount": 144,
+    "date": "08/13/2023"
+  },
+  {
+    "id": "2a2d4c80-bfed-4d07-908c-919e2e2f1524",
+    "storeName": "Gusikowski LLC",
+    "type": "Bank Account",
+    "amount": 47,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "b9e0362e-d1f2-4404-9442-5c6592c1433c",
+    "storeName": "Hoppe, Brakus and Quigley",
+    "type": "Bank Account",
+    "amount": 1233,
+    "date": "04/12/2022"
+  },
+  {
+    "id": "06219d8b-9588-433d-84be-782c21591d26",
+    "storeName": "Zboncak Group",
+    "type": "Bank Account",
+    "amount": 65,
+    "date": "09/28/2022"
+  },
+  {
+    "id": "4ab24aaf-08a6-4ba8-93ec-ccf6360858fe",
+    "storeName": "Lemke Group",
+    "type": "Bank Account",
+    "amount": 1220,
+    "date": "10/20/2023"
+  },
+  {
+    "id": "1abd3468-d7e8-4ec7-8381-bead7a6b619b",
+    "storeName": "Pouros Group",
+    "type": "Bank Account",
+    "amount": 441,
+    "date": "10/28/2023"
+  },
+  {
+    "id": "c2e8eea4-0b6b-4236-a08b-ed882df91f08",
+    "storeName": "Ratke, Kilback and Legros",
+    "type": "Bank Account",
+    "amount": 769,
+    "date": "07/17/2023"
+  },
+  {
+    "id": "4b378240-bce1-4f04-b440-72c7e9c1a0e8",
+    "storeName": "Von Group",
+    "type": "Bank Account",
+    "amount": 491,
+    "date": "12/09/2022"
+  },
+  {
+    "id": "fb95f8ff-3f15-4530-b3f7-a884dceecc76",
+    "storeName": "Koch-DuBuque",
+    "type": "Bank Account",
+    "amount": 482,
+    "date": "09/11/2023"
+  },
+  {
+    "id": "e3d6613e-0a66-4441-84d4-43562f5139e8",
+    "storeName": "Ernser, Morar and Towne",
+    "type": "Bank Account",
+    "amount": 977,
+    "date": "08/21/2023"
+  },
+  {
+    "id": "2a505df4-3ceb-4649-a47c-24f3586baa1f",
+    "storeName": "Kessler, Doyle and Schmitt",
+    "type": "Bank Account",
+    "amount": 187,
+    "date": "07/22/2022"
+  },
+  {
+    "id": "3d1a567a-edae-4c37-9ddc-ace836b82026",
+    "storeName": "Hodkiewicz, Torp and Pacocha",
+    "type": "Bank Account",
+    "amount": 922,
+    "date": "05/17/2023"
+  },
+  {
+    "id": "6be0434b-3329-45ee-98d7-cb252bad6cdf",
+    "storeName": "Denesik Inc",
+    "type": "Bank Account",
+    "amount": 1238,
+    "date": "01/08/2022"
+  },
+  {
+    "id": "44d2bf5a-df87-4d40-a728-066718f7e166",
+    "storeName": "Morissette Group",
+    "type": "Bank Account",
+    "amount": 313,
+    "date": "06/28/2022"
+  },
+  {
+    "id": "4de57072-55c6-4ee8-8275-43b2fc6c4453",
+    "storeName": "Prohaska and Sons",
+    "type": "Bank Account",
+    "amount": 790,
+    "date": "02/10/2022"
+  },
+  {
+    "id": "05ae1f6c-cd09-4623-bffb-d937e63e0034",
+    "storeName": "Corwin LLC",
+    "type": "Bank Account",
+    "amount": 738,
+    "date": "03/28/2022"
+  },
+  {
+    "id": "27e645b1-c5de-4954-85bc-7cb696cbf340",
+    "storeName": "Hickle LLC",
+    "type": "Cash",
+    "amount": 721,
+    "date": "10/18/2022"
+  },
+  {
+    "id": "9ae8fcb6-8126-45f7-b567-f37c2f054b67",
+    "storeName": "Bosco LLC",
+    "type": "Bank Account",
+    "amount": 1274,
+    "date": "06/18/2023"
+  },
+  {
+    "id": "1e2e0cc3-fd19-4d76-92e8-c4138ab0f732",
+    "storeName": "Kiehn, Lemke and Donnelly",
+    "type": "Bank Account",
+    "amount": 218,
+    "date": "07/21/2022"
+  },
+  {
+    "id": "80fe4637-4cc8-418b-bd3a-b7afcf781ee3",
+    "storeName": "Walsh, Daugherty and Frami",
+    "type": "Bank Account",
+    "amount": 28,
+    "date": "07/21/2022"
+  },
+  {
+    "id": "f4622eaa-775f-4669-9ce6-35e05fd7f25e",
+    "storeName": "Thompson-Carter",
+    "type": "Bank Account",
+    "amount": 1217,
+    "date": "11/08/2022"
+  },
+  {
+    "id": "f29d4892-5558-4046-97f6-5e9be578ac05",
+    "storeName": "Tremblay, Runolfsdottir and Sauer",
+    "type": "Bank Account",
+    "amount": 365,
+    "date": "11/02/2022"
+  },
+  {
+    "id": "f55a1a36-5020-4b94-a37c-8f141f59aa77",
+    "storeName": "Batz LLC",
+    "type": "Bank Account",
+    "amount": 260,
+    "date": "04/16/2023"
+  },
+  {
+    "id": "7924f5c9-f9c2-4ba6-9eb3-c39d9279f533",
+    "storeName": "Shanahan, Erdman and Fay",
+    "type": "Bank Account",
+    "amount": 1202,
+    "date": "07/13/2022"
+  },
+  {
+    "id": "a8a8eb33-c7e2-43a9-b0ea-6679cfc5b827",
+    "storeName": "Fahey, Thompson and Bechtelar",
+    "type": "Bank Account",
+    "amount": 869,
+    "date": "03/05/2023"
+  },
+  {
+    "id": "2f7b1101-b6c4-48cf-8f64-38f5877a103c",
+    "storeName": "Howell LLC",
+    "type": "Bank Account",
+    "amount": 1222,
+    "date": "10/19/2023"
+  },
+  {
+    "id": "c13bc581-cab2-4e3a-a001-34cd1c549900",
+    "storeName": "Yundt, Gutmann and Schroeder",
+    "type": "Bank Account",
+    "amount": 1281,
+    "date": "03/09/2023"
+  },
+  {
+    "id": "13574b4c-4373-45de-9e53-bbb6b428a59b",
+    "storeName": "Wunsch, Rice and Carroll",
+    "type": "Bank Account",
+    "amount": 1020,
+    "date": "03/25/2023"
+  },
+  {
+    "id": "a22f70e6-cbca-4300-93a6-b9b6110c9657",
+    "storeName": "Keebler, D'Amore and Johnson",
+    "type": "Bank Account",
+    "amount": 411,
+    "date": "04/28/2023"
+  },
+  {
+    "id": "e05c3b35-a956-40cb-8b5f-ba5010ef8c3d",
+    "storeName": "Hermann-Morissette",
+    "type": "Bank Account",
+    "amount": 392,
+    "date": "07/29/2022"
+  },
+  {
+    "id": "99d55509-57b6-476f-9702-4f1b56dd4f2e",
+    "storeName": "Hilpert-Schneider",
+    "type": "Bank Account",
+    "amount": 84,
+    "date": "02/01/2022"
+  },
+  {
+    "id": "cf03e294-8a56-4c10-a4b3-e178eb163ee1",
+    "storeName": "Cormier LLC",
+    "type": "Bank Account",
+    "amount": 652,
+    "date": "04/24/2022"
+  },
+  {
+    "id": "0b67deaa-28be-4ecd-88fa-0854bb648a2f",
+    "storeName": "Stoltenberg, Macejkovic and Stokes",
+    "type": "Bank Account",
+    "amount": 820,
+    "date": "02/20/2022"
+  },
+  {
+    "id": "0d7627c8-8138-4c84-9a1a-672e20064530",
+    "storeName": "Rippin LLC",
+    "type": "Bank Account",
+    "amount": 73,
+    "date": "07/25/2023"
+  },
+  {
+    "id": "c96c96c5-708a-4aa0-838e-0def48d58346",
+    "storeName": "Mertz, Schinner and Hauck",
+    "type": "Bank Account",
+    "amount": 540,
+    "date": "07/22/2022"
+  },
+  {
+    "id": "5502daca-02e2-4f14-8690-ff121e407534",
+    "storeName": "Mertz Inc",
+    "type": "Cash",
+    "amount": 605,
+    "date": "05/16/2023"
+  },
+  {
+    "id": "5cdc5548-64a5-4bb5-b552-151881c04b01",
+    "storeName": "Graham-Hansen",
+    "type": "Bank Account",
+    "amount": 822,
+    "date": "04/01/2022"
+  },
+  {
+    "id": "54725c5d-9c76-4b5b-92be-6c6420d4c9db",
+    "storeName": "Nikolaus LLC",
+    "type": "Bank Account",
+    "amount": 530,
+    "date": "12/10/2022"
+  },
+  {
+    "id": "b449980d-8e08-45a6-a618-b0899cacbca5",
+    "storeName": "Stokes, Botsford and Rolfson",
+    "type": "Cash",
+    "amount": 1225,
+    "date": "04/19/2022"
+  },
+  {
+    "id": "6a987b9a-a6fa-42d6-b493-54568236696e",
+    "storeName": "Mante Group",
+    "type": "Bank Account",
+    "amount": 264,
+    "date": "07/22/2023"
+  },
+  {
+    "id": "de6c346c-bfff-4dfc-8f3d-fa855ea7fabe",
+    "storeName": "Haley Inc",
+    "type": "Bank Account",
+    "amount": 847,
+    "date": "12/06/2022"
+  },
+  {
+    "id": "5268373e-95f7-4afc-ac8e-cd64f2ab3199",
+    "storeName": "Schamberger LLC",
+    "type": "Bank Account",
+    "amount": 807,
+    "date": "08/02/2022"
+  },
+  {
+    "id": "421ba2d7-a685-4d53-938c-60d9a616c706",
+    "storeName": "Fay-Boehm",
+    "type": "Bank Account",
+    "amount": 332,
+    "date": "08/23/2023"
+  },
+  {
+    "id": "37aff2c7-7cc4-4cf0-a59c-57e8295b7bc8",
+    "storeName": "Johns-Nienow",
+    "type": "Bank Account",
+    "amount": 1082,
+    "date": "02/09/2022"
+  },
+  {
+    "id": "38d3bb42-7a51-4bab-9e4f-a9e8923006ea",
+    "storeName": "Effertz, Stokes and Metz",
+    "type": "Bank Account",
+    "amount": 896,
+    "date": "11/11/2023"
+  },
+  {
+    "id": "3086c5f5-9d0d-4556-8ed0-766c7bfad579",
+    "storeName": "Ankunding, Lebsack and Fay",
+    "type": "Bank Account",
+    "amount": 618,
+    "date": "04/08/2022"
+  },
+  {
+    "id": "f2b120a1-7c1e-4b9f-9720-d852c3bd0da8",
+    "storeName": "Cummerata Inc",
+    "type": "Bank Account",
+    "amount": 738,
+    "date": "10/03/2023"
+  },
+  {
+    "id": "be3fed16-cdcf-4611-ba0b-87777308485b",
+    "storeName": "Sanford Inc",
+    "type": "Bank Account",
+    "amount": 1238,
+    "date": "08/19/2022"
+  },
+  {
+    "id": "70aa0c07-c75e-48b9-b832-6ac6e98718ea",
+    "storeName": "Bayer-Streich",
+    "type": "Bank Account",
+    "amount": 80,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "c8c72cf0-d3dc-46d4-8442-7264229994d3",
+    "storeName": "Dare-Streich",
+    "type": "Bank Account",
+    "amount": 825,
+    "date": "03/17/2022"
+  },
+  {
+    "id": "5c064d49-eeaa-4dd4-bfc3-ca55feb60b78",
+    "storeName": "Paucek-Hagenes",
+    "type": "Bank Account",
+    "amount": 595,
+    "date": "01/03/2022"
+  },
+  {
+    "id": "44d92b18-501a-4452-8c8b-53e2cc16276d",
+    "storeName": "Gutmann and Sons",
+    "type": "Bank Account",
+    "amount": 1044,
+    "date": "11/29/2022"
+  },
+  {
+    "id": "31b3d3e4-cce8-4efa-b931-66ed3a3b1ceb",
+    "storeName": "Koepp-Beer",
+    "type": "Bank Account",
+    "amount": 895,
+    "date": "12/21/2022"
+  },
+  {
+    "id": "c9f831b0-bcdb-49b6-b85e-bc71969cfbcf",
+    "storeName": "Bayer, Heidenreich and Gorczany",
+    "type": "Bank Account",
+    "amount": 588,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "0cc62331-1de4-42b5-abb5-3ce954a2187d",
+    "storeName": "Feeney, Lebsack and Terry",
+    "type": "Bank Account",
+    "amount": 783,
+    "date": "02/14/2023"
+  },
+  {
+    "id": "84788b39-f43a-409d-b514-2a5df5a942a6",
+    "storeName": "Balistreri-Homenick",
+    "type": "Bank Account",
+    "amount": 518,
+    "date": "01/06/2022"
+  },
+  {
+    "id": "6694a0c7-08c3-4139-bcf5-d19e0988bacf",
+    "storeName": "Lemke-Borer",
+    "type": "Bank Account",
+    "amount": 752,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "2e437bee-00c2-4948-a80d-4ed097b2589f",
+    "storeName": "Schowalter, Mann and Metz",
+    "type": "Bank Account",
+    "amount": 806,
+    "date": "01/24/2022"
+  },
+  {
+    "id": "b72b46e1-292c-4b61-acf9-71d974e1b61b",
+    "storeName": "Yost-Hammes",
+    "type": "Bank Account",
+    "amount": 715,
+    "date": "12/04/2022"
+  },
+  {
+    "id": "49f1c489-a782-4ed5-bcc7-af7859f0de23",
+    "storeName": "Kling-Koepp",
+    "type": "Bank Account",
+    "amount": 1078,
+    "date": "06/08/2022"
+  },
+  {
+    "id": "0c77bbb0-4278-45f9-ab72-f57483be18a9",
+    "storeName": "Schinner-Bednar",
+    "type": "Bank Account",
+    "amount": 513,
+    "date": "12/28/2022"
+  },
+  {
+    "id": "9579fd20-7b0f-4c22-89af-cae11f1a82d2",
+    "storeName": "Terry Group",
+    "type": "Bank Account",
+    "amount": 597,
+    "date": "12/03/2022"
+  },
+  {
+    "id": "23303a62-9469-4c62-8c8a-d9b4de9cb50a",
+    "storeName": "Bednar-Zieme",
+    "type": "Cash",
+    "amount": 753,
+    "date": "01/29/2022"
+  },
+  {
+    "id": "90dd59ac-f93b-4dab-86b5-a34a31af1850",
+    "storeName": "Boyle-Pfeffer",
+    "type": "Bank Account",
+    "amount": 974,
+    "date": "07/14/2023"
+  },
+  {
+    "id": "53d15575-b685-46ea-93b4-352d8b6fcdc1",
+    "storeName": "Leuschke-Dibbert",
+    "type": "Bank Account",
+    "amount": 1041,
+    "date": "03/20/2022"
+  },
+  {
+    "id": "8cc7d7cf-f0b1-4683-9942-96f94846576a",
+    "storeName": "D'Amore-Stokes",
+    "type": "Bank Account",
+    "amount": 265,
+    "date": "09/04/2022"
+  },
+  {
+    "id": "041c1c7b-4d58-4447-aeda-15624cc184d1",
+    "storeName": "Weber-Becker",
+    "type": "Bank Account",
+    "amount": 166,
+    "date": "03/16/2022"
+  },
+  {
+    "id": "99aa0597-ee4b-43ae-8a93-bb3efb29d868",
+    "storeName": "Ortiz, Miller and Glover",
+    "type": "Bank Account",
+    "amount": 1286,
+    "date": "10/31/2023"
+  },
+  {
+    "id": "192a98d1-5e8b-44cc-aaf9-fcf98706bc18",
+    "storeName": "Pagac, Leannon and Murazik",
+    "type": "Bank Account",
+    "amount": 1015,
+    "date": "10/26/2022"
+  },
+  {
+    "id": "3e8a34ef-3920-4a12-b5cc-4dc4942fa73c",
+    "storeName": "Erdman Inc",
+    "type": "Bank Account",
+    "amount": 1225,
+    "date": "11/01/2023"
+  },
+  {
+    "id": "70ec394d-2029-48bd-a80b-b49433400566",
+    "storeName": "Connelly-Ankunding",
+    "type": "Bank Account",
+    "amount": 147,
+    "date": "02/10/2023"
+  },
+  {
+    "id": "7dde254a-0cc0-4cb8-9feb-bb0aa7889815",
+    "storeName": "Marks-Heaney",
+    "type": "Cash",
+    "amount": 139,
+    "date": "04/07/2022"
+  },
+  {
+    "id": "bf9323a6-a7b9-4da0-a0ce-4126e9aa4e58",
+    "storeName": "Schinner-Roberts",
+    "type": "Bank Account",
+    "amount": 897,
+    "date": "03/07/2023"
+  },
+  {
+    "id": "3781904d-29ba-40d7-aba5-be9fafb31ec2",
+    "storeName": "Parker Group",
+    "type": "Bank Account",
+    "amount": 1185,
+    "date": "10/18/2022"
+  },
+  {
+    "id": "04268182-a982-48f6-9c5f-e2ce0fc8f798",
+    "storeName": "Aufderhar-Hirthe",
+    "type": "Bank Account",
+    "amount": 904,
+    "date": "01/19/2023"
+  },
+  {
+    "id": "83353674-1018-46c3-8c4e-5c069d795c1a",
+    "storeName": "Zboncak-Marquardt",
+    "type": "Bank Account",
+    "amount": 866,
+    "date": "01/20/2022"
+  },
+  {
+    "id": "fa7cecf3-69b4-4795-b89a-9faaac6ff4d4",
+    "storeName": "Schmeler Group",
+    "type": "Bank Account",
+    "amount": 210,
+    "date": "10/28/2022"
+  },
+  {
+    "id": "5f971947-dd57-41df-8e61-d855651525f6",
+    "storeName": "Wisozk, Legros and Emard",
+    "type": "Bank Account",
+    "amount": 313,
+    "date": "06/28/2023"
+  },
+  {
+    "id": "fcc3fb75-20b6-484a-8f9d-dbb788a3322a",
+    "storeName": "O'Connell and Sons",
+    "type": "Bank Account",
+    "amount": 48,
+    "date": "03/09/2022"
+  },
+  {
+    "id": "d8ac5630-8aef-4bd6-807e-79d1db46353c",
+    "storeName": "Howe-Schuppe",
+    "type": "Bank Account",
+    "amount": 470,
+    "date": "07/01/2023"
+  },
+  {
+    "id": "11237659-ce18-42e7-98f8-8835e1dd3f1e",
+    "storeName": "Jacobs-Bashirian",
+    "type": "Bank Account",
+    "amount": 145,
+    "date": "03/20/2022"
+  },
+  {
+    "id": "15c10240-290d-4e0e-8d21-cd0b780fde60",
+    "storeName": "Kilback, Pollich and Harber",
+    "type": "Bank Account",
+    "amount": 5,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "29d319f1-9be5-4973-aaff-af132c020135",
+    "storeName": "Spencer, DuBuque and Swaniawski",
+    "type": "Bank Account",
+    "amount": 392,
+    "date": "06/25/2022"
+  },
+  {
+    "id": "9e071077-6a55-4f5b-b986-9cc09f2827dc",
+    "storeName": "Becker and Sons",
+    "type": "Bank Account",
+    "amount": 1195,
+    "date": "11/18/2023"
+  },
+  {
+    "id": "475bc8d8-d250-40bb-b268-c42864d0ca3f",
+    "storeName": "Murphy-Strosin",
+    "type": "Bank Account",
+    "amount": 157,
+    "date": "01/04/2022"
+  },
+  {
+    "id": "69540f55-7ad6-4e90-90be-8360c0c39d04",
+    "storeName": "Jenkins LLC",
+    "type": "Bank Account",
+    "amount": 863,
+    "date": "06/23/2023"
+  },
+  {
+    "id": "ec17a622-ced0-4f1f-82af-9b7dc706f170",
+    "storeName": "Hamill-Roberts",
+    "type": "Bank Account",
+    "amount": 1236,
+    "date": "02/19/2023"
+  },
+  {
+    "id": "baec16cd-c512-410b-8add-6f06ed62f644",
+    "storeName": "Armstrong and Sons",
+    "type": "Bank Account",
+    "amount": 331,
+    "date": "05/25/2023"
+  },
+  {
+    "id": "52e38918-54d5-4c1a-8ad6-c70e32909bec",
+    "storeName": "Price-Glover",
+    "type": "Bank Account",
+    "amount": 1104,
+    "date": "10/10/2023"
+  },
+  {
+    "id": "2c3c7417-0cc2-458d-ae54-c5c75ba6ddd8",
+    "storeName": "Schamberger-Walker",
+    "type": "Bank Account",
+    "amount": 705,
+    "date": "08/19/2023"
+  },
+  {
+    "id": "0a709247-e018-4cc2-8ab2-14e9b8657d30",
+    "storeName": "Smitham-Reichert",
+    "type": "Bank Account",
+    "amount": 1169,
+    "date": "12/16/2022"
+  },
+  {
+    "id": "3914e39a-fc56-4392-9cf9-6bfc82e4b1b7",
+    "storeName": "Sauer-Wolff",
+    "type": "Bank Account",
+    "amount": 622,
+    "date": "08/24/2023"
+  },
+  {
+    "id": "054976b3-ac54-4b84-8e2d-ec3ad8351fc5",
+    "storeName": "Ziemann, Feeney and Schimmel",
+    "type": "Bank Account",
+    "amount": 356,
+    "date": "04/12/2022"
+  },
+  {
+    "id": "64242830-1407-4a14-8c0f-60ea3ad6e1c2",
+    "storeName": "Kuvalis-Marquardt",
+    "type": "Bank Account",
+    "amount": 710,
+    "date": "09/05/2022"
+  },
+  {
+    "id": "00b5d48e-5199-401a-b788-96cacd31c9c3",
+    "storeName": "Osinski-Grimes",
+    "type": "Bank Account",
+    "amount": 893,
+    "date": "10/31/2022"
+  },
+  {
+    "id": "3993394d-c451-472a-bde1-767f2ba0a980",
+    "storeName": "Bauch-Wiza",
+    "type": "Bank Account",
+    "amount": 562,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "3e571ee3-2ef6-413c-80c1-d1d5e96aef33",
+    "storeName": "Treutel LLC",
+    "type": "Bank Account",
+    "amount": 486,
+    "date": "10/30/2022"
+  },
+  {
+    "id": "c1661b7e-41fe-46eb-a792-ed082f635efa",
+    "storeName": "Kerluke-Simonis",
+    "type": "Bank Account",
+    "amount": 860,
+    "date": "07/15/2022"
+  },
+  {
+    "id": "093474f6-5eec-4691-bf84-f3cbb99fe653",
+    "storeName": "Langosh Group",
+    "type": "Bank Account",
+    "amount": 845,
+    "date": "03/17/2023"
+  },
+  {
+    "id": "09c853e2-a2ca-4da5-8df1-654dff406d4b",
+    "storeName": "Hoppe-Runolfsdottir",
+    "type": "Bank Account",
+    "amount": 102,
+    "date": "07/28/2022"
+  },
+  {
+    "id": "b68f9a48-c55e-47e6-b5d8-5fca6bb7a7f2",
+    "storeName": "McCullough-Herzog",
+    "type": "Cash",
+    "amount": 1176,
+    "date": "08/30/2022"
+  },
+  {
+    "id": "8f4679d2-1716-4bcd-aedb-4f196c57b39d",
+    "storeName": "Rempel Inc",
+    "type": "Bank Account",
+    "amount": 112,
+    "date": "07/07/2023"
+  },
+  {
+    "id": "9560bdb6-62a6-4a16-9983-e1e3dc079deb",
+    "storeName": "Muller, Moore and Cronin",
+    "type": "Bank Account",
+    "amount": 1232,
+    "date": "02/23/2022"
+  },
+  {
+    "id": "4a74afe6-200d-4f55-9fd1-4647f1e386fe",
+    "storeName": "Ernser-Breitenberg",
+    "type": "Bank Account",
+    "amount": 58,
+    "date": "07/16/2023"
+  },
+  {
+    "id": "80cea2b7-1a0f-4902-a934-fb00a430f131",
+    "storeName": "Bradtke-Fay",
+    "type": "Bank Account",
+    "amount": 907,
+    "date": "10/17/2023"
+  },
+  {
+    "id": "373d8f48-b22d-4bc1-9538-c3e6039b4b6c",
+    "storeName": "Strosin, Schmidt and Walker",
+    "type": "Bank Account",
+    "amount": 121,
+    "date": "10/19/2023"
+  },
+  {
+    "id": "4593f63d-086e-4fc3-9378-3b2e4cc390b0",
+    "storeName": "Stoltenberg Group",
+    "type": "Bank Account",
+    "amount": 360,
+    "date": "03/25/2023"
+  },
+  {
+    "id": "b8a04485-c4ef-4dff-8690-e26b061090a4",
+    "storeName": "Predovic-Herzog",
+    "type": "Bank Account",
+    "amount": 529,
+    "date": "10/02/2023"
+  },
+  {
+    "id": "54cfdc11-1560-4128-a49b-48569f2f9d02",
+    "storeName": "Zieme-Toy",
+    "type": "Bank Account",
+    "amount": 414,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "a919c59b-47c5-403c-ba6b-8de4aa362633",
+    "storeName": "Harvey Inc",
+    "type": "Bank Account",
+    "amount": 231,
+    "date": "07/28/2022"
+  },
+  {
+    "id": "24d5d87b-8995-4956-aca0-3cbb3a10efa7",
+    "storeName": "Homenick, Powlowski and Welch",
+    "type": "Bank Account",
+    "amount": 240,
+    "date": "09/15/2022"
+  },
+  {
+    "id": "ba63df3f-e8d8-4403-acc4-652729fccc62",
+    "storeName": "Orn LLC",
+    "type": "Bank Account",
+    "amount": 525,
+    "date": "10/02/2022"
+  },
+  {
+    "id": "833c8a00-1a2b-4062-be64-c12ce896550e",
+    "storeName": "Gibson, Pollich and Hammes",
+    "type": "Bank Account",
+    "amount": 235,
+    "date": "06/28/2022"
+  },
+  {
+    "id": "ab7e0125-11e7-4380-b79e-3f47f064fca4",
+    "storeName": "Orn, Klein and Gleichner",
+    "type": "Bank Account",
+    "amount": 395,
+    "date": "04/11/2022"
+  },
+  {
+    "id": "893c7df7-b49d-4aad-abe1-c46cac864516",
+    "storeName": "Crist Group",
+    "type": "Bank Account",
+    "amount": 935,
+    "date": "05/31/2023"
+  },
+  {
+    "id": "8360107c-3bc9-4f14-a180-597d89fa9890",
+    "storeName": "Hartmann-Cassin",
+    "type": "Bank Account",
+    "amount": 1147,
+    "date": "01/05/2022"
+  },
+  {
+    "id": "31c66fde-600e-4077-8d17-05b6ed16e55f",
+    "storeName": "VonRueden-Bechtelar",
+    "type": "Bank Account",
+    "amount": 1046,
+    "date": "07/05/2022"
+  },
+  {
+    "id": "9347b8f4-9b46-4ec7-925b-747e1ecdf702",
+    "storeName": "Rutherford, Botsford and Herman",
+    "type": "Bank Account",
+    "amount": 1263,
+    "date": "05/04/2022"
+  },
+  {
+    "id": "0d8224fb-0b12-4ff3-8b82-26a0f6915638",
+    "storeName": "Corkery-Parisian",
+    "type": "Bank Account",
+    "amount": 842,
+    "date": "09/12/2023"
+  },
+  {
+    "id": "dafa6925-7461-461c-adb2-e4d77d555e7a",
+    "storeName": "Robel, Predovic and Vandervort",
+    "type": "Bank Account",
+    "amount": 1020,
+    "date": "10/05/2022"
+  },
+  {
+    "id": "f5ddb7f7-85b4-4f08-b084-b9be75e35cb4",
+    "storeName": "Trantow, Hickle and Hilll",
+    "type": "Bank Account",
+    "amount": 121,
+    "date": "11/22/2023"
+  },
+  {
+    "id": "16daf9cc-5973-49d2-a716-01836aa999e6",
+    "storeName": "Aufderhar LLC",
+    "type": "Bank Account",
+    "amount": 1274,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "513e91bd-3c6b-4b81-aa92-d35779eaab66",
+    "storeName": "Williamson-Lynch",
+    "type": "Bank Account",
+    "amount": 229,
+    "date": "06/22/2022"
+  },
+  {
+    "id": "f92a0836-ca66-4714-814f-9b7a98925428",
+    "storeName": "Willms Inc",
+    "type": "Bank Account",
+    "amount": 722,
+    "date": "09/30/2023"
+  },
+  {
+    "id": "943cd540-aca8-4c4e-9b4a-73d085f4d40c",
+    "storeName": "Trantow Inc",
+    "type": "Bank Account",
+    "amount": 1076,
+    "date": "12/15/2022"
+  },
+  {
+    "id": "2b73495f-5066-43f3-9f86-cdaba7307c62",
+    "storeName": "Crona Inc",
+    "type": "Bank Account",
+    "amount": 550,
+    "date": "11/08/2023"
+  },
+  {
+    "id": "f9fde8c4-e738-4834-8e9c-75c2b89b2028",
+    "storeName": "Abbott-Mann",
+    "type": "Bank Account",
+    "amount": 797,
+    "date": "05/13/2023"
+  },
+  {
+    "id": "5fa24305-b076-47f5-afc6-d8e891e4842b",
+    "storeName": "Grimes, Satterfield and Brakus",
+    "type": "Bank Account",
+    "amount": 151,
+    "date": "08/23/2023"
+  },
+  {
+    "id": "ca5a8283-57da-49ce-b6d0-5fc9d2df0965",
+    "storeName": "Baumbach, Cummerata and Quigley",
+    "type": "Bank Account",
+    "amount": 167,
+    "date": "04/21/2022"
+  },
+  {
+    "id": "7823a435-6da3-44ba-86dc-3b92f7c0fdf2",
+    "storeName": "Brown, Johnson and Shanahan",
+    "type": "Bank Account",
+    "amount": 1267,
+    "date": "06/02/2023"
+  },
+  {
+    "id": "cfdb8358-824a-4596-a592-a52604df03cd",
+    "storeName": "Streich Inc",
+    "type": "Bank Account",
+    "amount": 404,
+    "date": "05/16/2022"
+  },
+  {
+    "id": "939ce760-e8c2-4867-b51c-5e24e9e73af4",
+    "storeName": "Boehm-Jacobi",
+    "type": "Bank Account",
+    "amount": 906,
+    "date": "09/25/2023"
+  },
+  {
+    "id": "9317762e-12e4-43a1-aab0-7daf8d435c04",
+    "storeName": "Olson, Bergnaum and Kohler",
+    "type": "Bank Account",
+    "amount": 1261,
+    "date": "10/06/2022"
+  },
+  {
+    "id": "b451e7c8-f33d-4f32-a370-9675a7876527",
+    "storeName": "Walter-Emmerich",
+    "type": "Bank Account",
+    "amount": 405,
+    "date": "08/31/2023"
+  },
+  {
+    "id": "f3e44b47-36f4-4735-b13a-c648e5bdce27",
+    "storeName": "Terry and Sons",
+    "type": "Bank Account",
+    "amount": 525,
+    "date": "12/01/2022"
+  },
+  {
+    "id": "6b331aab-4bfd-4641-b4dd-8866d4d7a70d",
+    "storeName": "Schaefer Group",
+    "type": "Bank Account",
+    "amount": 1087,
+    "date": "05/25/2023"
+  },
+  {
+    "id": "e7d5f33f-8e75-43e9-9b70-c180a78d611a",
+    "storeName": "Ortiz Group",
+    "type": "Bank Account",
+    "amount": 697,
+    "date": "11/18/2022"
+  },
+  {
+    "id": "ffbe2b04-13eb-4c25-b9d8-4fb703ac2b50",
+    "storeName": "Renner LLC",
+    "type": "Cash",
+    "amount": 371,
+    "date": "03/15/2022"
+  },
+  {
+    "id": "5584c698-a263-4439-ad74-874377860ee4",
+    "storeName": "Orn-Cummerata",
+    "type": "Bank Account",
+    "amount": 1144,
+    "date": "01/24/2023"
+  },
+  {
+    "id": "2ce734ee-6071-4bc8-a24f-b311af3d7ea6",
+    "storeName": "Ebert-Wiegand",
+    "type": "Bank Account",
+    "amount": 624,
+    "date": "03/24/2023"
+  },
+  {
+    "id": "f90da329-a90b-47e5-99ff-59b03ed04312",
+    "storeName": "Stracke, Boyle and Kohler",
+    "type": "Bank Account",
+    "amount": 324,
+    "date": "08/31/2022"
+  },
+  {
+    "id": "1b8212f9-8a4f-409b-ac8f-fa0ec964d3d4",
+    "storeName": "Brown-Aufderhar",
+    "type": "Bank Account",
+    "amount": 1181,
+    "date": "06/15/2022"
+  },
+  {
+    "id": "0fc57530-2308-4c9a-ab09-d701525d25a2",
+    "storeName": "Robel Group",
+    "type": "Bank Account",
+    "amount": 827,
+    "date": "10/18/2022"
+  },
+  {
+    "id": "3f424787-4c4b-4d49-a46b-204904a31b7f",
+    "storeName": "Wolff-O'Keefe",
+    "type": "Bank Account",
+    "amount": 618,
+    "date": "09/24/2022"
+  },
+  {
+    "id": "cc3695f7-f01c-4ba0-8ee2-3bd5b5e4edc2",
+    "storeName": "Rice, Heidenreich and Lubowitz",
+    "type": "Cash",
+    "amount": 669,
+    "date": "08/29/2023"
+  },
+  {
+    "id": "d7fc30e7-9345-41a6-abb0-26fbac6abd78",
+    "storeName": "Kemmer-Blick",
+    "type": "Bank Account",
+    "amount": 209,
+    "date": "12/29/2022"
+  },
+  {
+    "id": "43ce2a6c-6184-4bb6-97fe-e9f91af9e8af",
+    "storeName": "Brakus, Baumbach and Haag",
+    "type": "Bank Account",
+    "amount": 564,
+    "date": "07/28/2023"
+  },
+  {
+    "id": "26107abe-455b-47b3-ac94-ce3b66000850",
+    "storeName": "Hane and Sons",
+    "type": "Bank Account",
+    "amount": 1045,
+    "date": "02/12/2022"
+  },
+  {
+    "id": "2568d22c-54ce-413e-ac69-f43735aae05a",
+    "storeName": "Simonis LLC",
+    "type": "Bank Account",
+    "amount": 9,
+    "date": "01/14/2022"
+  },
+  {
+    "id": "69f0495e-c1a9-47cd-86bf-aa4defbc3ecb",
+    "storeName": "Schuster, Hane and Effertz",
+    "type": "Bank Account",
+    "amount": 197,
+    "date": "08/17/2022"
+  },
+  {
+    "id": "483d91eb-f97f-4c4c-8022-5b9b3342c24e",
+    "storeName": "Witting-Ritchie",
+    "type": "Bank Account",
+    "amount": 754,
+    "date": "01/16/2023"
+  },
+  {
+    "id": "fb85a194-8a08-405a-bdbc-ff4fad23405d",
+    "storeName": "O'Kon Group",
+    "type": "Bank Account",
+    "amount": 26,
+    "date": "11/15/2022"
+  },
+  {
+    "id": "b09c5fbe-fd48-43b7-b9b7-ca4e7c477bf0",
+    "storeName": "Ortiz Group",
+    "type": "Bank Account",
+    "amount": 427,
+    "date": "10/15/2023"
+  },
+  {
+    "id": "8bdbe02f-6eb1-4fee-b2d3-9a40241f28de",
+    "storeName": "Daniel, Sporer and Hilpert",
+    "type": "Bank Account",
+    "amount": 1193,
+    "date": "05/01/2023"
+  },
+  {
+    "id": "1462e61a-45ec-4697-aff6-eeff019c8bc4",
+    "storeName": "Konopelski, Ferry and Gleichner",
+    "type": "Bank Account",
+    "amount": 181,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "7d91076d-4add-4c28-ada3-838eb7be4774",
+    "storeName": "Hessel, Larson and Vandervort",
+    "type": "Bank Account",
+    "amount": 745,
+    "date": "10/27/2023"
+  },
+  {
+    "id": "c168052f-665f-47ad-b888-e708d8cf3ab8",
+    "storeName": "Bauch-Prohaska",
+    "type": "Bank Account",
+    "amount": 489,
+    "date": "02/23/2022"
+  },
+  {
+    "id": "65baca7f-1545-410a-bc74-c41b276abac0",
+    "storeName": "Will, Hackett and Waters",
+    "type": "Bank Account",
+    "amount": 1051,
+    "date": "05/14/2023"
+  },
+  {
+    "id": "53fe6752-c1ed-4fa1-941d-5eb203b8b54e",
+    "storeName": "Smith-Bradtke",
+    "type": "Cash",
+    "amount": 710,
+    "date": "07/20/2022"
+  },
+  {
+    "id": "195fdd9a-cbb5-460c-b14b-f3e45f650ce8",
+    "storeName": "Swift, Keebler and Mayer",
+    "type": "Cash",
+    "amount": 156,
+    "date": "08/23/2022"
+  },
+  {
+    "id": "e03b51f4-e85a-4283-815a-ee649bc9049f",
+    "storeName": "Padberg, Hessel and Harvey",
+    "type": "Bank Account",
+    "amount": 913,
+    "date": "08/01/2022"
+  },
+  {
+    "id": "2fd5cabe-cc55-4507-b119-cca3125da2e7",
+    "storeName": "Stanton LLC",
+    "type": "Bank Account",
+    "amount": 1032,
+    "date": "01/21/2023"
+  },
+  {
+    "id": "a6d6d0e5-9fad-46f8-9441-d34030be97a9",
+    "storeName": "West-Kozey",
+    "type": "Bank Account",
+    "amount": 335,
+    "date": "08/30/2023"
+  },
+  {
+    "id": "737d18c7-4337-441c-80ee-fa02654e2e5c",
+    "storeName": "Deckow-Herman",
+    "type": "Bank Account",
+    "amount": 75,
+    "date": "07/24/2022"
+  },
+  {
+    "id": "c6816728-3104-4353-8a3c-38e75ae36156",
+    "storeName": "Jacobson LLC",
+    "type": "Bank Account",
+    "amount": 465,
+    "date": "05/28/2023"
+  },
+  {
+    "id": "4952db86-3e52-4cd7-8782-c6e5d6367892",
+    "storeName": "Becker-Stanton",
+    "type": "Bank Account",
+    "amount": 268,
+    "date": "06/25/2022"
+  },
+  {
+    "id": "aa09767b-9e31-4fa9-965f-bac0e0f17b9f",
+    "storeName": "Kilback, Williamson and Wisozk",
+    "type": "Bank Account",
+    "amount": 466,
+    "date": "06/18/2022"
+  },
+  {
+    "id": "347b3593-1747-4a34-8b9d-caa022ce04c5",
+    "storeName": "Wyman LLC",
+    "type": "Bank Account",
+    "amount": 666,
+    "date": "10/21/2023"
+  },
+  {
+    "id": "19bab884-4386-4935-bc69-28fd2554ad9b",
+    "storeName": "Buckridge and Sons",
+    "type": "Cash",
+    "amount": 482,
+    "date": "02/16/2022"
+  },
+  {
+    "id": "2009f141-7625-43f9-8b3d-d1c5138a9569",
+    "storeName": "Grady-Beatty",
+    "type": "Bank Account",
+    "amount": 293,
+    "date": "06/10/2023"
+  },
+  {
+    "id": "2cd141da-7f1e-419e-9fe6-d4c9a017fc0b",
+    "storeName": "Stroman-Rolfson",
+    "type": "Bank Account",
+    "amount": 340,
+    "date": "02/01/2023"
+  },
+  {
+    "id": "98d99c9e-e5f7-4085-9fa7-e989adbf5216",
+    "storeName": "Jakubowski, Beahan and Becker",
+    "type": "Bank Account",
+    "amount": 730,
+    "date": "02/23/2022"
+  },
+  {
+    "id": "2bf665bb-4f9a-4bb4-9433-c98027a890a8",
+    "storeName": "Ferry, Crona and Stiedemann",
+    "type": "Bank Account",
+    "amount": 955,
+    "date": "03/01/2023"
+  },
+  {
+    "id": "7073649f-5da8-4d08-a62a-c8308524a38e",
+    "storeName": "Morar-Stroman",
+    "type": "Bank Account",
+    "amount": 816,
+    "date": "01/31/2023"
+  },
+  {
+    "id": "552fb3f6-0900-4e41-b78b-412c31e75577",
+    "storeName": "Quigley-Gottlieb",
+    "type": "Bank Account",
+    "amount": 811,
+    "date": "02/28/2023"
+  },
+  {
+    "id": "3b9538c4-b273-438b-a89b-b69cf03297ac",
+    "storeName": "Sipes and Sons",
+    "type": "Bank Account",
+    "amount": 12,
+    "date": "01/14/2023"
+  },
+  {
+    "id": "e1e29c41-93c5-49fe-a642-ac2eb5e01b90",
+    "storeName": "Legros-Schuster",
+    "type": "Bank Account",
+    "amount": 601,
+    "date": "03/24/2022"
+  },
+  {
+    "id": "0eb88b3f-6092-47af-9e2d-cf246b71bf58",
+    "storeName": "Schaden-Green",
+    "type": "Bank Account",
+    "amount": 929,
+    "date": "06/22/2022"
+  },
+  {
+    "id": "ebc0cc99-ae8c-489f-b7e0-1d45c1187116",
+    "storeName": "Quitzon, Franecki and Davis",
+    "type": "Bank Account",
+    "amount": 1194,
+    "date": "01/15/2022"
+  },
+  {
+    "id": "b87aabab-5e31-4b60-9742-d7ba627f2298",
+    "storeName": "Ritchie and Sons",
+    "type": "Bank Account",
+    "amount": 562,
+    "date": "08/18/2023"
+  },
+  {
+    "id": "ec59251b-c638-4c96-9dec-3b0621dc6e47",
+    "storeName": "Stroman, Brown and Johnston",
+    "type": "Bank Account",
+    "amount": 108,
+    "date": "02/06/2023"
+  },
+  {
+    "id": "4d6f654f-da4b-44f9-be1d-c48b633ad562",
+    "storeName": "O'Conner LLC",
+    "type": "Bank Account",
+    "amount": 967,
+    "date": "04/02/2022"
+  },
+  {
+    "id": "8f2ce80b-62c8-42ce-8871-c3ee8eafe42b",
+    "storeName": "Ratke-Auer",
+    "type": "Bank Account",
+    "amount": 924,
+    "date": "01/17/2023"
+  },
+  {
+    "id": "0d2b62f5-71b1-4813-9c19-cfe0b5cd8437",
+    "storeName": "Pouros, Lubowitz and Vandervort",
+    "type": "Bank Account",
+    "amount": 320,
+    "date": "10/19/2023"
+  },
+  {
+    "id": "1f548ae0-836b-41c1-86c6-fab1a32bf7a8",
+    "storeName": "Mitchell-Schulist",
+    "type": "Cash",
+    "amount": 462,
+    "date": "02/02/2022"
+  },
+  {
+    "id": "bc47c979-8def-4683-b1a4-c43cbdf0f60f",
+    "storeName": "Wunsch-Rutherford",
+    "type": "Bank Account",
+    "amount": 706,
+    "date": "02/21/2023"
+  },
+  {
+    "id": "2816a1b4-e798-4827-8340-a590c95f3d7b",
+    "storeName": "Smitham, Hessel and Franecki",
+    "type": "Bank Account",
+    "amount": 1088,
+    "date": "02/25/2023"
+  },
+  {
+    "id": "a9da4669-d500-494a-a64c-493fba1b31fe",
+    "storeName": "Jaskolski-Jacobs",
+    "type": "Bank Account",
+    "amount": 1107,
+    "date": "06/21/2023"
+  },
+  {
+    "id": "b401167c-d24f-410c-aa7a-901e4df7849d",
+    "storeName": "Bode-Rogahn",
+    "type": "Bank Account",
+    "amount": 1054,
+    "date": "10/18/2023"
+  },
+  {
+    "id": "4f29ca64-a7ff-49d9-b5b0-2aacd1a57332",
+    "storeName": "Schmidt-Bailey",
+    "type": "Bank Account",
+    "amount": 414,
+    "date": "01/03/2023"
+  },
+  {
+    "id": "9feb4649-fb5b-487f-bac5-f85d4f93ecc0",
+    "storeName": "Boyle Inc",
+    "type": "Bank Account",
+    "amount": 987,
+    "date": "10/25/2022"
+  },
+  {
+    "id": "1fd2f779-79d5-409e-9bcf-80ea5bab092e",
+    "storeName": "Hickle-Kozey",
+    "type": "Bank Account",
+    "amount": 803,
+    "date": "01/15/2022"
+  },
+  {
+    "id": "b9769ea1-4891-41f9-9dc6-391051caa979",
+    "storeName": "Cremin-Rogahn",
+    "type": "Bank Account",
+    "amount": 138,
+    "date": "03/04/2022"
+  },
+  {
+    "id": "81fcf1e6-4a75-4081-89be-839e8859c038",
+    "storeName": "Dooley LLC",
+    "type": "Bank Account",
+    "amount": 680,
+    "date": "06/01/2022"
+  },
+  {
+    "id": "ce585159-ed45-490e-882d-df83effc9afb",
+    "storeName": "Balistreri LLC",
+    "type": "Bank Account",
+    "amount": 718,
+    "date": "06/22/2023"
+  },
+  {
+    "id": "b6913408-6244-4c8e-a3f2-6af7cd9a6541",
+    "storeName": "Cummerata-Jenkins",
+    "type": "Bank Account",
+    "amount": 1275,
+    "date": "07/04/2023"
+  },
+  {
+    "id": "277e4048-5807-4312-b39c-91d60428fa88",
+    "storeName": "Cremin-Crona",
+    "type": "Bank Account",
+    "amount": 742,
+    "date": "07/24/2022"
+  },
+  {
+    "id": "0b9acb88-15b4-4881-a7ab-3a65c90d585f",
+    "storeName": "Treutel-Harber",
+    "type": "Bank Account",
+    "amount": 1201,
+    "date": "03/07/2022"
+  },
+  {
+    "id": "229ffc41-6521-4572-8712-c51a80d8dbec",
+    "storeName": "Wehner, Bruen and Kris",
+    "type": "Bank Account",
+    "amount": 645,
+    "date": "02/08/2023"
+  },
+  {
+    "id": "40717f26-cdb8-480b-bc65-0b2e688191ae",
+    "storeName": "Schowalter, Halvorson and Bernhard",
+    "type": "Bank Account",
+    "amount": 166,
+    "date": "06/07/2022"
+  },
+  {
+    "id": "182b553b-84de-484f-b7a8-7c732355355a",
+    "storeName": "Quigley LLC",
+    "type": "Cash",
+    "amount": 833,
+    "date": "04/21/2023"
+  },
+  {
+    "id": "ebeba766-9f63-4bf5-b51a-a54e2cbed168",
+    "storeName": "Turcotte Inc",
+    "type": "Bank Account",
+    "amount": 1007,
+    "date": "05/06/2022"
+  },
+  {
+    "id": "dc7218b9-3c8b-4747-b689-05e3762b7269",
+    "storeName": "Hilpert and Sons",
+    "type": "Bank Account",
+    "amount": 1172,
+    "date": "05/28/2022"
+  },
+  {
+    "id": "14e8e7de-ff45-4d47-9a1e-25c44e0d31bb",
+    "storeName": "Boehm, Aufderhar and Medhurst",
+    "type": "Bank Account",
+    "amount": 300,
+    "date": "02/07/2023"
+  },
+  {
+    "id": "eaca4ec6-78a7-48e7-8d16-1fd45464d2b4",
+    "storeName": "Little, Hansen and Jones",
+    "type": "Bank Account",
+    "amount": 714,
+    "date": "08/23/2022"
+  },
+  {
+    "id": "14c2fb62-9cc8-49bc-855d-400c59fb3ca5",
+    "storeName": "Herman Group",
+    "type": "Bank Account",
+    "amount": 101,
+    "date": "08/11/2023"
+  },
+  {
+    "id": "1caddeaf-0ffd-4e47-b81c-e44a101a0ff1",
+    "storeName": "Stamm Inc",
+    "type": "Bank Account",
+    "amount": 437,
+    "date": "03/13/2023"
+  },
+  {
+    "id": "f567c313-3274-41df-9bf5-4142f3115e78",
+    "storeName": "Fay, Harris and Jerde",
+    "type": "Bank Account",
+    "amount": 439,
+    "date": "07/14/2023"
+  },
+  {
+    "id": "8f2baef6-2e11-44b6-8b8c-f7ebed0b3302",
+    "storeName": "Ortiz-Hegmann",
+    "type": "Cash",
+    "amount": 785,
+    "date": "01/10/2023"
+  },
+  {
+    "id": "325999b2-6bdf-44f2-9ead-ab5bdff78756",
+    "storeName": "Walsh, Lubowitz and Sipes",
+    "type": "Bank Account",
+    "amount": 627,
+    "date": "10/02/2023"
+  },
+  {
+    "id": "88522d28-0782-4c04-91ed-2f29fdd0f64e",
+    "storeName": "Spencer-Kassulke",
+    "type": "Bank Account",
+    "amount": 1094,
+    "date": "09/27/2022"
+  },
+  {
+    "id": "311d1bf7-c485-4e46-92c9-2d484e3b5a30",
+    "storeName": "Jacobson-Effertz",
+    "type": "Bank Account",
+    "amount": 1012,
+    "date": "03/29/2022"
+  },
+  {
+    "id": "c753f951-2257-4bf4-97b1-6586c9751cad",
+    "storeName": "Block and Sons",
+    "type": "Bank Account",
+    "amount": 1287,
+    "date": "06/26/2022"
+  },
+  {
+    "id": "d8e17622-36af-445e-897d-21b75ca0080b",
+    "storeName": "Hermann-Hills",
+    "type": "Bank Account",
+    "amount": 818,
+    "date": "06/01/2023"
+  },
+  {
+    "id": "e2d642ce-2164-48af-a375-c3acaf85e67a",
+    "storeName": "Zieme-Hoppe",
+    "type": "Bank Account",
+    "amount": 1235,
+    "date": "12/05/2022"
+  },
+  {
+    "id": "6239542b-7048-4ea0-b046-b37966bad598",
+    "storeName": "Rippin, Lowe and Wehner",
+    "type": "Bank Account",
+    "amount": 795,
+    "date": "06/11/2023"
+  },
+  {
+    "id": "379fdbad-c53d-44a7-9aca-d260eae7d7ba",
+    "storeName": "Lynch, Weber and Kunze",
+    "type": "Bank Account",
+    "amount": 1267,
+    "date": "05/12/2023"
+  },
+  {
+    "id": "f2c4d4d1-bfb1-4e1c-b7e0-c6bbffd90393",
+    "storeName": "Lubowitz and Sons",
+    "type": "Bank Account",
+    "amount": 316,
+    "date": "04/17/2022"
+  },
+  {
+    "id": "cf985be4-6b88-46df-bc8e-c40352260398",
+    "storeName": "Gleichner-McClure",
+    "type": "Bank Account",
+    "amount": 820,
+    "date": "02/13/2022"
+  },
+  {
+    "id": "f80467d0-2a62-4cf4-a537-a8efb2473ddc",
+    "storeName": "King Inc",
+    "type": "Bank Account",
+    "amount": 639,
+    "date": "05/30/2023"
+  },
+  {
+    "id": "b3740ad0-7537-4815-9bd9-47cd11a9f93a",
+    "storeName": "Veum Group",
+    "type": "Bank Account",
+    "amount": 1157,
+    "date": "05/06/2022"
+  },
+  {
+    "id": "180e15c5-a300-4f41-845b-8274d2169646",
+    "storeName": "Goodwin-Schaefer",
+    "type": "Bank Account",
+    "amount": 852,
+    "date": "05/29/2022"
+  },
+  {
+    "id": "87ef9302-7581-4b68-b47b-11700f3bfaae",
+    "storeName": "Kirlin-Turcotte",
+    "type": "Bank Account",
+    "amount": 349,
+    "date": "05/21/2022"
+  },
+  {
+    "id": "b5a7b031-842c-4a34-8a4e-f29114e6a3d3",
+    "storeName": "Little Inc",
+    "type": "Bank Account",
+    "amount": 1044,
+    "date": "11/12/2023"
+  },
+  {
+    "id": "23274726-1340-4738-94c6-3a3a7c6f4f7f",
+    "storeName": "Emmerich-Murazik",
+    "type": "Bank Account",
+    "amount": 1055,
+    "date": "12/25/2022"
+  },
+  {
+    "id": "5ecf0938-d2b9-4d6c-85aa-ca0a8d68f0c0",
+    "storeName": "VonRueden, Hintz and Stroman",
+    "type": "Bank Account",
+    "amount": 134,
+    "date": "07/24/2022"
+  },
+  {
+    "id": "72977efb-55db-4b43-bbf3-3770302686ac",
+    "storeName": "Shields, Moen and Gleichner",
+    "type": "Bank Account",
+    "amount": 276,
+    "date": "11/10/2022"
+  },
+  {
+    "id": "60583f09-0019-4000-84c9-eb220eb3eda4",
+    "storeName": "Price Inc",
+    "type": "Bank Account",
+    "amount": 361,
+    "date": "02/16/2022"
+  },
+  {
+    "id": "d0b6d937-0456-4f22-82dc-331eb9433597",
+    "storeName": "Hagenes-Durgan",
+    "type": "Bank Account",
+    "amount": 543,
+    "date": "11/27/2023"
+  },
+  {
+    "id": "62f0d9bc-dcff-40b6-a2c7-5132a9782296",
+    "storeName": "Rohan-Mosciski",
+    "type": "Bank Account",
+    "amount": 933,
+    "date": "09/05/2022"
+  },
+  {
+    "id": "3461891e-48fd-4df0-aee5-205b46ae8557",
+    "storeName": "Pagac-Reinger",
+    "type": "Bank Account",
+    "amount": 958,
+    "date": "01/02/2022"
+  },
+  {
+    "id": "86f1476e-c851-42c4-bfa7-83ede8fc50a9",
+    "storeName": "Reynolds-Ziemann",
+    "type": "Bank Account",
+    "amount": 556,
+    "date": "05/09/2022"
+  },
+  {
+    "id": "5cc33ebf-ffdb-49f1-9ebb-3516edcbe9cb",
+    "storeName": "Kertzmann-Von",
+    "type": "Bank Account",
+    "amount": 932,
+    "date": "02/13/2022"
+  },
+  {
+    "id": "81fc011b-a465-4e5e-962c-f5856936be06",
+    "storeName": "Lemke-Gleichner",
+    "type": "Bank Account",
+    "amount": 1276,
+    "date": "02/25/2022"
+  },
+  {
+    "id": "9d6ed037-4377-41b3-b4dc-1ec8c2529b73",
+    "storeName": "Mitchell LLC",
+    "type": "Cash",
+    "amount": 29,
+    "date": "06/11/2023"
+  },
+  {
+    "id": "6ae26a05-ed4f-4a08-b535-4e55dd496571",
+    "storeName": "Macejkovic, Heller and Schaden",
+    "type": "Bank Account",
+    "amount": 1225,
+    "date": "01/02/2022"
+  },
+  {
+    "id": "fa64c1ae-a7f9-4be0-af15-9d95ea8e8c74",
+    "storeName": "McGlynn-Welch",
+    "type": "Bank Account",
+    "amount": 1169,
+    "date": "05/11/2022"
+  },
+  {
+    "id": "0d2a4db3-ff0a-4cf0-9cfe-de1266ee25d0",
+    "storeName": "Olson-Bogan",
+    "type": "Bank Account",
+    "amount": 1026,
+    "date": "08/19/2022"
+  },
+  {
+    "id": "e7939b9e-fc83-4b99-8ee3-33abe3cb4b6c",
+    "storeName": "Hahn-Herman",
+    "type": "Bank Account",
+    "amount": 885,
+    "date": "08/09/2022"
+  },
+  {
+    "id": "f018eb4a-af85-4461-874b-2ed07d1b4186",
+    "storeName": "Brakus, Becker and Breitenberg",
+    "type": "Cash",
+    "amount": 1018,
+    "date": "03/07/2022"
+  },
+  {
+    "id": "0e95ae19-774b-4f1c-af35-f42cc9e3fae6",
+    "storeName": "Bechtelar-Smitham",
+    "type": "Bank Account",
+    "amount": 86,
+    "date": "02/23/2022"
+  },
+  {
+    "id": "69913b81-1a4c-437e-8243-dc2c3a0a973e",
+    "storeName": "Torphy, Kuvalis and Considine",
+    "type": "Bank Account",
+    "amount": 1272,
+    "date": "07/02/2023"
+  },
+  {
+    "id": "8ec39499-493c-4f9e-b5e8-80177d16d624",
+    "storeName": "O'Reilly-Nikolaus",
+    "type": "Bank Account",
+    "amount": 33,
+    "date": "10/23/2023"
+  },
+  {
+    "id": "2393b7b7-3d1c-4f3b-8db4-009afa4ac992",
+    "storeName": "Treutel, Frami and Tillman",
+    "type": "Bank Account",
+    "amount": 1183,
+    "date": "01/27/2023"
+  },
+  {
+    "id": "6082284d-3c33-49b5-8c1f-bb1409bcd377",
+    "storeName": "Gottlieb-Herzog",
+    "type": "Bank Account",
+    "amount": 348,
+    "date": "11/14/2023"
+  },
+  {
+    "id": "aba538b2-60a1-458e-8cef-5807dada1589",
+    "storeName": "Ernser, Stiedemann and Upton",
+    "type": "Bank Account",
+    "amount": 207,
+    "date": "04/03/2023"
+  },
+  {
+    "id": "58761c7a-482f-44e8-bb60-eebc2209a715",
+    "storeName": "Smitham Inc",
+    "type": "Bank Account",
+    "amount": 749,
+    "date": "06/26/2022"
+  },
+  {
+    "id": "fa5e3354-d222-459d-ad7d-4386740fe303",
+    "storeName": "Reichert-Hills",
+    "type": "Cash",
+    "amount": 898,
+    "date": "08/07/2022"
+  },
+  {
+    "id": "38e0f290-9d5c-4719-9ad9-c2009cba1521",
+    "storeName": "Borer, Goyette and O'Reilly",
+    "type": "Bank Account",
+    "amount": 626,
+    "date": "10/31/2022"
+  },
+  {
+    "id": "75b08e97-a67a-4e99-8ad8-5556690bd6b5",
+    "storeName": "Cassin, Schowalter and Breitenberg",
+    "type": "Bank Account",
+    "amount": 217,
+    "date": "05/09/2022"
+  },
+  {
+    "id": "8f2b6142-1a72-404d-afab-861a19d05462",
+    "storeName": "Zieme, Trantow and Jakubowski",
+    "type": "Bank Account",
+    "amount": 636,
+    "date": "03/21/2023"
+  },
+  {
+    "id": "3e5c3e6d-81cf-4f7b-b218-36dfa543d2f6",
+    "storeName": "Gerhold Inc",
+    "type": "Bank Account",
+    "amount": 854,
+    "date": "01/21/2023"
+  },
+  {
+    "id": "5667ea33-71b3-4d25-a9e8-031e36adca38",
+    "storeName": "Harber and Sons",
+    "type": "Bank Account",
+    "amount": 570,
+    "date": "03/18/2022"
+  },
+  {
+    "id": "155a60e2-7227-40ea-b023-274dd310a5eb",
+    "storeName": "Paucek, Mertz and Toy",
+    "type": "Bank Account",
+    "amount": 86,
+    "date": "02/27/2023"
+  },
+  {
+    "id": "5caea8ae-5a9c-4ce4-a3fd-a9aff5fa505a",
+    "storeName": "O'Hara-Lesch",
+    "type": "Bank Account",
+    "amount": 75,
+    "date": "08/28/2022"
+  },
+  {
+    "id": "189e5b35-6bbd-4dc0-8ac1-ae55de0c45a2",
+    "storeName": "Larson, Conn and Toy",
+    "type": "Bank Account",
+    "amount": 599,
+    "date": "05/16/2022"
+  },
+  {
+    "id": "161e2448-4943-4ea2-a38c-377200b95ef1",
+    "storeName": "Roob, Ziemann and Hettinger",
+    "type": "Cash",
+    "amount": 1097,
+    "date": "01/24/2022"
+  },
+  {
+    "id": "0d830af5-2e2c-4ac3-85b7-5f01d58ecc13",
+    "storeName": "Pfannerstill, Wintheiser and Weber",
+    "type": "Bank Account",
+    "amount": 807,
+    "date": "10/21/2023"
+  },
+  {
+    "id": "d41a3f14-fafd-4aec-815e-85b76377f381",
+    "storeName": "Botsford-Grant",
+    "type": "Cash",
+    "amount": 199,
+    "date": "06/03/2022"
+  },
+  {
+    "id": "1526935f-9f14-4f49-a1ad-146e48aae0cf",
+    "storeName": "Zieme-Dare",
+    "type": "Bank Account",
+    "amount": 668,
+    "date": "10/21/2022"
+  },
+  {
+    "id": "a18ac5ae-2a3e-45d3-8660-5d3ac92cd1b1",
+    "storeName": "Walker-Roob",
+    "type": "Bank Account",
+    "amount": 1081,
+    "date": "02/03/2023"
+  },
+  {
+    "id": "64d7482a-a569-4ada-96f2-f3934733be0e",
+    "storeName": "Shanahan, Grady and Cronin",
+    "type": "Bank Account",
+    "amount": 564,
+    "date": "10/12/2022"
+  },
+  {
+    "id": "7870cfc4-1a52-4f0b-bcff-a3222674553c",
+    "storeName": "Volkman-Daniel",
+    "type": "Bank Account",
+    "amount": 1127,
+    "date": "03/16/2022"
+  },
+  {
+    "id": "1cf68a2e-ebe0-4c03-865c-062439dbe1e4",
+    "storeName": "Harber, Ward and Hoppe",
+    "type": "Bank Account",
+    "amount": 121,
+    "date": "04/14/2022"
+  },
+  {
+    "id": "d25036a9-e2e2-4876-a8c4-7e847cc845a0",
+    "storeName": "Tillman-Harvey",
+    "type": "Bank Account",
+    "amount": 773,
+    "date": "08/04/2023"
+  },
+  {
+    "id": "5cc0066c-1931-4e4e-a6f2-c0cb4b691c17",
+    "storeName": "Ernser-Carter",
+    "type": "Bank Account",
+    "amount": 126,
+    "date": "04/14/2023"
+  },
+  {
+    "id": "9e835518-ce5a-480a-860b-5339682fb805",
+    "storeName": "Douglas-Brown",
+    "type": "Bank Account",
+    "amount": 755,
+    "date": "03/16/2023"
+  },
+  {
+    "id": "c346bab1-eafc-4491-b393-6ae562a6c332",
+    "storeName": "Kshlerin-Wiza",
+    "type": "Bank Account",
+    "amount": 1042,
+    "date": "11/27/2022"
+  },
+  {
+    "id": "5351f0c4-f00e-4f9e-8e04-0443c5dbcc3f",
+    "storeName": "Emmerich LLC",
+    "type": "Bank Account",
+    "amount": 566,
+    "date": "04/25/2022"
+  },
+  {
+    "id": "8cf43cc3-34c7-4162-bf61-561821a8cce1",
+    "storeName": "Littel, Kirlin and Ankunding",
+    "type": "Bank Account",
+    "amount": 1234,
+    "date": "03/04/2023"
+  },
+  {
+    "id": "587e9592-6107-476f-81b4-752821976e0b",
+    "storeName": "Conroy LLC",
+    "type": "Bank Account",
+    "amount": 889,
+    "date": "03/23/2022"
+  },
+  {
+    "id": "569a3c98-4384-4714-bea3-d4cde77d1943",
+    "storeName": "Ernser, McLaughlin and Hills",
+    "type": "Bank Account",
+    "amount": 797,
+    "date": "01/04/2022"
+  },
+  {
+    "id": "dad840a3-1ce1-4f66-b4ef-9f60b4cc9cf0",
+    "storeName": "Skiles Group",
+    "type": "Bank Account",
+    "amount": 1198,
+    "date": "10/03/2023"
+  },
+  {
+    "id": "2d7371fc-31c1-4cd6-bdf0-b2759a0c28fc",
+    "storeName": "Klocko and Sons",
+    "type": "Bank Account",
+    "amount": 150,
+    "date": "04/07/2023"
+  },
+  {
+    "id": "b3b0be66-abc1-4ac8-b46c-850fa4b45c63",
+    "storeName": "Kirlin-Casper",
+    "type": "Bank Account",
+    "amount": 731,
+    "date": "11/21/2022"
+  },
+  {
+    "id": "6a390463-69e4-44c3-b91d-e083a8493c64",
+    "storeName": "Mraz LLC",
+    "type": "Bank Account",
+    "amount": 322,
+    "date": "09/02/2022"
+  },
+  {
+    "id": "8ec17b13-a9ab-4ff3-be6f-33506becebac",
+    "storeName": "Hauck-Willms",
+    "type": "Bank Account",
+    "amount": 139,
+    "date": "12/15/2022"
+  },
+  {
+    "id": "4d1c3676-b03a-4a4a-84d5-ced20e8b0ce7",
+    "storeName": "Stehr Group",
+    "type": "Bank Account",
+    "amount": 1005,
+    "date": "03/11/2022"
+  },
+  {
+    "id": "5481feab-c243-45ff-87a8-d21b3f40e375",
+    "storeName": "Crist Group",
+    "type": "Bank Account",
+    "amount": 781,
+    "date": "07/23/2022"
+  },
+  {
+    "id": "3a73cfeb-1e2d-43fe-825e-c3dcc3196761",
+    "storeName": "Predovic Inc",
+    "type": "Bank Account",
+    "amount": 868,
+    "date": "04/20/2023"
+  },
+  {
+    "id": "875a8dda-8a1f-4030-b454-2007ae99818a",
+    "storeName": "Medhurst, Howe and Stamm",
+    "type": "Bank Account",
+    "amount": 710,
+    "date": "09/15/2023"
+  },
+  {
+    "id": "fc75bf1d-c353-44cf-b867-e4fab1c2ef2e",
+    "storeName": "Predovic, Douglas and Metz",
+    "type": "Bank Account",
+    "amount": 625,
+    "date": "08/26/2023"
+  },
+  {
+    "id": "2e03725a-2068-4c2d-9d82-fd10e072f1ed",
+    "storeName": "Anderson-Daugherty",
+    "type": "Bank Account",
+    "amount": 284,
+    "date": "11/11/2022"
+  },
+  {
+    "id": "1a88caef-ca8e-48fa-bb08-bbfa79ffc313",
+    "storeName": "Williamson, Prosacco and Hamill",
+    "type": "Bank Account",
+    "amount": 93,
+    "date": "07/26/2023"
+  },
+  {
+    "id": "4415bb55-617f-416d-ba2c-c04bf0bdafc7",
+    "storeName": "Marks Group",
+    "type": "Bank Account",
+    "amount": 205,
+    "date": "06/08/2023"
+  },
+  {
+    "id": "c32283e5-9cae-4174-8441-cc2502b2490b",
+    "storeName": "Kemmer, Prohaska and Mayert",
+    "type": "Bank Account",
+    "amount": 849,
+    "date": "06/08/2022"
+  },
+  {
+    "id": "829fd9d0-5c91-4ed4-acba-4f135e0c63c9",
+    "storeName": "Sipes Inc",
+    "type": "Bank Account",
+    "amount": 651,
+    "date": "01/24/2023"
+  },
+  {
+    "id": "a8d32ce6-1bed-4b4f-8f39-bbc288c8e164",
+    "storeName": "Borer Inc",
+    "type": "Bank Account",
+    "amount": 94,
+    "date": "11/09/2023"
+  },
+  {
+    "id": "04821ec8-fb49-4868-a54b-b420f5954ed3",
+    "storeName": "Sanford, Satterfield and Baumbach",
+    "type": "Bank Account",
+    "amount": 276,
+    "date": "09/17/2022"
+  },
+  {
+    "id": "8f1e60cf-a30b-4e49-acb8-bea018b44b8d",
+    "storeName": "Bergstrom-Lehner",
+    "type": "Bank Account",
+    "amount": 1164,
+    "date": "09/23/2022"
+  },
+  {
+    "id": "9a0d398b-cbb4-4604-a209-6c105306d4da",
+    "storeName": "Monahan LLC",
+    "type": "Bank Account",
+    "amount": 1007,
+    "date": "05/23/2023"
+  },
+  {
+    "id": "d9c13885-1988-472a-b4b6-ee9d3c9f3b42",
+    "storeName": "Ruecker, Nicolas and Padberg",
+    "type": "Bank Account",
+    "amount": 275,
+    "date": "11/01/2022"
+  },
+  {
+    "id": "50aa7e81-e05d-4a88-b6c8-632e7e4358e4",
+    "storeName": "Stiedemann, Krajcik and McGlynn",
+    "type": "Cash",
+    "amount": 378,
+    "date": "07/28/2023"
+  },
+  {
+    "id": "4951a135-7472-46e1-bd32-09db1a374bed",
+    "storeName": "Macejkovic-Braun",
+    "type": "Bank Account",
+    "amount": 1272,
+    "date": "06/12/2023"
+  },
+  {
+    "id": "3cb53422-6388-4e6f-8cec-758eb7108a70",
+    "storeName": "Bins Inc",
+    "type": "Bank Account",
+    "amount": 786,
+    "date": "10/10/2023"
+  },
+  {
+    "id": "8de2ee71-2127-49d8-905a-add02cde65e9",
+    "storeName": "Gleichner-Spencer",
+    "type": "Bank Account",
+    "amount": 632,
+    "date": "02/01/2023"
+  },
+  {
+    "id": "a5ecbbdf-4ebf-4e8a-a2a0-cf5356f2bd09",
+    "storeName": "Trantow and Sons",
+    "type": "Bank Account",
+    "amount": 1232,
+    "date": "12/22/2022"
+  },
+  {
+    "id": "782df179-3db8-4c6d-98fc-6593675d9f98",
+    "storeName": "Gleason-Koss",
+    "type": "Bank Account",
+    "amount": 361,
+    "date": "06/14/2022"
+  },
+  {
+    "id": "6a28e696-309d-448b-bca3-d6822956fe56",
+    "storeName": "Ratke-Hahn",
+    "type": "Bank Account",
+    "amount": 1078,
+    "date": "01/18/2023"
+  },
+  {
+    "id": "0c3b68af-0d71-455c-b33b-da34f43747c8",
+    "storeName": "Feest Group",
+    "type": "Bank Account",
+    "amount": 1146,
+    "date": "03/01/2022"
+  },
+  {
+    "id": "def76608-ec96-4555-a8c3-56557c9a01ac",
+    "storeName": "Steuber, Morissette and Rice",
+    "type": "Bank Account",
+    "amount": 213,
+    "date": "09/04/2023"
+  },
+  {
+    "id": "12e64408-6f1f-46ba-b0be-2308c61facd9",
+    "storeName": "Stroman Group",
+    "type": "Bank Account",
+    "amount": 727,
+    "date": "11/14/2023"
+  },
+  {
+    "id": "21dabfa4-9f1e-4d74-94c3-dda36d84a151",
+    "storeName": "Corkery, Wilderman and Blick",
+    "type": "Bank Account",
+    "amount": 966,
+    "date": "01/22/2023"
+  },
+  {
+    "id": "ff4d36dc-c75c-4d4d-90ab-a19afd791ab5",
+    "storeName": "Becker-Wisoky",
+    "type": "Bank Account",
+    "amount": 844,
+    "date": "12/27/2022"
+  },
+  {
+    "id": "dc99e60a-03b3-41ea-b80c-a669fbb1492c",
+    "storeName": "Nolan, Kessler and Cormier",
+    "type": "Bank Account",
+    "amount": 907,
+    "date": "10/05/2022"
+  },
+  {
+    "id": "9b30fb33-4af6-4890-b4da-c0ce3d5fa307",
+    "storeName": "Borer, Bode and Rolfson",
+    "type": "Bank Account",
+    "amount": 1270,
+    "date": "02/15/2022"
+  },
+  {
+    "id": "ff08d2b1-47ca-4281-a145-d8540580a10a",
+    "storeName": "Stokes, Jenkins and Kulas",
+    "type": "Bank Account",
+    "amount": 251,
+    "date": "08/20/2023"
+  },
+  {
+    "id": "90f606df-6a89-46a8-b320-2972fbbad0d2",
+    "storeName": "Dooley-Kunze",
+    "type": "Bank Account",
+    "amount": 539,
+    "date": "05/29/2023"
+  },
+  {
+    "id": "f4b0f77c-76d4-484d-b285-83526b5916bd",
+    "storeName": "Zulauf-Feeney",
+    "type": "Bank Account",
+    "amount": 566,
+    "date": "01/16/2023"
+  },
+  {
+    "id": "c37ae0b1-555c-4804-b6fc-bab92a6fd3f9",
+    "storeName": "Miller Group",
+    "type": "Bank Account",
+    "amount": 488,
+    "date": "08/22/2023"
+  },
+  {
+    "id": "797cdd01-23c0-4a41-ba56-db50843b7d49",
+    "storeName": "Leuschke-Becker",
+    "type": "Cash",
+    "amount": 684,
+    "date": "07/28/2022"
+  },
+  {
+    "id": "2d32baca-604d-4ae3-b134-e119fafcf8ca",
+    "storeName": "Upton and Sons",
+    "type": "Bank Account",
+    "amount": 164,
+    "date": "11/19/2023"
+  },
+  {
+    "id": "8e60cf6b-1b75-4da9-a1f0-ccaf1032224b",
+    "storeName": "Morar LLC",
+    "type": "Bank Account",
+    "amount": 1120,
+    "date": "05/29/2022"
+  },
+  {
+    "id": "b3b38261-1b26-470d-bd88-1df0d998b4ee",
+    "storeName": "Lebsack-Kub",
+    "type": "Bank Account",
+    "amount": 274,
+    "date": "11/21/2023"
+  },
+  {
+    "id": "d706ca8c-b348-4e07-b491-8d182f8bff44",
+    "storeName": "McCullough, Dooley and Jaskolski",
+    "type": "Bank Account",
+    "amount": 808,
+    "date": "01/12/2023"
+  },
+  {
+    "id": "69f8a8d8-cf92-4d0f-9767-05ecfb9806be",
+    "storeName": "Runte, Quitzon and Lesch",
+    "type": "Bank Account",
+    "amount": 838,
+    "date": "07/28/2023"
+  },
+  {
+    "id": "8a6fbe96-fc8e-4a3b-9bd6-bdeefcd23078",
+    "storeName": "Grimes, Kshlerin and Purdy",
+    "type": "Bank Account",
+    "amount": 664,
+    "date": "03/20/2022"
+  },
+  {
+    "id": "e4357e5e-ae41-4ca4-aa88-3de2214de4f4",
+    "storeName": "Zieme LLC",
+    "type": "Bank Account",
+    "amount": 261,
+    "date": "04/13/2022"
+  },
+  {
+    "id": "4353f04b-ca01-4743-8b2e-d259c4235dce",
+    "storeName": "Turner LLC",
+    "type": "Cash",
+    "amount": 778,
+    "date": "09/24/2022"
+  },
+  {
+    "id": "168fa459-79fc-4d9c-9a22-7b43580d72f0",
+    "storeName": "Beahan-Crona",
+    "type": "Bank Account",
+    "amount": 1256,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "10cbf764-e184-4556-882b-56a02ccd3473",
+    "storeName": "Purdy-Wuckert",
+    "type": "Bank Account",
+    "amount": 864,
+    "date": "08/24/2022"
+  },
+  {
+    "id": "2f70c6e9-3694-4862-95ae-77bdff1f6fa0",
+    "storeName": "Batz-Senger",
+    "type": "Bank Account",
+    "amount": 483,
+    "date": "04/05/2023"
+  },
+  {
+    "id": "ba7c5d31-f8f8-4d3e-b84c-e7b6a7c7c609",
+    "storeName": "Witting-Toy",
+    "type": "Bank Account",
+    "amount": 604,
+    "date": "09/02/2022"
+  },
+  {
+    "id": "13f52667-c0e1-4858-8243-09aec68429a4",
+    "storeName": "Ritchie and Sons",
+    "type": "Cash",
+    "amount": 371,
+    "date": "06/01/2022"
+  },
+  {
+    "id": "e4a0c7c2-edaa-4675-8278-c0f57b72a2f6",
+    "storeName": "Wuckert, Bernier and Nolan",
+    "type": "Bank Account",
+    "amount": 632,
+    "date": "10/20/2022"
+  },
+  {
+    "id": "262ca428-dde7-4f33-b441-cce3f2878995",
+    "storeName": "Rutherford-Considine",
+    "type": "Bank Account",
+    "amount": 1228,
+    "date": "07/13/2023"
+  },
+  {
+    "id": "7f801076-ea69-4329-ba26-9a0628917c27",
+    "storeName": "Doyle, Klocko and Jerde",
+    "type": "Bank Account",
+    "amount": 801,
+    "date": "06/28/2023"
+  },
+  {
+    "id": "080face6-e7c5-4b00-8848-568ee3e3c1f8",
+    "storeName": "Hyatt Group",
+    "type": "Bank Account",
+    "amount": 593,
+    "date": "10/01/2023"
+  },
+  {
+    "id": "d290ac33-76e9-4f05-bdec-d623c891c12e",
+    "storeName": "Dach-Olson",
+    "type": "Bank Account",
+    "amount": 305,
+    "date": "04/02/2023"
+  },
+  {
+    "id": "3501c931-6e2a-4def-b287-038d66eabb92",
+    "storeName": "Emmerich-Weber",
+    "type": "Bank Account",
+    "amount": 436,
+    "date": "07/14/2022"
+  },
+  {
+    "id": "58bf8cc4-85f0-4709-887c-910484c90615",
+    "storeName": "Ankunding, White and Conroy",
+    "type": "Bank Account",
+    "amount": 299,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "ddd51996-e557-47eb-8fca-ae1aa1f5eec5",
+    "storeName": "MacGyver-Jacobi",
+    "type": "Cash",
+    "amount": 942,
+    "date": "08/31/2023"
+  },
+  {
+    "id": "a34d35f4-5f59-4b44-9b3d-0c0299b838d9",
+    "storeName": "Fahey LLC",
+    "type": "Bank Account",
+    "amount": 328,
+    "date": "07/20/2023"
+  },
+  {
+    "id": "099ca644-a735-46e8-af4d-1c3fca813558",
+    "storeName": "Williamson, Macejkovic and Heathcote",
+    "type": "Bank Account",
+    "amount": 38,
+    "date": "02/15/2023"
+  },
+  {
+    "id": "845ab517-9123-46a5-9ad4-1ef1c8594653",
+    "storeName": "Parker-Heathcote",
+    "type": "Bank Account",
+    "amount": 730,
+    "date": "12/04/2022"
+  },
+  {
+    "id": "fe8e1853-a8f8-4af6-bead-ff882e06e92e",
+    "storeName": "Reichert, Heaney and Heathcote",
+    "type": "Bank Account",
+    "amount": 796,
+    "date": "05/18/2023"
+  },
+  {
+    "id": "4209d8b9-44a1-4aa1-b11d-5096d4ef139a",
+    "storeName": "Powlowski, Ortiz and Kihn",
+    "type": "Bank Account",
+    "amount": 874,
+    "date": "01/07/2022"
+  },
+  {
+    "id": "8082fe4b-442a-4070-89b4-5e72efbf4b31",
+    "storeName": "Johnson, Cassin and VonRueden",
+    "type": "Bank Account",
+    "amount": 33,
+    "date": "05/03/2022"
+  },
+  {
+    "id": "81799ab5-fbb8-44cd-bbb2-fdaefc113e07",
+    "storeName": "Schaefer-Dach",
+    "type": "Bank Account",
+    "amount": 229,
+    "date": "10/20/2022"
+  },
+  {
+    "id": "7dfdff04-f175-42e3-925a-c55631f53dcc",
+    "storeName": "King Inc",
+    "type": "Cash",
+    "amount": 670,
+    "date": "09/07/2022"
+  },
+  {
+    "id": "5fa1c1b5-0704-4ec5-b487-0aaed0398be3",
+    "storeName": "Pfeffer and Sons",
+    "type": "Bank Account",
+    "amount": 1024,
+    "date": "05/29/2023"
+  },
+  {
+    "id": "65d98b16-0c48-48fd-a8b0-d552f28ab043",
+    "storeName": "Labadie-Kuhic",
+    "type": "Bank Account",
+    "amount": 948,
+    "date": "05/17/2022"
+  },
+  {
+    "id": "f5e15a05-50bb-4f82-8e3c-f35439e2e4c6",
+    "storeName": "Larson, Terry and McCullough",
+    "type": "Bank Account",
+    "amount": 718,
+    "date": "01/23/2022"
+  },
+  {
+    "id": "ce57316c-7a07-43e3-8451-164796e97f72",
+    "storeName": "Wunsch and Sons",
+    "type": "Bank Account",
+    "amount": 765,
+    "date": "04/07/2023"
+  },
+  {
+    "id": "2b5f99c3-2b89-43ce-8d32-de5a449fd76a",
+    "storeName": "Windler, Tromp and McClure",
+    "type": "Bank Account",
+    "amount": 1216,
+    "date": "11/21/2022"
+  },
+  {
+    "id": "de81f7af-7a7b-4692-ae19-58d442daf80a",
+    "storeName": "Schuster-Balistreri",
+    "type": "Bank Account",
+    "amount": 822,
+    "date": "09/09/2022"
+  },
+  {
+    "id": "06fe96a4-7505-43e5-9c03-26e542e570b5",
+    "storeName": "O'Keefe Inc",
+    "type": "Bank Account",
+    "amount": 724,
+    "date": "11/20/2022"
+  },
+  {
+    "id": "f2acb177-302d-46a4-9427-537afba32e1c",
+    "storeName": "Hettinger-Towne",
+    "type": "Bank Account",
+    "amount": 581,
+    "date": "03/06/2023"
+  },
+  {
+    "id": "5f56e796-68d4-49f6-88df-9d6eb6f10d83",
+    "storeName": "Bradtke-Windler",
+    "type": "Bank Account",
+    "amount": 1117,
+    "date": "11/21/2023"
+  },
+  {
+    "id": "11dcdc40-efad-47a7-9e1a-325ae547618e",
+    "storeName": "Bruen-Wilkinson",
+    "type": "Bank Account",
+    "amount": 393,
+    "date": "02/07/2022"
+  },
+  {
+    "id": "8e23a3c3-3d7e-4de6-ad3e-0ce342ce88f3",
+    "storeName": "Beahan-Fay",
+    "type": "Bank Account",
+    "amount": 445,
+    "date": "03/04/2022"
+  },
+  {
+    "id": "e2baabf1-e281-4849-8842-5e37324f84a7",
+    "storeName": "Gerhold, Swaniawski and Kemmer",
+    "type": "Bank Account",
+    "amount": 1042,
+    "date": "04/24/2023"
+  },
+  {
+    "id": "ccdef2c6-8ef5-498b-870c-8ad7074608da",
+    "storeName": "Treutel-Nienow",
+    "type": "Bank Account",
+    "amount": 407,
+    "date": "05/19/2023"
+  },
+  {
+    "id": "da785508-54c9-4d92-a5ff-3d552bcf089d",
+    "storeName": "Tromp, Connelly and Towne",
+    "type": "Bank Account",
+    "amount": 666,
+    "date": "06/30/2023"
+  },
+  {
+    "id": "353af585-e8c0-458c-b1f7-fa0382850ee2",
+    "storeName": "Weimann LLC",
+    "type": "Cash",
+    "amount": 699,
+    "date": "11/15/2023"
+  },
+  {
+    "id": "ae9484c6-62c7-4309-ba0f-7fde39ca5c53",
+    "storeName": "D'Amore, Braun and Jacobi",
+    "type": "Bank Account",
+    "amount": 850,
+    "date": "08/23/2023"
+  },
+  {
+    "id": "50486f8f-81d2-4af6-83ce-1d7975026bc0",
+    "storeName": "Sporer-Paucek",
+    "type": "Bank Account",
+    "amount": 1198,
+    "date": "09/08/2022"
+  },
+  {
+    "id": "7cdf542c-c696-4e01-be9b-cae9d0230a4d",
+    "storeName": "O'Keefe and Sons",
+    "type": "Bank Account",
+    "amount": 112,
+    "date": "02/15/2022"
+  },
+  {
+    "id": "21bcca6d-8a81-476e-87a6-84292e212aa3",
+    "storeName": "Jacobson-Beier",
+    "type": "Bank Account",
+    "amount": 795,
+    "date": "03/31/2023"
+  },
+  {
+    "id": "8bd91fcb-a37a-4ff8-bf0e-1d1fe8b21cdd",
+    "storeName": "Abernathy-Bogan",
+    "type": "Bank Account",
+    "amount": 253,
+    "date": "01/01/2022"
+  },
+  {
+    "id": "ecf5e3c5-e352-48fe-a156-cdac8ed5364c",
+    "storeName": "Gutmann-Jakubowski",
+    "type": "Bank Account",
+    "amount": 278,
+    "date": "08/10/2023"
+  },
+  {
+    "id": "09c5a19f-f700-4cdb-a6d3-a8c8cae172ec",
+    "storeName": "Simonis LLC",
+    "type": "Bank Account",
+    "amount": 585,
+    "date": "11/07/2022"
+  },
+  {
+    "id": "0a4cc697-a551-4a92-aaa3-f15522eab24e",
+    "storeName": "Prosacco-Boehm",
+    "type": "Bank Account",
+    "amount": 701,
+    "date": "10/26/2023"
+  },
+  {
+    "id": "c6a8c63b-12e8-4ee1-8492-e086c1639442",
+    "storeName": "Monahan, Heathcote and Hauck",
+    "type": "Bank Account",
+    "amount": 851,
+    "date": "07/16/2022"
+  },
+  {
+    "id": "c80ca6e4-9e99-4d3f-a84d-7eb3cf5fef9f",
+    "storeName": "Zboncak Inc",
+    "type": "Bank Account",
+    "amount": 339,
+    "date": "11/06/2023"
+  },
+  {
+    "id": "c60f205e-9714-4eb6-8995-2f3de0c262a1",
+    "storeName": "Kohler, Olson and McKenzie",
+    "type": "Cash",
+    "amount": 526,
+    "date": "09/11/2023"
+  },
+  {
+    "id": "67570d73-8ea8-4286-96e5-3497f4822ff9",
+    "storeName": "Rippin-Shields",
+    "type": "Bank Account",
+    "amount": 624,
+    "date": "01/29/2023"
+  },
+  {
+    "id": "5d4b6d54-b193-4874-ae01-ddd2510068d4",
+    "storeName": "Batz, Hodkiewicz and Hilll",
+    "type": "Bank Account",
+    "amount": 968,
+    "date": "01/31/2022"
+  },
+  {
+    "id": "6eedd096-daee-4f98-83fe-11223bbbbfb5",
+    "storeName": "Heaney-Schultz",
+    "type": "Bank Account",
+    "amount": 692,
+    "date": "07/23/2022"
+  },
+  {
+    "id": "3eefd2a6-54c1-4308-a472-e1017582f7d2",
+    "storeName": "Stokes Group",
+    "type": "Bank Account",
+    "amount": 1240,
+    "date": "10/19/2022"
+  },
+  {
+    "id": "46414d72-d4bf-428c-9b77-20fe960fd05d",
+    "storeName": "Schulist, Corwin and Herzog",
+    "type": "Bank Account",
+    "amount": 278,
+    "date": "09/05/2023"
+  },
+  {
+    "id": "51b1f079-b1bf-42cf-950d-d12d9a8620dd",
+    "storeName": "Bahringer and Sons",
+    "type": "Bank Account",
+    "amount": 793,
+    "date": "10/11/2023"
+  },
+  {
+    "id": "0375c693-fda1-4331-88ba-8fdafb8e8cf4",
+    "storeName": "Moen-Schmidt",
+    "type": "Bank Account",
+    "amount": 1213,
+    "date": "05/18/2023"
+  },
+  {
+    "id": "13bca242-cca3-40ac-9f06-3adef267f7d4",
+    "storeName": "Schmidt, Vandervort and Dicki",
+    "type": "Bank Account",
+    "amount": 751,
+    "date": "08/08/2023"
+  },
+  {
+    "id": "9c9461a9-6256-4247-981a-4584eaecb1ab",
+    "storeName": "Marks, Macejkovic and Lynch",
+    "type": "Bank Account",
+    "amount": 1248,
+    "date": "08/12/2023"
+  },
+  {
+    "id": "b2284628-b230-4ee5-a98d-d5e3160fa044",
+    "storeName": "Botsford, Gorczany and Stracke",
+    "type": "Bank Account",
+    "amount": 488,
+    "date": "05/17/2022"
+  },
+  {
+    "id": "6f185ce1-c611-41ce-b42e-dc635b594333",
+    "storeName": "Muller, Dicki and Hermiston",
+    "type": "Bank Account",
+    "amount": 190,
+    "date": "03/05/2023"
+  },
+  {
+    "id": "7c7cfc64-2c18-4647-9ba7-751cb2f43614",
+    "storeName": "Wuckert, Hoeger and Grimes",
+    "type": "Bank Account",
+    "amount": 549,
+    "date": "04/03/2023"
+  },
+  {
+    "id": "1a5db109-0c1a-4adb-924e-1407a0940939",
+    "storeName": "Orn, Upton and Littel",
+    "type": "Bank Account",
+    "amount": 664,
+    "date": "10/06/2023"
+  },
+  {
+    "id": "3490eb19-945e-4874-af3e-d5f3a429fa26",
+    "storeName": "Streich-Hauck",
+    "type": "Bank Account",
+    "amount": 666,
+    "date": "07/27/2023"
+  },
+  {
+    "id": "99cb59da-5ec6-4bec-8bce-796fe28254ae",
+    "storeName": "Haag Group",
+    "type": "Bank Account",
+    "amount": 723,
+    "date": "06/06/2022"
+  },
+  {
+    "id": "b7bfefb0-4f1d-4bc7-8cb0-38637ae43a36",
+    "storeName": "Crona, Mohr and Tillman",
+    "type": "Bank Account",
+    "amount": 57,
+    "date": "12/01/2022"
+  },
+  {
+    "id": "c4583abd-1a11-44c5-80dd-006db9a39252",
+    "storeName": "Simonis-Schamberger",
+    "type": "Bank Account",
+    "amount": 971,
+    "date": "11/07/2022"
+  },
+  {
+    "id": "14f1bcf3-b9ff-46aa-9e80-870b31a6b5e0",
+    "storeName": "Larkin, Jaskolski and Johnson",
+    "type": "Bank Account",
+    "amount": 522,
+    "date": "02/18/2022"
+  },
+  {
+    "id": "b82081ac-6abe-4a8a-815c-16aa7a2cd348",
+    "storeName": "Fritsch, Veum and Ledner",
+    "type": "Bank Account",
+    "amount": 194,
+    "date": "05/25/2022"
+  },
+  {
+    "id": "a719b4dd-4bd4-4cb3-9440-ef22706cc854",
+    "storeName": "O'Reilly-Wilderman",
+    "type": "Cash",
+    "amount": 144,
+    "date": "06/25/2023"
+  },
+  {
+    "id": "b66356a7-7e40-45e4-8343-3832ea8bbfd5",
+    "storeName": "Schuppe Group",
+    "type": "Bank Account",
+    "amount": 1276,
+    "date": "10/06/2022"
+  },
+  {
+    "id": "7b4d29b2-0c9c-4fc9-91ed-38c3c90457f9",
+    "storeName": "Macejkovic, Murazik and Pollich",
+    "type": "Bank Account",
+    "amount": 122,
+    "date": "03/12/2022"
+  },
+  {
+    "id": "a3dfee87-b990-411e-8eac-df9d9bdbbd00",
+    "storeName": "Kohler LLC",
+    "type": "Bank Account",
+    "amount": 280,
+    "date": "01/08/2022"
+  },
+  {
+    "id": "fb98676d-085f-4f23-a023-8741d39543bb",
+    "storeName": "Ankunding Inc",
+    "type": "Cash",
+    "amount": 76,
+    "date": "02/26/2023"
+  },
+  {
+    "id": "4685e871-5fea-47ee-adea-fc22723a5838",
+    "storeName": "Auer-Emmerich",
+    "type": "Bank Account",
+    "amount": 1013,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "54a79274-a642-4d0c-9933-ac0e07e79541",
+    "storeName": "Rempel-DuBuque",
+    "type": "Bank Account",
+    "amount": 552,
+    "date": "06/19/2022"
+  },
+  {
+    "id": "5649cdf3-f117-4a82-bcaf-b4419ae38346",
+    "storeName": "Schinner, Hickle and Ernser",
+    "type": "Bank Account",
+    "amount": 235,
+    "date": "01/08/2023"
+  },
+  {
+    "id": "7a7b3090-2d83-4a56-a660-776726774887",
+    "storeName": "Haley Inc",
+    "type": "Cash",
+    "amount": 950,
+    "date": "10/29/2022"
+  },
+  {
+    "id": "162443a1-a782-470d-b95f-bb15a6baf4cd",
+    "storeName": "Shields Inc",
+    "type": "Bank Account",
+    "amount": 341,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "e57af9ae-4e99-44b9-920d-6967c8a47b98",
+    "storeName": "Quitzon-Schuppe",
+    "type": "Bank Account",
+    "amount": 621,
+    "date": "11/07/2022"
+  },
+  {
+    "id": "6904aaca-cca8-4564-9356-683a9a00d8bd",
+    "storeName": "Grimes LLC",
+    "type": "Bank Account",
+    "amount": 1256,
+    "date": "06/03/2023"
+  },
+  {
+    "id": "bf969f33-b2ad-4a4d-b979-fec01f21e8f4",
+    "storeName": "Streich, Swaniawski and Raynor",
+    "type": "Cash",
+    "amount": 162,
+    "date": "10/10/2022"
+  },
+  {
+    "id": "6c1a71c1-1962-42e2-b2af-8cb6bf2f83e3",
+    "storeName": "Torphy Group",
+    "type": "Bank Account",
+    "amount": 1225,
+    "date": "04/11/2023"
+  },
+  {
+    "id": "5ae6ae2a-7a7c-4c0b-9a75-29a9c9eb2754",
+    "storeName": "Ziemann, Flatley and Bogisich",
+    "type": "Bank Account",
+    "amount": 1191,
+    "date": "10/03/2022"
+  },
+  {
+    "id": "6ba0bc9b-6c7f-4cb2-b7d1-0ba804817126",
+    "storeName": "Runolfsson Group",
+    "type": "Bank Account",
+    "amount": 642,
+    "date": "10/27/2023"
+  },
+  {
+    "id": "f35a5364-768d-46a6-9a25-d3345d794c5e",
+    "storeName": "Gerhold and Sons",
+    "type": "Bank Account",
+    "amount": 1155,
+    "date": "03/03/2022"
+  },
+  {
+    "id": "3ab96fcb-b2e4-435f-aafc-76fe89876c58",
+    "storeName": "Nienow-Ryan",
+    "type": "Bank Account",
+    "amount": 98,
+    "date": "08/21/2022"
+  },
+  {
+    "id": "4c5a47fe-0970-4bbd-824b-26aacad71d0b",
+    "storeName": "Mosciski, Borer and Treutel",
+    "type": "Bank Account",
+    "amount": 304,
+    "date": "04/21/2022"
+  },
+  {
+    "id": "7509a165-016a-44b1-a74d-50218cc75699",
+    "storeName": "Champlin and Sons",
+    "type": "Bank Account",
+    "amount": 1015,
+    "date": "04/22/2023"
+  },
+  {
+    "id": "d50410cf-02f4-40e6-a65c-5afdc43ac76e",
+    "storeName": "Treutel and Sons",
+    "type": "Bank Account",
+    "amount": 520,
+    "date": "06/28/2023"
+  },
+  {
+    "id": "5d0da344-7eae-467e-8b4c-fbf4eb784d04",
+    "storeName": "Swaniawski-Bernier",
+    "type": "Bank Account",
+    "amount": 88,
+    "date": "03/13/2023"
+  },
+  {
+    "id": "b1f3077b-ad7f-4c8f-9e17-d964b3676138",
+    "storeName": "Bogisich, Tromp and Howell",
+    "type": "Bank Account",
+    "amount": 244,
+    "date": "07/31/2022"
+  },
+  {
+    "id": "343ee9e7-7e2e-429d-bfe7-e5c2950d9277",
+    "storeName": "Maggio Inc",
+    "type": "Bank Account",
+    "amount": 1073,
+    "date": "01/29/2022"
+  },
+  {
+    "id": "2638cb47-29a5-41b8-89ef-ac0026b8f618",
+    "storeName": "Kreiger LLC",
+    "type": "Bank Account",
+    "amount": 825,
+    "date": "05/10/2023"
+  },
+  {
+    "id": "2fba401e-138b-4158-aee5-e242e1747921",
+    "storeName": "Hartmann, Mraz and Bradtke",
+    "type": "Bank Account",
+    "amount": 1123,
+    "date": "03/30/2023"
+  },
+  {
+    "id": "d87ea8a9-8df0-4e87-801e-f2cd03129ea9",
+    "storeName": "Stoltenberg-Romaguera",
+    "type": "Bank Account",
+    "amount": 336,
+    "date": "11/10/2022"
+  },
+  {
+    "id": "93810fcb-83cf-4ab3-9c07-c5d4a7b49644",
+    "storeName": "Ebert-McGlynn",
+    "type": "Bank Account",
+    "amount": 700,
+    "date": "01/18/2023"
+  },
+  {
+    "id": "71103b9c-a11b-4137-b91d-eec358368bd1",
+    "storeName": "Franecki Group",
+    "type": "Bank Account",
+    "amount": 832,
+    "date": "01/09/2022"
+  },
+  {
+    "id": "d5a6c432-46d9-41a4-9c4c-1cbbba85fb69",
+    "storeName": "Lubowitz Group",
+    "type": "Bank Account",
+    "amount": 1134,
+    "date": "12/31/2022"
+  },
+  {
+    "id": "df8b4ee0-e511-4070-afa9-fd686329dbf2",
+    "storeName": "Towne Group",
+    "type": "Bank Account",
+    "amount": 317,
+    "date": "05/09/2022"
+  },
+  {
+    "id": "902eb706-47f3-4179-8cb3-ff1746e207eb",
+    "storeName": "Hilll-Upton",
+    "type": "Bank Account",
+    "amount": 1038,
+    "date": "02/21/2023"
+  },
+  {
+    "id": "8a689873-4dc8-46aa-97a7-3d4b03bc960e",
+    "storeName": "Botsford-Quitzon",
+    "type": "Bank Account",
+    "amount": 664,
+    "date": "12/25/2022"
+  },
+  {
+    "id": "adf91eb2-f987-4b51-8649-eca9e7c69ac7",
+    "storeName": "Parisian, Hickle and Jast",
+    "type": "Bank Account",
+    "amount": 1,
+    "date": "09/19/2022"
+  },
+  {
+    "id": "9d83ab4c-0cdc-4271-90c5-4cdcd483cbf2",
+    "storeName": "Donnelly, Cormier and Hoeger",
+    "type": "Bank Account",
+    "amount": 923,
+    "date": "10/03/2023"
+  },
+  {
+    "id": "9e462f3c-936f-40c0-9490-30611e1684f2",
+    "storeName": "Barrows LLC",
+    "type": "Bank Account",
+    "amount": 1168,
+    "date": "10/17/2023"
+  },
+  {
+    "id": "0b3369e0-6cc5-4593-a5e1-c8489ad93a26",
+    "storeName": "Towne-Bogan",
+    "type": "Bank Account",
+    "amount": 127,
+    "date": "07/10/2023"
+  },
+  {
+    "id": "f2e8f598-4bca-4134-8043-e660cc89ef68",
+    "storeName": "Bernier-Bogisich",
+    "type": "Bank Account",
+    "amount": 852,
+    "date": "11/07/2023"
+  },
+  {
+    "id": "1e7a6ccb-825d-4bb3-9640-27d915d31fe5",
+    "storeName": "Gerhold-Hettinger",
+    "type": "Bank Account",
+    "amount": 563,
+    "date": "12/01/2022"
+  },
+  {
+    "id": "d57e90e0-7f39-4c20-9f70-a61fc793ad7a",
+    "storeName": "Bechtelar-Dooley",
+    "type": "Bank Account",
+    "amount": 1109,
+    "date": "07/16/2023"
+  },
+  {
+    "id": "f0e3f28d-a92e-4fa9-9db6-bf22d2390481",
+    "storeName": "Stanton, Stark and Labadie",
+    "type": "Bank Account",
+    "amount": 11,
+    "date": "06/04/2023"
+  },
+  {
+    "id": "b56d6baa-9d1b-4d70-a4e5-6a8e33bbdc8d",
+    "storeName": "Borer-Conroy",
+    "type": "Bank Account",
+    "amount": 322,
+    "date": "11/01/2023"
+  },
+  {
+    "id": "2e94ab1b-8891-47f2-8943-ee6c85484a62",
+    "storeName": "Ledner, Kovacek and Lind",
+    "type": "Bank Account",
+    "amount": 398,
+    "date": "07/21/2023"
+  },
+  {
+    "id": "c8ebc776-b5fa-4ee1-8399-219d6c12bda4",
+    "storeName": "White Group",
+    "type": "Bank Account",
+    "amount": 1210,
+    "date": "12/21/2022"
+  },
+  {
+    "id": "65a99791-9338-43b9-811d-3b88fd55b0f0",
+    "storeName": "Larkin-Labadie",
+    "type": "Bank Account",
+    "amount": 790,
+    "date": "02/01/2022"
+  },
+  {
+    "id": "80b2a35f-f06a-4cae-a7c6-28f7bb631023",
+    "storeName": "Auer, Collier and Legros",
+    "type": "Bank Account",
+    "amount": 1173,
+    "date": "01/03/2022"
+  },
+  {
+    "id": "e2e7a26a-f584-4745-be83-50169b8c80ac",
+    "storeName": "Bode Inc",
+    "type": "Bank Account",
+    "amount": 582,
+    "date": "02/28/2023"
+  },
+  {
+    "id": "4b2cfdcd-2957-4351-b040-5935c8578f7a",
+    "storeName": "Beier-Ward",
+    "type": "Bank Account",
+    "amount": 305,
+    "date": "11/30/2022"
+  },
+  {
+    "id": "3c9137d7-0e17-479d-8f71-fe526437443e",
+    "storeName": "Keebler-Sawayn",
+    "type": "Bank Account",
+    "amount": 141,
+    "date": "08/11/2022"
+  },
+  {
+    "id": "6e346833-acd4-4b1c-a826-542bffd580f1",
+    "storeName": "Jast, Ferry and Thompson",
+    "type": "Bank Account",
+    "amount": 355,
+    "date": "08/09/2022"
+  },
+  {
+    "id": "fd4577f8-9940-4cbb-a6f1-58ceea8997db",
+    "storeName": "Boehm, Hahn and Bruen",
+    "type": "Bank Account",
+    "amount": 967,
+    "date": "02/02/2023"
+  },
+  {
+    "id": "621df615-b13e-4a4d-b1d5-63210966aa73",
+    "storeName": "Lind Inc",
+    "type": "Bank Account",
+    "amount": 597,
+    "date": "10/02/2022"
+  },
+  {
+    "id": "95f59605-a92e-436f-bd22-65c620e98557",
+    "storeName": "Lueilwitz-Marquardt",
+    "type": "Bank Account",
+    "amount": 418,
+    "date": "11/29/2022"
+  },
+  {
+    "id": "c1e0bc43-4972-4970-aa34-382439676a61",
+    "storeName": "Beer-Wiegand",
+    "type": "Bank Account",
+    "amount": 1146,
+    "date": "04/29/2023"
+  },
+  {
+    "id": "e8826596-e579-4600-ba9d-7b0febb927c9",
+    "storeName": "Crist, Treutel and Braun",
+    "type": "Bank Account",
+    "amount": 914,
+    "date": "10/28/2023"
+  },
+  {
+    "id": "7ec56f1a-3ac1-41e2-a0d6-2f81a920adc1",
+    "storeName": "Bosco-Kilback",
+    "type": "Bank Account",
+    "amount": 682,
+    "date": "08/16/2023"
+  },
+  {
+    "id": "2b047486-34f6-42b7-816a-eeef9947f05b",
+    "storeName": "Orn, Cummings and Dach",
+    "type": "Bank Account",
+    "amount": 1039,
+    "date": "01/20/2022"
+  },
+  {
+    "id": "2e9770b8-aebd-43ef-8855-d4a2e8e2badc",
+    "storeName": "Sauer Inc",
+    "type": "Bank Account",
+    "amount": 249,
+    "date": "08/11/2023"
+  },
+  {
+    "id": "e68d97fd-4e26-46f0-8149-e512f3f7cd4e",
+    "storeName": "Wiegand-Gerlach",
+    "type": "Bank Account",
+    "amount": 309,
+    "date": "07/04/2022"
+  },
+  {
+    "id": "6b1cc5f0-cb4a-4bca-ab7c-69d89e93695c",
+    "storeName": "Torp Group",
+    "type": "Cash",
+    "amount": 22,
+    "date": "02/28/2023"
+  },
+  {
+    "id": "c80d4482-57a5-425e-a5a6-620373a06a4c",
+    "storeName": "McCullough, Leannon and Kuhic",
+    "type": "Cash",
+    "amount": 615,
+    "date": "06/17/2023"
+  },
+  {
+    "id": "0017ba07-de5b-4e92-b41b-4daefc19b25b",
+    "storeName": "Zemlak, Yundt and Walker",
+    "type": "Bank Account",
+    "amount": 112,
+    "date": "03/22/2023"
+  },
+  {
+    "id": "d6acaab0-0665-42c9-8467-6297385b620a",
+    "storeName": "West Group",
+    "type": "Cash",
+    "amount": 27,
+    "date": "11/14/2023"
+  },
+  {
+    "id": "ff482497-29d6-4b0b-bb6e-15f138f9021b",
+    "storeName": "Schiller-Heaney",
+    "type": "Bank Account",
+    "amount": 647,
+    "date": "07/01/2023"
+  },
+  {
+    "id": "3f488952-a9e6-4310-8fb2-599b3b0763a5",
+    "storeName": "Parker Inc",
+    "type": "Bank Account",
+    "amount": 938,
+    "date": "08/13/2022"
+  },
+  {
+    "id": "25505172-3550-4c1d-a98a-ce10e009dfe9",
+    "storeName": "Kunde Group",
+    "type": "Cash",
+    "amount": 80,
+    "date": "04/03/2023"
+  },
+  {
+    "id": "d1de93ff-f88a-4e5d-bbff-94b032fd9281",
+    "storeName": "Kuvalis-Wolff",
+    "type": "Bank Account",
+    "amount": 975,
+    "date": "02/18/2023"
+  },
+  {
+    "id": "fcaf45b5-fdc5-4ba1-ad88-ff38dd66c34d",
+    "storeName": "Frami-Crist",
+    "type": "Bank Account",
+    "amount": 864,
+    "date": "07/03/2023"
+  },
+  {
+    "id": "79902959-3c2c-4931-8d7d-54805ce9801a",
+    "storeName": "Waters-Block",
+    "type": "Bank Account",
+    "amount": 916,
+    "date": "01/25/2022"
+  },
+  {
+    "id": "9aa82e03-f49a-4f33-9205-1c00bf5a9aab",
+    "storeName": "Howe-Grimes",
+    "type": "Bank Account",
+    "amount": 1280,
+    "date": "05/08/2023"
+  },
+  {
+    "id": "d4f91094-6675-4f09-b2fe-3a6e8652057b",
+    "storeName": "Langosh Group",
+    "type": "Bank Account",
+    "amount": 756,
+    "date": "04/11/2022"
+  },
+  {
+    "id": "346a4ca0-810a-4872-8020-a50a3d933151",
+    "storeName": "Will Inc",
+    "type": "Bank Account",
+    "amount": 811,
+    "date": "04/21/2022"
+  },
+  {
+    "id": "6c48b423-9c57-42be-8474-180ea06c46b4",
+    "storeName": "Bahringer, Denesik and Muller",
+    "type": "Bank Account",
+    "amount": 946,
+    "date": "10/12/2023"
+  },
+  {
+    "id": "857eacda-d33c-489d-ab36-896b4cb165fe",
+    "storeName": "Hauck, Goodwin and Kreiger",
+    "type": "Bank Account",
+    "amount": 978,
+    "date": "05/14/2022"
+  },
+  {
+    "id": "a22d75ef-8689-47f2-82d0-0136c642e22c",
+    "storeName": "Bechtelar, Klocko and Effertz",
+    "type": "Bank Account",
+    "amount": 641,
+    "date": "04/01/2023"
+  },
+  {
+    "id": "b23594ac-e09a-4026-aa73-c12eaac88b9d",
+    "storeName": "Lehner-Beahan",
+    "type": "Bank Account",
+    "amount": 1051,
+    "date": "02/27/2023"
+  },
+  {
+    "id": "8489d01f-a385-4500-be00-81600e1ac384",
+    "storeName": "Conroy, Erdman and Aufderhar",
+    "type": "Bank Account",
+    "amount": 841,
+    "date": "06/26/2023"
+  },
+  {
+    "id": "7bc6c919-8912-4376-88c4-a5e7ede25afe",
+    "storeName": "Schumm LLC",
+    "type": "Bank Account",
+    "amount": 1149,
+    "date": "08/21/2022"
+  },
+  {
+    "id": "9efeaf95-bf00-4f0e-9782-e29a073b96fc",
+    "storeName": "Tillman-Howe",
+    "type": "Bank Account",
+    "amount": 890,
+    "date": "11/22/2022"
+  },
+  {
+    "id": "b5d7c0f0-62ad-451c-818a-7e55bb39f708",
+    "storeName": "Borer, Glover and Hammes",
+    "type": "Bank Account",
+    "amount": 1109,
+    "date": "03/29/2022"
+  },
+  {
+    "id": "846057da-369f-4129-bbb9-fd522c39a1e4",
+    "storeName": "Yost, Ankunding and Quigley",
+    "type": "Bank Account",
+    "amount": 742,
+    "date": "12/11/2022"
+  },
+  {
+    "id": "0a364921-0e8a-4fcb-885c-4de1720b3a15",
+    "storeName": "Cremin, VonRueden and Terry",
+    "type": "Bank Account",
+    "amount": 157,
+    "date": "09/19/2022"
+  },
+  {
+    "id": "ce68d35b-2b5b-4148-9c27-689d9a9e7df7",
+    "storeName": "Spinka and Sons",
+    "type": "Bank Account",
+    "amount": 246,
+    "date": "10/05/2022"
+  },
+  {
+    "id": "e165ff9f-012b-4b56-9422-925607e7c5ff",
+    "storeName": "Schumm-Runte",
+    "type": "Bank Account",
+    "amount": 1047,
+    "date": "01/16/2022"
+  },
+  {
+    "id": "3f4b478d-d6ef-428e-9d02-20b24f49dc01",
+    "storeName": "Veum, Upton and Huel",
+    "type": "Bank Account",
+    "amount": 316,
+    "date": "05/30/2023"
+  },
+  {
+    "id": "7b90186a-7db1-4620-937a-4e61e450b9b5",
+    "storeName": "Steuber, Wolf and Balistreri",
+    "type": "Bank Account",
+    "amount": 1142,
+    "date": "01/04/2022"
+  },
+  {
+    "id": "47d711f0-18b7-482c-a260-edea507bd5e1",
+    "storeName": "Renner, Rohan and Parisian",
+    "type": "Bank Account",
+    "amount": 1012,
+    "date": "07/09/2023"
+  },
+  {
+    "id": "ab69357a-1dcd-4647-9f09-4830dbe71f4f",
+    "storeName": "Wiegand, Rogahn and Lueilwitz",
+    "type": "Bank Account",
+    "amount": 11,
+    "date": "11/23/2023"
+  },
+  {
+    "id": "3604f11b-83de-4d25-8260-8f382af09205",
+    "storeName": "Kerluke-Nader",
+    "type": "Bank Account",
+    "amount": 546,
+    "date": "10/13/2022"
+  },
+  {
+    "id": "3224ccd3-4757-4a8c-a008-d339e961bb7b",
+    "storeName": "Hammes LLC",
+    "type": "Bank Account",
+    "amount": 574,
+    "date": "02/18/2022"
+  },
+  {
+    "id": "a951f9cf-e2c0-487e-bd9b-325867ba8eb3",
+    "storeName": "Walter Group",
+    "type": "Cash",
+    "amount": 754,
+    "date": "05/17/2022"
+  },
+  {
+    "id": "1736972f-6f96-4a03-826a-93960e9cf141",
+    "storeName": "Rau, Schneider and Ratke",
+    "type": "Bank Account",
+    "amount": 572,
+    "date": "03/30/2022"
+  },
+  {
+    "id": "7690f763-5d11-4371-9867-98e0a70fbed0",
+    "storeName": "Ernser, Block and Cassin",
+    "type": "Bank Account",
+    "amount": 219,
+    "date": "03/28/2023"
+  },
+  {
+    "id": "a578af08-da02-4b28-b8c6-1994b2539b44",
+    "storeName": "Trantow-Mraz",
+    "type": "Bank Account",
+    "amount": 255,
+    "date": "10/17/2022"
+  },
+  {
+    "id": "98d65bd1-55e4-4319-8d95-a2bbad17f2b1",
+    "storeName": "Kulas-Schultz",
+    "type": "Bank Account",
+    "amount": 143,
+    "date": "11/25/2023"
+  },
+  {
+    "id": "64dcc202-88e5-4f48-ba58-6b5d2a453d29",
+    "storeName": "Murray, Gleichner and Kunze",
+    "type": "Bank Account",
+    "amount": 55,
+    "date": "09/10/2022"
+  },
+  {
+    "id": "eeb3aa5e-d6c6-419b-8b40-16355de27f2b",
+    "storeName": "Streich and Sons",
+    "type": "Bank Account",
+    "amount": 551,
+    "date": "06/26/2023"
+  },
+  {
+    "id": "96d72896-7d7d-4082-bf76-669fe306edc6",
+    "storeName": "Doyle and Sons",
+    "type": "Cash",
+    "amount": 907,
+    "date": "07/10/2022"
+  },
+  {
+    "id": "38017dfd-9cd1-4052-8df5-819a5993d36f",
+    "storeName": "Bosco-Rodriguez",
+    "type": "Bank Account",
+    "amount": 936,
+    "date": "02/13/2023"
+  },
+  {
+    "id": "ec628300-060a-4c85-ab0a-3855dd8d3088",
+    "storeName": "Graham-Howe",
+    "type": "Bank Account",
+    "amount": 410,
+    "date": "10/07/2023"
+  },
+  {
+    "id": "8acc42fd-699b-460a-ba34-5d55be06e84c",
+    "storeName": "Brown-Effertz",
+    "type": "Cash",
+    "amount": 1167,
+    "date": "03/03/2023"
+  },
+  {
+    "id": "5ffa46d7-e831-4e1d-a30a-89272dc9f661",
+    "storeName": "Rau Group",
+    "type": "Bank Account",
+    "amount": 454,
+    "date": "03/14/2023"
+  },
+  {
+    "id": "622efe88-94ea-48d4-aece-b88270cae57e",
+    "storeName": "Hilll, Wilderman and Bayer",
+    "type": "Bank Account",
+    "amount": 230,
+    "date": "10/30/2023"
+  },
+  {
+    "id": "26582ca6-a4e9-4929-a0d3-8a979dfe38a9",
+    "storeName": "Jones-Grimes",
+    "type": "Bank Account",
+    "amount": 485,
+    "date": "08/28/2022"
+  },
+  {
+    "id": "1350de25-2b52-4d9f-bd78-77bf7074dabf",
+    "storeName": "Watsica, Dibbert and Bernier",
+    "type": "Bank Account",
+    "amount": 569,
+    "date": "10/28/2023"
+  },
+  {
+    "id": "33acee60-acca-48c9-8016-a8c0e40db624",
+    "storeName": "Parker, Blick and Stracke",
+    "type": "Bank Account",
+    "amount": 284,
+    "date": "06/23/2022"
+  },
+  {
+    "id": "ff51f3be-3faa-4006-992a-607224e06c61",
+    "storeName": "Schuster and Sons",
+    "type": "Bank Account",
+    "amount": 250,
+    "date": "08/13/2022"
+  },
+  {
+    "id": "96ebfc4f-e025-4e69-a7ad-d953c4580d6d",
+    "storeName": "Satterfield LLC",
+    "type": "Bank Account",
+    "amount": 373,
+    "date": "04/01/2023"
+  },
+  {
+    "id": "007be4c5-421f-4782-be60-8c6b841862ba",
+    "storeName": "Schuster, Wolff and Ortiz",
+    "type": "Bank Account",
+    "amount": 1060,
+    "date": "01/15/2022"
+  },
+  {
+    "id": "bb137fa3-e203-45a7-a255-fe26fa328995",
+    "storeName": "Heller, Will and Hoeger",
+    "type": "Bank Account",
+    "amount": 865,
+    "date": "10/18/2022"
+  },
+  {
+    "id": "6686fb4b-7a3d-46bb-b749-a61cfc31875b",
+    "storeName": "Orn-Shanahan",
+    "type": "Cash",
+    "amount": 1258,
+    "date": "12/08/2022"
+  },
+  {
+    "id": "e03c7e4c-c6e1-41f8-99ee-829b7ff85400",
+    "storeName": "Breitenberg Inc",
+    "type": "Cash",
+    "amount": 761,
+    "date": "04/26/2022"
+  },
+  {
+    "id": "2eac3106-368d-4f45-8485-a04485f281ba",
+    "storeName": "Bayer-Schmitt",
+    "type": "Bank Account",
+    "amount": 405,
+    "date": "07/29/2022"
+  },
+  {
+    "id": "72d00a5e-18cc-4fe5-9343-dcaac4df1040",
+    "storeName": "Pacocha-MacGyver",
+    "type": "Bank Account",
+    "amount": 85,
+    "date": "05/07/2023"
+  },
+  {
+    "id": "a7b0f3c6-36d4-4975-a01e-c1de0ffe6421",
+    "storeName": "Botsford Group",
+    "type": "Bank Account",
+    "amount": 687,
+    "date": "01/20/2022"
+  },
+  {
+    "id": "5c1dd200-65da-4839-abd8-80fe593d4d5c",
+    "storeName": "Donnelly-Hirthe",
+    "type": "Bank Account",
+    "amount": 340,
+    "date": "04/25/2022"
+  },
+  {
+    "id": "6be25576-f65c-498b-a4c7-0c8625c938d6",
+    "storeName": "Schmitt Inc",
+    "type": "Bank Account",
+    "amount": 1244,
+    "date": "01/20/2023"
+  },
+  {
+    "id": "beed8817-a53a-4bf7-8a4e-1267f7087854",
+    "storeName": "Fay-Schulist",
+    "type": "Bank Account",
+    "amount": 1149,
+    "date": "10/12/2023"
+  },
+  {
+    "id": "d53ddf06-ebb6-4e52-a365-c5a238b9d47b",
+    "storeName": "Casper-Wolff",
+    "type": "Bank Account",
+    "amount": 250,
+    "date": "02/27/2022"
+  },
+  {
+    "id": "bce168eb-8c79-48ed-80b6-3f3092ee95c8",
+    "storeName": "Thompson, Yundt and Feest",
+    "type": "Bank Account",
+    "amount": 762,
+    "date": "05/29/2022"
+  },
+  {
+    "id": "7298e015-685d-462f-8b03-4d945b85e70c",
+    "storeName": "Botsford and Sons",
+    "type": "Cash",
+    "amount": 280,
+    "date": "06/30/2023"
+  },
+  {
+    "id": "fbf2f272-782c-4ee7-9b70-005edd4eaae6",
+    "storeName": "O'Keefe, Paucek and Koepp",
+    "type": "Bank Account",
+    "amount": 119,
+    "date": "12/19/2022"
+  },
+  {
+    "id": "b8b5c94e-4212-488e-84a8-8a4c429b552e",
+    "storeName": "Will and Sons",
+    "type": "Bank Account",
+    "amount": 71,
+    "date": "06/02/2023"
+  },
+  {
+    "id": "935d3bfb-b544-4f6c-8dd8-095f930a7406",
+    "storeName": "Koepp Inc",
+    "type": "Bank Account",
+    "amount": 1008,
+    "date": "11/10/2023"
+  },
+  {
+    "id": "396bc865-1327-47a1-8f0e-874f08ba28df",
+    "storeName": "Konopelski-Homenick",
+    "type": "Bank Account",
+    "amount": 45,
+    "date": "08/26/2023"
+  },
+  {
+    "id": "310bfb54-d8e2-4277-b262-d9de64dc0cc7",
+    "storeName": "Osinski and Sons",
+    "type": "Bank Account",
+    "amount": 1212,
+    "date": "10/04/2023"
+  },
+  {
+    "id": "9ba5e0de-da63-4ff1-984b-309b78eaa67e",
+    "storeName": "Goyette LLC",
+    "type": "Cash",
+    "amount": 843,
+    "date": "03/13/2023"
+  },
+  {
+    "id": "54beba5f-b1ac-480a-a642-e18af0fed1fa",
+    "storeName": "MacGyver, Doyle and Green",
+    "type": "Cash",
+    "amount": 371,
+    "date": "05/14/2022"
+  },
+  {
+    "id": "1bea2571-3bf2-4adb-bf08-6076e607b6c4",
+    "storeName": "Cummings Group",
+    "type": "Bank Account",
+    "amount": 799,
+    "date": "01/16/2022"
+  },
+  {
+    "id": "8522bc00-6a67-4579-81e9-270378f09c70",
+    "storeName": "Kovacek LLC",
+    "type": "Bank Account",
+    "amount": 586,
+    "date": "11/14/2023"
+  },
+  {
+    "id": "4b0f2ae6-bb47-4d9b-9204-42861bdb8cdc",
+    "storeName": "Torphy Group",
+    "type": "Bank Account",
+    "amount": 1008,
+    "date": "04/16/2022"
+  },
+  {
+    "id": "aa42186e-377c-4f5e-b57c-9c7765d4d291",
+    "storeName": "Nitzsche, Kihn and Wisoky",
+    "type": "Bank Account",
+    "amount": 640,
+    "date": "02/17/2023"
+  },
+  {
+    "id": "cefaff60-b59e-4f79-84c6-4f4dd7986ff7",
+    "storeName": "Kuhn, Ward and Zboncak",
+    "type": "Bank Account",
+    "amount": 106,
+    "date": "09/05/2023"
+  },
+  {
+    "id": "fbcc5efb-ee77-4876-9323-566faf442ae2",
+    "storeName": "Daniel LLC",
+    "type": "Bank Account",
+    "amount": 1181,
+    "date": "10/31/2022"
+  },
+  {
+    "id": "07272b66-30e5-429d-8e28-2fd8f3892d58",
+    "storeName": "Graham, Gerlach and McKenzie",
+    "type": "Bank Account",
+    "amount": 725,
+    "date": "01/18/2023"
+  },
+  {
+    "id": "1446bbc1-c1d7-4f31-809b-b341b619ce59",
+    "storeName": "Hermann-Renner",
+    "type": "Bank Account",
+    "amount": 335,
+    "date": "07/04/2022"
+  },
+  {
+    "id": "953f78c4-9d5e-4675-a786-0df3ef4c099a",
+    "storeName": "Weimann, Altenwerth and Gottlieb",
+    "type": "Bank Account",
+    "amount": 308,
+    "date": "03/10/2023"
+  },
+  {
+    "id": "ef877b02-15eb-48f4-818b-037e2bed4f1e",
+    "storeName": "Reichel, Champlin and Schaefer",
+    "type": "Bank Account",
+    "amount": 631,
+    "date": "08/20/2023"
+  },
+  {
+    "id": "56bef3ad-3883-4888-bdda-2114ab587a48",
+    "storeName": "Moen-Lynch",
+    "type": "Cash",
+    "amount": 559,
+    "date": "07/07/2023"
+  },
+  {
+    "id": "5f0970ab-1480-442c-beae-6c095e410c7f",
+    "storeName": "Veum Group",
+    "type": "Bank Account",
+    "amount": 541,
+    "date": "04/17/2022"
+  },
+  {
+    "id": "d6c3b9c2-f20d-40c3-9d9b-f7b682ce895c",
+    "storeName": "Parisian LLC",
+    "type": "Bank Account",
+    "amount": 988,
+    "date": "10/12/2023"
+  },
+  {
+    "id": "5507bb9a-9753-439a-98a0-c9608479248c",
+    "storeName": "Towne-Erdman",
+    "type": "Bank Account",
+    "amount": 1259,
+    "date": "08/02/2022"
+  },
+  {
+    "id": "ad306dd5-e5c1-42f3-9271-f4f77daaaf53",
+    "storeName": "Terry-Hand",
+    "type": "Bank Account",
+    "amount": 652,
+    "date": "01/17/2023"
+  },
+  {
+    "id": "83e7ce57-4f34-4ba5-b7fc-4a3a860a9e46",
+    "storeName": "O'Hara LLC",
+    "type": "Bank Account",
+    "amount": 1228,
+    "date": "08/11/2022"
+  },
+  {
+    "id": "6cdfe8c0-d22c-4a20-83dc-b36b9b248275",
+    "storeName": "Mueller and Sons",
+    "type": "Bank Account",
+    "amount": 632,
+    "date": "09/08/2023"
+  },
+  {
+    "id": "a61e07cf-8d50-47aa-9413-58e7c3caeb73",
+    "storeName": "Ortiz, Hessel and Schimmel",
+    "type": "Bank Account",
+    "amount": 890,
+    "date": "06/26/2022"
+  },
+  {
+    "id": "a4865cdc-91dd-465a-b282-fb2b9aabbbcb",
+    "storeName": "Heaney, Haley and Bode",
+    "type": "Bank Account",
+    "amount": 112,
+    "date": "06/14/2023"
+  },
+  {
+    "id": "055f5e3c-c82f-4cff-a27d-784accebce22",
+    "storeName": "Mertz, Hudson and Quigley",
+    "type": "Bank Account",
+    "amount": 1039,
+    "date": "05/27/2022"
+  },
+  {
+    "id": "f5f53f12-c42b-4535-9af2-c424707cc18d",
+    "storeName": "Sipes, Lind and Heidenreich",
+    "type": "Bank Account",
+    "amount": 120,
+    "date": "06/05/2023"
+  },
+  {
+    "id": "6bbb8695-8fcc-402e-9942-581395bad1b2",
+    "storeName": "Erdman, Goyette and Price",
+    "type": "Bank Account",
+    "amount": 790,
+    "date": "02/24/2023"
+  },
+  {
+    "id": "c57f9509-6473-4f32-9c73-b8a974ea9c50",
+    "storeName": "Watsica, Fadel and Gorczany",
+    "type": "Bank Account",
+    "amount": 1240,
+    "date": "01/14/2022"
+  },
+  {
+    "id": "f0d6d5ff-b971-483f-9372-aa57c8323cc9",
+    "storeName": "Cummerata, Dibbert and Koch",
+    "type": "Bank Account",
+    "amount": 385,
+    "date": "04/25/2022"
+  },
+  {
+    "id": "ad909bf9-68ec-43cd-990f-b873eeef406e",
+    "storeName": "Ullrich Inc",
+    "type": "Bank Account",
+    "amount": 1102,
+    "date": "05/21/2022"
+  },
+  {
+    "id": "f9d230e4-3da1-4809-a614-a438449049c3",
+    "storeName": "Kautzer LLC",
+    "type": "Bank Account",
+    "amount": 800,
+    "date": "08/23/2022"
+  },
+  {
+    "id": "d4d7c6eb-eaf7-4bfd-98dd-2e32394eef83",
+    "storeName": "Fisher Group",
+    "type": "Bank Account",
+    "amount": 877,
+    "date": "04/07/2023"
+  },
+  {
+    "id": "9b02da74-6c75-4114-851a-cf988988f449",
+    "storeName": "Parisian-Cormier",
+    "type": "Bank Account",
+    "amount": 1172,
+    "date": "05/30/2022"
+  },
+  {
+    "id": "fa720e30-6555-449d-a65a-bb56e316e075",
+    "storeName": "Friesen, Muller and Vandervort",
+    "type": "Bank Account",
+    "amount": 668,
+    "date": "10/17/2022"
+  },
+  {
+    "id": "4c5c478e-783a-4709-97fe-565e5defac47",
+    "storeName": "Carter-Bogan",
+    "type": "Bank Account",
+    "amount": 429,
+    "date": "11/06/2022"
+  },
+  {
+    "id": "ae0c7706-03fe-4150-b4c2-d324d49196f9",
+    "storeName": "Schowalter-Bailey",
+    "type": "Cash",
+    "amount": 263,
+    "date": "08/04/2022"
+  },
+  {
+    "id": "62ca77a8-58a4-471d-86f9-21197cdacf36",
+    "storeName": "Block, Jenkins and Sanford",
+    "type": "Bank Account",
+    "amount": 721,
+    "date": "06/04/2023"
+  },
+  {
+    "id": "b115c549-6352-44cd-9758-518f5525e816",
+    "storeName": "Zemlak LLC",
+    "type": "Bank Account",
+    "amount": 939,
+    "date": "11/20/2023"
+  },
+  {
+    "id": "ed3e1559-0592-40b0-9910-2ad944d9c551",
+    "storeName": "Kris, Dickinson and Nitzsche",
+    "type": "Bank Account",
+    "amount": 176,
+    "date": "07/05/2022"
+  },
+  {
+    "id": "45c6c5e8-ef4f-49d5-86c3-a6d4d153cab0",
+    "storeName": "Towne-Heaney",
+    "type": "Bank Account",
+    "amount": 588,
+    "date": "11/05/2023"
+  },
+  {
+    "id": "1c126bb9-5fdf-4a14-8b54-6b6b07420e11",
+    "storeName": "Lang-Walter",
+    "type": "Bank Account",
+    "amount": 1131,
+    "date": "02/17/2022"
+  },
+  {
+    "id": "873744f2-c57d-48f3-9bdb-db14a54221bf",
+    "storeName": "Rau, Wyman and Hauck",
+    "type": "Bank Account",
+    "amount": 653,
+    "date": "03/21/2022"
+  },
+  {
+    "id": "e31d9cf8-f2c2-4079-bd7e-79a70d750fc2",
+    "storeName": "Deckow Inc",
+    "type": "Bank Account",
+    "amount": 105,
+    "date": "08/15/2022"
+  },
+  {
+    "id": "f5de4005-a073-4b4b-8791-33bc4e54c926",
+    "storeName": "Pouros, Padberg and Rowe",
+    "type": "Bank Account",
+    "amount": 807,
+    "date": "09/23/2022"
+  },
+  {
+    "id": "ca462503-b547-4c79-b7b1-ad2aeb29a94e",
+    "storeName": "Stark-Ruecker",
+    "type": "Bank Account",
+    "amount": 188,
+    "date": "12/28/2022"
+  },
+  {
+    "id": "cebba3cf-3bcb-47d9-b7e0-8c3349b0279b",
+    "storeName": "Wisozk LLC",
+    "type": "Bank Account",
+    "amount": 1097,
+    "date": "03/19/2022"
+  },
+  {
+    "id": "9311a9bb-400c-4df6-a7b0-bbc58700cc12",
+    "storeName": "Muller-Lesch",
+    "type": "Bank Account",
+    "amount": 787,
+    "date": "05/15/2022"
+  },
+  {
+    "id": "0c0419e3-7560-46e7-b2d1-39d04281c0b7",
+    "storeName": "Hilll-Wiegand",
+    "type": "Cash",
+    "amount": 210,
+    "date": "02/12/2023"
+  },
+  {
+    "id": "5a40a91d-220d-4374-bc51-61ca88f39036",
+    "storeName": "Toy and Sons",
+    "type": "Bank Account",
+    "amount": 1004,
+    "date": "01/28/2022"
+  },
+  {
+    "id": "dfcae27b-c075-4e3a-8892-b4b1ce2a54da",
+    "storeName": "Cremin and Sons",
+    "type": "Bank Account",
+    "amount": 944,
+    "date": "12/13/2022"
+  },
+  {
+    "id": "9a762f2f-4b36-4669-96fd-5d31982ddb8c",
+    "storeName": "Strosin, Lueilwitz and Kuvalis",
+    "type": "Bank Account",
+    "amount": 1042,
+    "date": "05/01/2023"
+  },
+  {
+    "id": "d428d4d9-f22a-4af0-9507-09a76140c9c2",
+    "storeName": "Gottlieb Group",
+    "type": "Bank Account",
+    "amount": 645,
+    "date": "08/24/2023"
+  },
+  {
+    "id": "40dea10e-99b1-4a88-88a9-69fa7e50306f",
+    "storeName": "Fadel and Sons",
+    "type": "Bank Account",
+    "amount": 1148,
+    "date": "05/04/2022"
+  },
+  {
+    "id": "0eccdf96-e2e7-4a77-befb-9c6f4353cd23",
+    "storeName": "Marquardt-Howell",
+    "type": "Bank Account",
+    "amount": 295,
+    "date": "10/26/2022"
+  },
+  {
+    "id": "ee8855c7-a47b-40fd-bfec-15c1c0003aff",
+    "storeName": "Ankunding-Gutmann",
+    "type": "Bank Account",
+    "amount": 1213,
+    "date": "11/26/2023"
+  },
+  {
+    "id": "bc8a34b4-15f3-412f-b8f5-a19ae97a1a7e",
+    "storeName": "Deckow, Quigley and Wilderman",
+    "type": "Bank Account",
+    "amount": 1120,
+    "date": "11/12/2023"
+  },
+  {
+    "id": "ff996bc4-bcfd-4857-9af9-f0a8fa25bddf",
+    "storeName": "Williamson, Farrell and Lynch",
+    "type": "Bank Account",
+    "amount": 740,
+    "date": "09/28/2022"
+  },
+  {
+    "id": "c5a2798c-062d-4264-bca2-fa8df5495828",
+    "storeName": "Powlowski Group",
+    "type": "Bank Account",
+    "amount": 1243,
+    "date": "06/12/2023"
+  },
+  {
+    "id": "d6a764da-86f2-4d1f-ae30-0c10c797cb40",
+    "storeName": "Haley Inc",
+    "type": "Bank Account",
+    "amount": 373,
+    "date": "02/15/2023"
+  },
+  {
+    "id": "ccd89deb-cbaf-4108-bc0a-7bda465ed984",
+    "storeName": "Kertzmann-Tromp",
+    "type": "Bank Account",
+    "amount": 339,
+    "date": "06/13/2023"
+  },
+  {
+    "id": "94aaa6a1-a3c8-429f-893d-e3f1597ee00b",
+    "storeName": "Wolf and Sons",
+    "type": "Bank Account",
+    "amount": 84,
+    "date": "06/11/2023"
+  },
+  {
+    "id": "dae058cc-f182-4c93-ae75-1fcb5132dd70",
+    "storeName": "Ritchie Inc",
+    "type": "Bank Account",
+    "amount": 921,
+    "date": "11/09/2023"
+  },
+  {
+    "id": "6855737c-93df-4b9a-96ab-727fe595aad4",
+    "storeName": "Hansen, Denesik and Hills",
+    "type": "Cash",
+    "amount": 943,
+    "date": "11/25/2023"
+  },
+  {
+    "id": "d9bb2d95-9812-42f8-a767-8673e6585d96",
+    "storeName": "Mitchell LLC",
+    "type": "Bank Account",
+    "amount": 459,
+    "date": "06/10/2023"
+  },
+  {
+    "id": "2c81cdac-9780-4a03-83f9-304f2ad36887",
+    "storeName": "Simonis Group",
+    "type": "Bank Account",
+    "amount": 1086,
+    "date": "03/07/2022"
+  },
+  {
+    "id": "0f614b0e-7830-4426-a672-c906b94070e7",
+    "storeName": "Schmeler-Parisian",
+    "type": "Bank Account",
+    "amount": 1009,
+    "date": "09/28/2023"
+  },
+  {
+    "id": "0923b9d7-9ce3-46ca-bbfb-abc0f2978e96",
+    "storeName": "Schmeler LLC",
+    "type": "Bank Account",
+    "amount": 794,
+    "date": "05/30/2022"
+  },
+  {
+    "id": "fa270f10-9295-4c4a-900f-d6c182775251",
+    "storeName": "Kling-Padberg",
+    "type": "Bank Account",
+    "amount": 1010,
+    "date": "05/09/2023"
+  },
+  {
+    "id": "362176ef-94d7-46e2-bc3f-ed6f9faa6a7f",
+    "storeName": "Erdman LLC",
+    "type": "Bank Account",
+    "amount": 917,
+    "date": "08/09/2023"
+  },
+  {
+    "id": "cbbfbd2e-1554-4b69-82e8-50f496f16223",
+    "storeName": "Dickens-Roob",
+    "type": "Bank Account",
+    "amount": 573,
+    "date": "03/02/2022"
+  },
+  {
+    "id": "6fa772bb-7e86-410c-aeba-edf6c36f37a8",
+    "storeName": "Herzog Inc",
+    "type": "Cash",
+    "amount": 89,
+    "date": "08/28/2022"
+  },
+  {
+    "id": "bec6bee7-ead1-4d75-b2a4-0874cc84a50e",
+    "storeName": "Hyatt, Osinski and Heller",
+    "type": "Cash",
+    "amount": 266,
+    "date": "06/11/2023"
+  },
+  {
+    "id": "37f337bc-fe2f-459e-9510-6e5a56c51045",
+    "storeName": "Ledner, Monahan and Romaguera",
+    "type": "Bank Account",
+    "amount": 1266,
+    "date": "06/12/2023"
+  },
+  {
+    "id": "af93297d-73e6-473c-bd28-4dcbf5f65464",
+    "storeName": "Hyatt, Homenick and Pouros",
+    "type": "Cash",
+    "amount": 637,
+    "date": "09/23/2022"
+  },
+  {
+    "id": "f0e81311-8361-431e-b6fb-28224d830872",
+    "storeName": "Hoppe Group",
+    "type": "Bank Account",
+    "amount": 420,
+    "date": "09/15/2023"
+  },
+  {
+    "id": "657c18c6-dc33-427b-a25e-81b4a73764a4",
+    "storeName": "Rowe-MacGyver",
+    "type": "Bank Account",
+    "amount": 29,
+    "date": "07/14/2023"
+  },
+  {
+    "id": "78443fed-baa9-478c-8f37-c397d0b1fb3a",
+    "storeName": "Grady Group",
+    "type": "Bank Account",
+    "amount": 261,
+    "date": "02/01/2022"
+  },
+  {
+    "id": "7232d700-8511-4785-af85-b0740b6d333e",
+    "storeName": "Bosco Group",
+    "type": "Bank Account",
+    "amount": 1184,
+    "date": "09/06/2023"
+  },
+  {
+    "id": "8e9e0005-de61-42a8-bd43-2f4ee9dd3868",
+    "storeName": "Shields, Schiller and Roberts",
+    "type": "Bank Account",
+    "amount": 353,
+    "date": "04/07/2023"
+  },
+  {
+    "id": "3da34725-696c-447c-a41f-f68cc23dc865",
+    "storeName": "Weber, Volkman and Schneider",
+    "type": "Bank Account",
+    "amount": 1081,
+    "date": "09/23/2023"
+  },
+  {
+    "id": "b6cf7f92-9440-4a23-ab2f-951da9d6c798",
+    "storeName": "Stiedemann, Heathcote and Bauch",
+    "type": "Bank Account",
+    "amount": 605,
+    "date": "08/17/2022"
+  },
+  {
+    "id": "482c9dec-47b9-4f86-b63d-3f4513a399a4",
+    "storeName": "Lockman-Hirthe",
+    "type": "Bank Account",
+    "amount": 797,
+    "date": "07/31/2023"
+  },
+  {
+    "id": "6afbcb86-b693-4bdb-bf66-0f5c4a238b93",
+    "storeName": "Wiza and Sons",
+    "type": "Bank Account",
+    "amount": 649,
+    "date": "02/10/2022"
+  },
+  {
+    "id": "637b6d3a-0a23-40b2-bc5d-00787cf846c3",
+    "storeName": "Reinger Inc",
+    "type": "Bank Account",
+    "amount": 690,
+    "date": "07/08/2023"
+  },
+  {
+    "id": "cb846467-57ac-41c5-8338-1e30212430ea",
+    "storeName": "Mohr-Collier",
+    "type": "Bank Account",
+    "amount": 880,
+    "date": "03/18/2023"
+  },
+  {
+    "id": "d1e05b45-d232-4454-a007-fa51c274215d",
+    "storeName": "Fahey and Sons",
+    "type": "Bank Account",
+    "amount": 193,
+    "date": "07/31/2022"
+  },
+  {
+    "id": "c41d7aff-4d60-41e9-b728-e235f36dd3ab",
+    "storeName": "Kris-Brakus",
+    "type": "Bank Account",
+    "amount": 289,
+    "date": "03/21/2023"
+  },
+  {
+    "id": "2d4524eb-a9a6-41ba-b819-5e2665225022",
+    "storeName": "Miller-Wiegand",
+    "type": "Bank Account",
+    "amount": 769,
+    "date": "01/16/2023"
+  },
+  {
+    "id": "02c617de-cbad-4d99-8a12-e014f20b9468",
+    "storeName": "Bauch, Jenkins and Stroman",
+    "type": "Bank Account",
+    "amount": 888,
+    "date": "08/17/2022"
+  },
+  {
+    "id": "b703710e-7cad-4f02-b779-d97a51c35864",
+    "storeName": "Herzog, Auer and Roberts",
+    "type": "Bank Account",
+    "amount": 136,
+    "date": "10/22/2023"
+  },
+  {
+    "id": "f4a355cf-0fe3-4943-b7dc-e797da1a0a12",
+    "storeName": "Botsford Group",
+    "type": "Cash",
+    "amount": 1263,
+    "date": "08/09/2022"
+  },
+  {
+    "id": "f4d5146b-d4b3-44ce-8c80-0b8b0c217a2d",
+    "storeName": "Reilly, MacGyver and Nitzsche",
+    "type": "Bank Account",
+    "amount": 1125,
+    "date": "10/11/2022"
+  },
+  {
+    "id": "552de67d-a009-4acf-8fd7-a7c789e5e270",
+    "storeName": "Rohan-Rippin",
+    "type": "Bank Account",
+    "amount": 314,
+    "date": "03/08/2023"
+  },
+  {
+    "id": "47c3aaa6-bfca-4a2b-894b-e5c490f8777e",
+    "storeName": "Daugherty LLC",
+    "type": "Bank Account",
+    "amount": 292,
+    "date": "09/11/2022"
+  },
+  {
+    "id": "e22aa0a0-5425-4cfd-a489-251e9d6fa5a7",
+    "storeName": "Wilderman, Kovacek and Rowe",
+    "type": "Bank Account",
+    "amount": 799,
+    "date": "03/13/2022"
+  },
+  {
+    "id": "b451a8e5-7d94-45e1-aead-a549153273ad",
+    "storeName": "Kirlin, Fadel and Emard",
+    "type": "Bank Account",
+    "amount": 626,
+    "date": "11/15/2023"
+  },
+  {
+    "id": "1aa42c2b-8de3-4372-a2cf-8079e7a2b36d",
+    "storeName": "Corwin and Sons",
+    "type": "Bank Account",
+    "amount": 500,
+    "date": "09/12/2023"
+  },
+  {
+    "id": "edab9776-e744-4620-a284-cf6cc96d3e8d",
+    "storeName": "Weissnat-Raynor",
+    "type": "Bank Account",
+    "amount": 899,
+    "date": "10/18/2023"
+  },
+  {
+    "id": "ae087dff-81ac-40a9-aac5-a93107165f06",
+    "storeName": "Denesik-Metz",
+    "type": "Bank Account",
+    "amount": 951,
+    "date": "09/21/2023"
+  },
+  {
+    "id": "23080577-8941-49c7-a21c-04f546d2990d",
+    "storeName": "Aufderhar, Powlowski and Marks",
+    "type": "Bank Account",
+    "amount": 901,
+    "date": "07/08/2023"
+  },
+  {
+    "id": "e625163c-b3ce-4ca4-80fb-e6f78bbed9cc",
+    "storeName": "Green Group",
+    "type": "Bank Account",
+    "amount": 839,
+    "date": "12/17/2022"
+  },
+  {
+    "id": "30cc4c0a-2000-4ea8-a258-3d89de87f710",
+    "storeName": "Sipes Inc",
+    "type": "Bank Account",
+    "amount": 518,
+    "date": "06/20/2022"
+  },
+  {
+    "id": "8e763c1c-32cb-449d-a0d3-ff1c57fd4452",
+    "storeName": "Torphy-Moen",
+    "type": "Bank Account",
+    "amount": 182,
+    "date": "10/10/2023"
+  },
+  {
+    "id": "865a6b51-3215-45d4-9cee-115b4833cac7",
+    "storeName": "Friesen Inc",
+    "type": "Bank Account",
+    "amount": 968,
+    "date": "06/11/2023"
+  },
+  {
+    "id": "06a4e1a3-e6da-4c89-b100-40ec2aa07d5d",
+    "storeName": "Dibbert-Runolfsdottir",
+    "type": "Bank Account",
+    "amount": 329,
+    "date": "08/03/2023"
+  },
+  {
+    "id": "77e601d3-4365-41ef-adda-384646c0d8a2",
+    "storeName": "Walter, Krajcik and Blick",
+    "type": "Bank Account",
+    "amount": 1285,
+    "date": "01/17/2023"
+  },
+  {
+    "id": "6f44ff0e-0908-40a8-992a-a2a9b3afbf55",
+    "storeName": "Heathcote-Steuber",
+    "type": "Bank Account",
+    "amount": 632,
+    "date": "09/09/2022"
+  },
+  {
+    "id": "241472e0-2dcd-4a43-9cf6-fceab2235ccc",
+    "storeName": "Mosciski-Volkman",
+    "type": "Bank Account",
+    "amount": 29,
+    "date": "03/13/2023"
+  },
+  {
+    "id": "4b408d1e-f543-48a6-a99b-33594e45bee9",
+    "storeName": "Ruecker Group",
+    "type": "Bank Account",
+    "amount": 968,
+    "date": "10/31/2023"
+  },
+  {
+    "id": "d9698201-2311-473a-be60-4d06d4050856",
+    "storeName": "Boyer, Turcotte and Batz",
+    "type": "Bank Account",
+    "amount": 570,
+    "date": "01/31/2023"
+  },
+  {
+    "id": "4f981fbb-324d-4f24-af2f-61a0ee3fea31",
+    "storeName": "Kohler, Homenick and Kozey",
+    "type": "Bank Account",
+    "amount": 477,
+    "date": "04/29/2023"
+  },
+  {
+    "id": "570f2d7b-8d69-4653-9a83-993205e22c70",
+    "storeName": "Swift, Boyer and Watsica",
+    "type": "Bank Account",
+    "amount": 360,
+    "date": "10/22/2022"
+  },
+  {
+    "id": "2dd3debe-5020-4870-a87a-10a242c836ca",
+    "storeName": "Haley, Corwin and Nienow",
+    "type": "Bank Account",
+    "amount": 482,
+    "date": "10/09/2022"
+  },
+  {
+    "id": "b49585d1-55c0-41ff-8777-9b8762a8e853",
+    "storeName": "Kerluke, Braun and Kertzmann",
+    "type": "Bank Account",
+    "amount": 742,
+    "date": "04/13/2022"
+  },
+  {
+    "id": "3332add0-bd9f-4af6-a8aa-6fdab7765fa0",
+    "storeName": "Leannon-Blanda",
+    "type": "Bank Account",
+    "amount": 523,
+    "date": "01/01/2023"
+  },
+  {
+    "id": "f50fc652-f650-4bfe-af9f-e319d55835ec",
+    "storeName": "Halvorson-Wolf",
+    "type": "Bank Account",
+    "amount": 442,
+    "date": "09/07/2023"
+  },
+  {
+    "id": "6a4a50ee-f0b7-4918-99bc-24232315134f",
+    "storeName": "Cronin and Sons",
+    "type": "Bank Account",
+    "amount": 459,
+    "date": "05/05/2023"
+  },
+  {
+    "id": "16b9bcea-ad67-4a82-b83b-f16181e9ed6a",
+    "storeName": "Cartwright, Kub and Rogahn",
+    "type": "Bank Account",
+    "amount": 10,
+    "date": "05/01/2022"
+  },
+  {
+    "id": "310daa89-4b5e-4fad-ae0f-dcd77d9a07b6",
+    "storeName": "Rice Inc",
+    "type": "Bank Account",
+    "amount": 1190,
+    "date": "01/23/2022"
+  },
+  {
+    "id": "826ad661-c652-4b3c-84b0-b0279269ec25",
+    "storeName": "Marks-Jacobs",
+    "type": "Bank Account",
+    "amount": 383,
+    "date": "01/25/2022"
+  },
+  {
+    "id": "b7ccac53-5199-41f6-afe3-bd797dcf6c45",
+    "storeName": "Johnston-Stiedemann",
+    "type": "Bank Account",
+    "amount": 860,
+    "date": "11/01/2022"
+  },
+  {
+    "id": "fca2cf9d-3895-487d-baa0-4e814734c7bd",
+    "storeName": "Kiehn, Dare and Greenfelder",
+    "type": "Bank Account",
+    "amount": 380,
+    "date": "08/07/2023"
+  },
+  {
+    "id": "b094a637-88c2-4fc7-ba6c-f05ed9aa1791",
+    "storeName": "Kuhn Inc",
+    "type": "Bank Account",
+    "amount": 367,
+    "date": "05/08/2023"
+  },
+  {
+    "id": "5660d4bd-2e2a-4832-9183-f78dfde99f29",
+    "storeName": "Gerhold-Nienow",
+    "type": "Cash",
+    "amount": 419,
+    "date": "06/30/2022"
+  },
+  {
+    "id": "93fcc92f-efb6-4b94-bab5-8bc8d8206e11",
+    "storeName": "Bogisich, Mante and Frami",
+    "type": "Bank Account",
+    "amount": 262,
+    "date": "10/12/2022"
+  },
+  {
+    "id": "f73cc688-9b32-4f9a-a87d-d068b8e9c80c",
+    "storeName": "Schuppe Group",
+    "type": "Bank Account",
+    "amount": 131,
+    "date": "08/15/2022"
+  },
+  {
+    "id": "19d15fae-16c6-49d9-88bb-a4ef6752f45e",
+    "storeName": "Farrell Inc",
+    "type": "Cash",
+    "amount": 735,
+    "date": "11/02/2022"
+  },
+  {
+    "id": "4ba4273b-c4ae-4e40-a87c-45b3b5706cb2",
+    "storeName": "Bayer, Bogisich and Keebler",
+    "type": "Bank Account",
+    "amount": 940,
+    "date": "07/14/2022"
+  },
+  {
+    "id": "0ebb3b37-ca7c-45df-81fd-23ef194d83c2",
+    "storeName": "Dibbert-Pacocha",
+    "type": "Cash",
+    "amount": 411,
+    "date": "02/07/2023"
+  },
+  {
+    "id": "6ed9316e-3646-4b2c-ae5e-5af82522b7dc",
+    "storeName": "Emard Group",
+    "type": "Bank Account",
+    "amount": 599,
+    "date": "01/13/2022"
+  },
+  {
+    "id": "780296b3-dd77-4be7-a870-4d1c80facee1",
+    "storeName": "Koss LLC",
+    "type": "Bank Account",
+    "amount": 925,
+    "date": "01/08/2023"
+  },
+  {
+    "id": "0e1db7fc-b48b-4edf-8beb-31d50ae60d74",
+    "storeName": "Lemke LLC",
+    "type": "Bank Account",
+    "amount": 1050,
+    "date": "10/12/2023"
+  },
+  {
+    "id": "e4e31019-0e7e-43d9-bfb6-533f38e77996",
+    "storeName": "Howe, Hoppe and Feil",
+    "type": "Bank Account",
+    "amount": 224,
+    "date": "01/08/2022"
+  },
+  {
+    "id": "8d79238f-9cef-42bf-8dad-413ec3fb6c12",
+    "storeName": "Herzog, Witting and Corwin",
+    "type": "Bank Account",
+    "amount": 1103,
+    "date": "05/17/2023"
+  },
+  {
+    "id": "6c0e32ba-8480-41dd-a2cd-3c80575df94d",
+    "storeName": "Bradtke LLC",
+    "type": "Bank Account",
+    "amount": 552,
+    "date": "04/09/2023"
+  },
+  {
+    "id": "ea3ccddd-50e7-480c-8ca7-6cdde331c70c",
+    "storeName": "Windler-Klein",
+    "type": "Bank Account",
+    "amount": 619,
+    "date": "03/01/2022"
+  },
+  {
+    "id": "97665952-ba73-405c-924e-796d50fbd243",
+    "storeName": "Torp Group",
+    "type": "Bank Account",
+    "amount": 276,
+    "date": "09/18/2022"
+  },
+  {
+    "id": "0c467a45-09e8-4cef-b416-6b419222467f",
+    "storeName": "Batz, Auer and Carter",
+    "type": "Bank Account",
+    "amount": 872,
+    "date": "02/28/2023"
+  },
+  {
+    "id": "e53615d1-63fd-483b-a08b-c61886fde6e3",
+    "storeName": "Cormier, Walsh and Nader",
+    "type": "Bank Account",
+    "amount": 38,
+    "date": "06/17/2023"
+  },
+  {
+    "id": "78e75f27-431b-4367-a7f7-51242d012b0c",
+    "storeName": "Raynor-VonRueden",
+    "type": "Bank Account",
+    "amount": 906,
+    "date": "08/27/2022"
+  },
+  {
+    "id": "8ab6d566-b93c-4c13-9129-93922f626b08",
+    "storeName": "Veum, Bergnaum and Boyle",
+    "type": "Bank Account",
+    "amount": 1231,
+    "date": "04/11/2022"
+  },
+  {
+    "id": "931c0aaa-b9c9-46d1-8152-fb0be3bf8a4d",
+    "storeName": "Towne-Bauch",
+    "type": "Bank Account",
+    "amount": 1221,
+    "date": "05/21/2022"
+  },
+  {
+    "id": "2f5d55de-aa93-4262-b289-8f2f12ac9bb1",
+    "storeName": "Smith, Moore and Gulgowski",
+    "type": "Bank Account",
+    "amount": 478,
+    "date": "04/04/2022"
+  },
+  {
+    "id": "ebee5a02-f294-48f8-9429-244935007029",
+    "storeName": "Sauer, Metz and Lakin",
+    "type": "Cash",
+    "amount": 30,
+    "date": "10/09/2022"
+  },
+  {
+    "id": "68f93181-2b39-42af-b2dd-b6c93629a5f8",
+    "storeName": "Farrell-Weissnat",
+    "type": "Bank Account",
+    "amount": 94,
+    "date": "05/28/2022"
+  },
+  {
+    "id": "8a0e63cb-a51f-4953-a06b-ba2fd95f9299",
+    "storeName": "McLaughlin, Anderson and Dickinson",
+    "type": "Bank Account",
+    "amount": 847,
+    "date": "01/28/2022"
+  },
+  {
+    "id": "2c3ed4ce-72ec-4eb9-8215-737033e20819",
+    "storeName": "Conroy and Sons",
+    "type": "Bank Account",
+    "amount": 1067,
+    "date": "07/09/2022"
+  },
+  {
+    "id": "1fb721c1-85a3-4f72-9777-7d4598f1c485",
+    "storeName": "Huels, Kertzmann and Blick",
+    "type": "Bank Account",
+    "amount": 672,
+    "date": "01/25/2023"
+  },
+  {
+    "id": "618003e5-a440-4e68-8d01-95f6cae1f79e",
+    "storeName": "Rempel-Williamson",
+    "type": "Bank Account",
+    "amount": 908,
+    "date": "05/02/2023"
+  },
+  {
+    "id": "479a39a4-c282-41f5-84b6-2c5210497b52",
+    "storeName": "Huels-Hand",
+    "type": "Bank Account",
+    "amount": 316,
+    "date": "01/12/2023"
+  },
+  {
+    "id": "dde34570-a45f-42ed-9e85-546b86088042",
+    "storeName": "Rowe-Bahringer",
+    "type": "Cash",
+    "amount": 614,
+    "date": "07/05/2023"
+  },
+  {
+    "id": "4aeba6e7-2746-4da3-b359-fd4fda225c10",
+    "storeName": "Wuckert, Bogisich and Bechtelar",
+    "type": "Bank Account",
+    "amount": 470,
+    "date": "01/13/2023"
+  }
+]
