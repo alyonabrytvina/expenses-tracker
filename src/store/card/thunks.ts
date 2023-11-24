@@ -5,4 +5,3 @@ export const fetchCardsThunk = createAsyncThunk(
   'cards/fetchAll',
   async () => cards,
 );
-

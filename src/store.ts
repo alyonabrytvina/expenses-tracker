@@ -11,7 +11,6 @@ export const store = configureStore({
     transaction: transactionReducer,
     notification: notificationReducer,
     user: userReducer,
-
   },
 });
 
