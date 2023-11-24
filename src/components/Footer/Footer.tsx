@@ -1,41 +1,17 @@
-import React from 'react';
-import { BottomNavigation, IconButton, styled } from '@mui/material';
-import HomeIcon from '@mui/icons-material/Home';
-import CreditCardIcon from '@mui/icons-material/CreditCard';
-import CalendarTodayIcon from '@mui/icons-material/CalendarToday';
-import SettingsIcon from '@mui/icons-material/Settings';
-import AddIcon from '@mui/icons-material/Add';
+import React, { FC } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { ROUTES } from '../../constants';
+import {
+  StyledBottomNavigation, StyledCreateAddIcon,
+  StyledCreateIconButton,
+  StyledIconButton,
+} from './styles';
+import { ReactComponent as SettingsIcon } from '../../assets/static/images/icons/setting-icon.svg';
+import { ReactComponent as CalendarIcon } from '../../assets/static/images/icons/calendar-icon.svg';
+import { ReactComponent as CreditCardIcon } from '../../assets/static/images/icons/credit-card-icon.svg';
+import { ReactComponent as HomeIcon } from '../../assets/static/images/icons/home-icon.svg';
 
-const StyledBottomNavigation = styled(BottomNavigation)(({ theme }) => ({
-  background: theme.palette.background.default,
-  top: 'auto',
-  bottom: 0,
-  height: 'auto',
-  position: 'fixed',
-  display: 'flex',
-  justifyContent: 'space-between',
-  width: '100%',
-  padding: `${theme.spacing(2.5)}}`,
-}));
-
-const StyledCreateIconButton = styled(IconButton)(({ theme }) => ({
-  background: theme.palette.primary.main,
-  height: '50px',
-  width: '50px',
-  borderRadius: '100%',
-}));
-
-const StyledIconButton = styled(IconButton)<{ selected?: boolean }>(({ theme, selected }) => ({
-  color: selected ? theme.palette.primary.main : 'grey',
-}));
-
-const StyledCreateAddIcon = styled(AddIcon)(({ theme }) => ({
-  color: theme.palette.common.white,
-}));
-
-export function Footer() {
+export const Footer: FC = () => {
   const location = useLocation();
 
   return (
@@ -54,11 +30,11 @@ export function Footer() {
         <StyledCreateAddIcon />
       </StyledCreateIconButton>
       <StyledIconButton>
-        <CalendarTodayIcon />
+        <CalendarIcon />
       </StyledIconButton>
       <StyledIconButton>
         <SettingsIcon />
       </StyledIconButton>
     </StyledBottomNavigation>
   );
-}
+};
